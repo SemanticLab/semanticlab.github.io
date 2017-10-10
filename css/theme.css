@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i');
+
+* {
+    font-family: "Montserrat", Verdana, sans-serif;
+}
+
 body {
     padding-top: 60px;
     padding-bottom: 60px;
