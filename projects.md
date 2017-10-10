@@ -4,6 +4,8 @@ We envision DADAlytics to be a modular tool that performs supervised entity extr
 ### Support
 + Institute of Museum and Library Services (IMLS), National Leadership Grant for Libraries (2017)
 
+---
+
 # [Linked Jazz](https://linkedjazz.org/)
 Linked Jazz is a research project investigating the application of Linked Open Data technologies to digital cultural heritage materials. Our goals are:
 
@@ -11,6 +13,8 @@ Linked Jazz is a research project investigating the application of Linked Open D
 + To develop broadly applicable tools and methods for working with Linked Open Data.
 
 The project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network. New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement. At the heart of our work are oral histories of jazz musicians. We are currently expanding our data sources to include other document types and music-related datasets.
+
+---
 
 ### Support
 + The New Orleans Jazz & Heritage Festival and Foundation, Community Partnership Grant, Jazz & Heritage Archive: Documentation and Preservation (2016, 2017)
