@@ -14,12 +14,12 @@ Linked Jazz is a research project investigating the application of Linked Open D
 
 The project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network. New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement. At the heart of our work are oral histories of jazz musicians. We are currently expanding our data sources to include other document types and music-related datasets.
 
----
-
 ### Support
 + The New Orleans Jazz & Heritage Festival and Foundation, Community Partnership Grant, Jazz & Heritage Archive: Documentation and Preservation (2016, 2017)
 + Ella Fitzgerald Charitable Foundation (EFCF)-JEN Research Fellowship at the Smithosian (2016)
 + OCLC Research and Association for Library and Information Science Education (ALISE), Library and Information Science Research Grant (2011)
+
+---
 
 # [The Drawings of the Florentine Painters](https://florentinedrawings.itatti.harvard.edu/)
 ### by Bernard Berenson
