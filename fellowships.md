@@ -1,3 +1,8 @@
+---
+layout: post
+---
+
+
 # Linked Open Data (LOD) for Museums at the [Whitney Museum](https://www.whitney.org/) Fellowship
 
 The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS student to investigate the utilization of Linked Open Data (LOD) within a museum setting. The fellowship allows the student to apply the knowledge and skills acquired from their course work in a professional setting while developing new skills through participation in an on-site internship. Relevant skills that will be developed during the course of the fellowship include data analysis and visualization, metadata research, and semantic web methods. While the project’s goal is to examine the applicability and utilization of LOD resources for a museum’s collections information, the student will also learn how information on works of art is administered in a museum setting.

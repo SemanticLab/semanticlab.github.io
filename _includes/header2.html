@@ -29,11 +29,33 @@
               </div>
               <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="{{ site.baseurl }}/about.html">About</a></li>
+
+
+                    <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/about.html">About
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              <li><a href="{{ site.baseurl }}/mission_statement.html">Mission Statement</a></li>
+                              <li><a href="{{ site.baseurl }}/team.html">Team Members</a></li>
+                            </ul>
+                          </li>
+
+
                     <li class="active"><a href="{{ site.baseurl }}/news.html">Blog</a></li>
                     <li class="active"><a href="{{ site.baseurl }}/projects.html">Projects</a></li>
                     <li class="active"><a href="{{ site.baseurl }}/publications.html">Publications</a></li>
                     <li class="active"><a href="{{ site.baseurl }}/courses.html">Courses</a></li>
+
+                    <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="{{ site.baseurl }}/courses.html">Courses
+                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                              <li><a href="{{ site.baseurl }}/pratt_courses.html">Pratt Institute</a></li>
+                              <li><a href="{{ site.baseurl }}/bologna_courses.html">Univ. of Bologna</a></li>
+                            </ul>
+                          </li>
+
+
                     <li class="active"><a href="{{ site.baseurl }}/fellowships.html">Fellowships</a></li>
                 </ul>
               </div>
