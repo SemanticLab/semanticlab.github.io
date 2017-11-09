@@ -1,15 +1,46 @@
-<div class="container-fluid">
-    <div class="row-fluid">
-        <div class="span12 footer navbar-inverse navbar-fixed-bottom">
-            <p class="copyright">&copy;{{ site.time | date: '%Y' }} {{ site.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a>, theme by <a href="https://github.com/scotte/jekyll-clean">Scott Emmons</a>
-            under
-            <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</a></p>
-        </div>
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            {% if site.author %}
+              {{ site.author | escape }}
+            {% else %}
+              {{ site.title | escape }}
+            {% endif %}
+            </li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html username=site.github_username %}
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3 address">
+        <p>{{ site.description }}</p>
+      </div>
     </div>
-</div>
 
-{% include disqus-counts.html %}
-{% include analytics.html %}
+  </div>
 
-</body>
-</html>
+</footer>

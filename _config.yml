@@ -1,38 +1,46 @@
-# Jekyll configuration
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-name: Semantic Lab
-description: A jekyll theme
-# url is currently only used only for the RSS feed in feed.xml
-url: https://scotte.github.io/jekyll-clean
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Semantic Lab
+subtitle: "@ The Pratt Institute"
+email: foaf.Person@semlab.io
+description: 
+  Director Prof. Cristina Pattuelli<br/>
+  Pratt Institute School of<br/>
+  Library Information Science <br/>
+  144 W. 14th Street, 6th floor<br/>
+  New York, NY 10011<br/>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  SemanticLab
 
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-baseurl: '/semanticlab.github.io'
-
-# This can be '' to hide the Github nav button
-github: 'scotte/jekyll-clean'
-
-# Set this to your UA-# value, or '' to disable the block completely
-gaaccount: ''
-
-# The 'comments' setting enables comments. You'll need to select either
-# disqus or isso below to choose a comment system. Individual posts can
-# override 'comments' to disable on a post-by-post basis.
-comments: true
-
-# Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
-isso: ''
-
-# Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
-disqus: ''
-
-permalink: /:year/:month/:title
-paginate: 3
-
-highlighter: rouge
+# Build settings
 markdown: kramdown
-gems: ['jekyll-paginate']
+theme: minima
+plugins:
+  - jekyll-feed
 
-exclude: ['README.md', 'LICENSE']
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

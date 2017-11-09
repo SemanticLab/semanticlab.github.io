@@ -1,2 +1,0 @@
-# semlab.io
-Organizational Website
