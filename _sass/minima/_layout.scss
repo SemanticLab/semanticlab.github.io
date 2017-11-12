@@ -217,10 +217,11 @@
  .people-table{
   margin: auto;
   width: 75%;
-  margin-bottom: 100px;
+  margin-bottom: 100px; 
 
   table{
     border-collapse: collapse;
+    width: 100%;
   }
 
 
@@ -232,6 +233,20 @@
 
 
  }
+
+
+.updates-article, .documents-article{
+  margin-bottom: 20px;
+  border-bottom: 1px solid #EAEAEA;
+
+  &:last-child{
+    border:none;
+  }
+  .updates-title, .documents-title{
+    font-weight: bolder;
+  }
+}
+
 .page-content {
   // padding: $spacing-unit 0;
   max-width: 1029px;

@@ -9,16 +9,16 @@ permalink: /people/
 
 
 <div class="people-table">
-	
-	<h4>Semlab Team</h4>
-	<table>
+		<table>
 		<tbody>
 
 			{% for member in site.data.people_team %}
 			  <tr>
-			  	<td>{{ member.name }}</td>
-			  	<td>{{ member.email }}</td>
-			  	<td>{{ member.twitter }}</td>
+			  	<td>{% if member.name %}{{ member.name }}{% endif %}</td>
+			  	<td>{% if member.email %}<a href="mailto:{{ member.email }}">email</a>{% endif %}</td>
+			  	<td>{% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}">twitter</a>{% endif %}</td>
+			  	<td>{% if member.github %}<a href="https://github.com/{{ member.github }}">github</a>{% endif %}</td>
+			  	<td>{% if member.website %}<a href="{{ member.website }}">website</a>{% endif %}</td>
 			  </tr>
 			{% endfor %}
 		</tbody>

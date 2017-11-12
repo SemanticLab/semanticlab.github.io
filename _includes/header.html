@@ -6,7 +6,7 @@
     <a class="site-title" href="{{ "/" | relative_url }}">
       <img src="{{ "assets/logo.png" | relative_url }}"/>
       <div class="title-wrapper">{{ site.title | escape }}</div>
-      <div class="subtitle-wrapper">{{ site.subtitle | escape }}{{site.header_pages}}</div>
+      <div class="subtitle-wrapper">{{ site.subtitle | escape }}</div>
     </a>
 
   
@@ -24,12 +24,17 @@
         </label>
 
         <div class="trigger">
-          {% for path in page_paths %}
+           <a class="page-link" href="{{ "updates" | relative_url }}">Updates</a>
+           <a class="page-link" href="{{ "people" | relative_url }}">People</a>
+           <a class="page-link" href="{{ "documents" | relative_url }}">Documents</a>
+           <a class="page-link" href="{{ "teaching" | relative_url }}">Teaching</a>
+
+<!--           {% for path in page_paths %}
             {% assign my_page = site.pages | where: "path", path | first %}
             {% if my_page.title %}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {% endif %}
-          {% endfor %}
+          {% endfor %} -->
         </div>
       </nav>
     {% endif %}
