@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Documents
-permalink: /documents/
+title: Publications
+permalink: /publications/
 ---
 
 
-<h1 class="page-heading">Documents</h1>
+<h1 class="page-heading">Publications</h1>
 
 <div class="documents">
 	{% for document in site.categories.documents %}
