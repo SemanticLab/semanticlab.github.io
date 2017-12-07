@@ -30,6 +30,6 @@ link: "https://www.imls.gov/grants/awarded/lg-72-17-0179-17"
 * Edit [this file](https://github.com/SemanticLab/semanticlab.github.io/blob/master/_data/people_team.yml)
 
 ## Add/Edit information in the Projects or Teaching
-* These are just single pages, edit the file directly, the [Projects](https://github.com/SemanticLab/semanticlab.github.io/blob/master/projects.md) or [Teaching](https://github.com/SemanticLab/semanticlab.github.io/blob/master/teaching.md) markdown
+* These are just single pages, edit the file directly, the [Projects](https://github.com/SemanticLab/semanticlab.github.io/blob/master/projects.md) or [Classes](https://github.com/SemanticLab/semanticlab.github.io/blob/master/classes.md) markdown
 
 
