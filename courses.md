@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Classes
-permalink: /classes/
+title: Courses
+permalink: /courses/
 ---
 
-<h1 class="page-heading">Classes</h1>
+<h1 class="page-heading">Courses</h1>
 
 
 **Linked Open Data**
