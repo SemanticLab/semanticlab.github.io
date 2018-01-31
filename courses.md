@@ -45,10 +45,8 @@ The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS 
 2017-2018 Rachel Egan (Work in progress)<br/>
 2016-2017 [Mollie Echeveria](http://www.mollieecheverria.com/projects/linked-open-data-whitney-museum/)<br/>
 2015-2016 [Joshua Dull](http://pfch.nyc/linked_open_data_at_the_whitney/index.html)
+
 <!-- 
-
-
-
 <div class="people-table">
 	
 	<h4>Semlab Team</h4>
