@@ -7,20 +7,20 @@ permalink: /courses/
 <h1 class="page-heading">Courses</h1>
 
 
-**Linked Open Data, Pratt Institute**
+**Linked Open Data for Libraries, Archives and Museums (INFO 670) Pratt Institute**
 
-Cristina Pattuelli - LIS-670-01
+Cristina Pattuelli
 
 This course examines principles and practices for enhancing access to cultural heritage materials and making digital content easier to find and use. Studentswill be provided the opportunity to explore, analyze, and evaluate state-of-the-art and emerging trends in the description and access of digital heritage collection in libraries, archives, and museums. The goal of this course is to introduce students to the range of theoretical and practical issues relates to heritage data organization.
 <br/><br/>
 <hr/>
 <br/>
 
-**Programming for Cultural Heritage, Pratt Institute**
+**Programming for Cultural Heritage (INFO 664) Pratt Institute**
 
-Matt Miller - LIS-664-01 [http://pfch.nyc](http://pfch.nyc)
+Matt Miller
 
-Technical knowledge and proficiency is an increasingly valued and useful skill in a cultural heritage information professional’s skillset. This course will introduce and provide a platform for the building up of these abilities. Over the course of the semester the student will become familiar with programming, working with data in a programmatic manner and applying these skills to build a demonstrable  project. This course will focus on teaching the basics that will enable an information professional to be successful in today’s digital world.
+Technical knowledge and proficiency is an increasingly valued and useful skill in a cultural heritage information professional’s skillset. This course will introduce and provide a platform for the building up of these abilities. Over the course of the semester the student will become familiar with programming, working with data in a programmatic manner and applying these skills to build a demonstrable  project. This course will focus on teaching the basics that will enable an information professional to be successful in today’s digital world. http://pfch.nyc](http://pfch.nyc)
 <br/><br/>
 <hr/>
 <br/>
@@ -29,8 +29,7 @@ Technical knowledge and proficiency is an increasingly valued and useful skill i
 
 Cristina Pattuelli (Pratt Institute), Matt Miller (Pratt Institute), Francesca Ricci (Institute for Cultural and Natural Artistic Heritage of the Emilia-Romagna Region), Carlo Bianchini (University of Pavia), and Mauro Guerrini (University of Florence)
 
-[http://www.beniculturali.unibo.it/it/attivita-didattica/linked-data-per-i-beni-culturali](http://www.beniculturali.unibo.it/it/attivita-didattica/linked-data-per-i-beni-culturali)<br/><br/>
-This summer school course at the University of Bologna focuses on the principles and techniques of Linked Data in the context of its relationship to cultural heritage, offering a theoretical and practical introduction to the most recent methods of representing the resources stored in libraries, archives, and other types of cultural institutions. Students gain the skills necessary to process and communicate information about cultural heritage by participating in the construction of the semantic web and the dissemination of knowledge of cultural heritage in a responsible and qualified manner, with the ultimate goal of increasing visibility and facilitating access to these resources. 
+This summer school course at the University of Bologna focuses on the principles and techniques of Linked Data in the context of its relationship to cultural heritage, offering a theoretical and practical introduction to the most recent methods of representing the resources stored in libraries, archives, and other types of cultural institutions. Students gain the skills necessary to process and communicate information about cultural heritage by participating in the construction of the semantic web and the dissemination of knowledge of cultural heritage in a responsible and qualified manner, with the ultimate goal of increasing visibility and facilitating access to these resources. [http://www.beniculturali.unibo.it/it/attivita-didattica/linked-data-per-i-beni-culturali](http://www.beniculturali.unibo.it/it/attivita-didattica/linked-data-per-i-beni-culturali)
 <br/><br/>
 <hr/>
 <br/>
