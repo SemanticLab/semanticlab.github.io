@@ -31,5 +31,3 @@ The project draws on jazz history materials in digital format to expose relation
 
 [LinkedJazz.org](linkedjazz.org)
 
-</br></br>
-
