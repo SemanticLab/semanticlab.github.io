@@ -12,14 +12,13 @@ permalink: /projects/
 The School of Information at Pratt Institute will develop a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project will build on previous work to develop the Linked Jazz Transcript Analyzer, extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
 <br/><br/>
   <div class="wrapper">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" href="{{ "/" | relative_url }}">
       <img src="{{ "assets/logo_new.png" | relative_url }}"/>
       <div class="title-wrapper">{{ site.title | escape }}</div>
       <div class="subtitle-wrapper">{{ site.subtitle | escape }}</div>
     </a>
   </div>
+<br/><br/>
 <hr/>
 <br/>
 
