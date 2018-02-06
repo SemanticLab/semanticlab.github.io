@@ -31,4 +31,11 @@ The project draws on jazz history materials in digital format to expose relation
 
 [LinkedJazz.org](linkedjazz.org)
 
+</br></br>
+<div style="text-align: center;">
+  <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
+    <img style="padding: 24px;" src="http://linkedjazz.org/wp-content/uploads/2013/06/pratt-sculpture-garden-logo-6b79a77180e9ec3a7ca351ebe54641a2-1450801741-pratt_logo_black-300x150.jpg" alt="Pratt Institute" width="20%" /></a><a href="http://www.oclc.org/us/en/default.htm"><img style="padding: 24px;" src="/image/oclc.png" alt="OCLC" width="20%" /></a><a href="http://www.alise.org/"><img style="padding: 24px;" src="/image/alise.jpg" alt="Alise" width="20%" /></a><br />
+  <a href="http://www.jazzandheritage.org/"><img style="padding: 24px;" src="http://linkedjazz.org/wp-content/uploads/2016/09/NOJazzbw.png" alt="NO Jazz Heritage Foundation" width="30%" /></a><a href="http://www.ellafitzgeraldfoundation.org/"><img style="padding: 24px;" src="http://linkedjazz.org/wp-content/uploads/2016/09/ellfoundationlogo_bw-300x133.jpg" alt="" width="30%" /></a><a href="https://www.jazzednet.org/"><img style="padding: 24px;" src="http://linkedjazz.org/wp-content/uploads/2016/09/jenlogo_bw-295x300.jpg" alt="" height="48px" />
+  </a>
+</div>
 
