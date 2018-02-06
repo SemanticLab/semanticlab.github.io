@@ -5,4 +5,4 @@ link: "http://journal.code4lib.org/articles/12902"
 ---
 
 Klic, L., Miller, M., Nelson, J., Pattuelli, M. C. and Provo, A. (2017). The drawings of the Florentine painters:
-From print catalog to Linked Open Data. The Code4Lib Journal, (38) October 2017. 
+From print catalog to Linked Open Data. *The Code4Lib Journal*, (38) October 2017. 
