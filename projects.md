@@ -29,5 +29,5 @@ Linked Jazz is a research project investigating the application of Linked Open D
 
 The project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network. New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement.
 
-[LinkedJazz.org](linkedjazz.org)
+[LinkedJazz.org](https://linkedjazz.org)
 
