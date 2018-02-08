@@ -49,7 +49,7 @@ The project draws on jazz history materials in digital format to expose relation
 <br/><br/>
   <div class="wrapper">
     <a href="http://itatti.harvard.edu/">
-      <img src="{{ "assets/itatti_logo.png" | relative_url }}"/>
+      <img src="{{ "assets/logo_i_tatti.png" | relative_url }}"/>
     </a>
   </div>
 <br/><br/>
