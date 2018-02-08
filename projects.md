@@ -17,6 +17,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
     </a>
   </div>
 <br/><br/>
+
 <hr/>
 <br/>
 
@@ -34,7 +35,11 @@ The project draws on jazz history materials in digital format to expose relation
 <hr/>
 <br/>
 
-**The Drawings of the Florentine Painters**
+**Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
 
-The Drawings of the Florentine Painters online project is supported by a [Samuel H. Kress Foundation](http://www.kressfoundation.org/) Digital Resources Grant awarded to [Villa I Tatti, The Harvard University Center for Italian Renaissance Studies](http://itatti.harvard.edu/). Principle investigators Lukas Klic and Jonathan Nelson of Villa I Tatti. Consultants Matt Miller, Cristina Pattuelli, and Alexandra Provo. Full list of contributors can be viewed [here](http://florentinedrawings.itatti.harvard.edu/pages/credits).
+[The Drawings of the Florentine Painters](http://florentinedrawings.itatti.harvard.edu/) is an online resource that allows users to search through all three editions of art historian Bernard Berensen's seminal work of the same name. This project is supported by a 2015  [Digital Resources Grant](http://itatti.harvard.edu/news/kress-foundation-gives-major-grant-%E2%80%9Cflorentine-renaissance-drawings%E2%80%9D-digital-project) awarded by the [Samuel H. Kress Foundation](http://www.kressfoundation.org/) to [Villa I Tatti, The Harvard University Center for Italian Renaissance Studies](http://itatti.harvard.edu/). In 2017, ARLIS/NA [Art Libraries Society of North America] [review of The Drawings of the Florentine Painters](https://www.arlisna.org/publications/multimedia-technology-reviews/1229-the-drawings-of-the-florentine-painters) published a review of the tool, written by Lindsey Grum, Instructional Technology Librarian at Roger William University. 
+
+Principle investigators: Lukas Klic and Jonathan Nelson of Villa I Tatti. 
+Design, Methodology, Technical Advising, Project Management: Matt Miller, Cristina Pattuelli, and Alexandra Provo. 
+The full list of contributors can be viewed [here](http://florentinedrawings.itatti.harvard.edu/pages/credits).
 
