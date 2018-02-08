@@ -35,5 +35,6 @@ The project draws on jazz history materials in digital format to expose relation
 <br/>
 
 **The Drawings of the Florentine Painters**
-The Drawings of the Florentine Painters online project is supported by a [Samuel H. Kress Foundation](by a Samuel H. Kress Foundation, Digital Resources Grant awarded to [Villa I Tatti, The Harvard University Center for Italian Renaissance Studies](http://itatti.harvard.edu/). Principle investigators Lukas Klic and Jonathan Nelson of Villa I Tatti; Consultants Matt Miller and Cristina Pattuelli and Alexandra Provo. Full list of contributors can be viewed [here](http://florentinedrawings.itatti.harvard.edu/pages/credits).
+
+The Drawings of the Florentine Painters online project is supported by a [Samuel H. Kress Foundation](http://www.kressfoundation.org/) Digital Resources Grant awarded to [Villa I Tatti, The Harvard University Center for Italian Renaissance Studies](http://itatti.harvard.edu/). Principle investigators Lukas Klic and Jonathan Nelson of Villa I Tatti. Consultants Matt Miller, Cristina Pattuelli, and Alexandra Provo. Full list of contributors can be viewed [here](http://florentinedrawings.itatti.harvard.edu/pages/credits).
 
