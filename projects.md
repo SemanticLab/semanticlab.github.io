@@ -34,6 +34,7 @@ The project draws on jazz history materials in digital format to expose relation
 
 <hr/>
 <br/>
+<br/>
 
 **Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
 
