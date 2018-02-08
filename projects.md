@@ -42,6 +42,6 @@ The project draws on jazz history materials in digital format to expose relation
 * Principle Investigators: Lukas Klic and Jonathan Nelson of Villa I Tatti.<br/>
 * Design, Methodology, Technical Advising, Project Management: Matt Miller, Cristina Pattuelli, and Alexandra Provo<br/>
 * [Full List of Contributors](http://florentinedrawings.itatti.harvard.edu/pages/credits)<br/>
-* [About The Project](http://florentinedrawings.itatti.harvard.edu/pages/background)<br/>
+* [Background of The Project](http://florentinedrawings.itatti.harvard.edu/pages/background)<br/>
 * [2017 ARLIS/NA Review of "The Drawings of the Florentine Painters"](https://www.arlisna.org/publications/multimedia-technology-reviews/1229-the-drawings-of-the-florentine-painters)
 
