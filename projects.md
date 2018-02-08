@@ -45,4 +45,10 @@ The project draws on jazz history materials in digital format to expose relation
 * [Full List of Contributors](http://florentinedrawings.itatti.harvard.edu/pages/credits)<br/>
 * [Background of The Project](http://florentinedrawings.itatti.harvard.edu/pages/background)<br/>
 * [2017 ARLIS/NA Review of "The Drawings of the Florentine Painters"](https://www.arlisna.org/publications/multimedia-technology-reviews/1229-the-drawings-of-the-florentine-painters)
-
+<br/><br/>
+  <div class="wrapper">
+    <a href="http://itatti.harvard.edu/">
+      <img src="{{ "assets/itatti_logo.png" | relative_url }}"/>
+    </a>
+  </div>
+<br/><br/>
