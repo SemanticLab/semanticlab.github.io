@@ -7,7 +7,7 @@ permalink: /projects/
 <h1 class="page-heading">Projects</h1>
 
 
-**DADAlytics IMLS Grant**
+**DADAlytics**
 
 The School of Information at Pratt Institute will develop a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project will build on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
 <br/><br/>
@@ -19,7 +19,6 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
       6 November 2017 - [Agenda](https://drive.google.com/open?id=1oxPVhEi1fP4p0QZF2LzG9p4fMRCK_H-G)<br/>
       6 November 2017 - [Meeting Notes](https://drive.google.com/open?id=1qAvGaJI_uq8X0JA1sMkhKbyCKL-2VB3P)<br/><br/>
     **Tool Testing [In Progress]**<br/><br/>
-    **[Updates](http://semlab.io/updates/)**<br/><br/>
   <div class="wrapper">
     <a href="https://www.imls.gov/">
       <img src="{{ "assets/logo_imls.png" | relative_url }}"/>
