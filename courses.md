@@ -20,7 +20,7 @@ This course provides an introduction to the fundamentals of Linked Open Data pri
 
 Matt Miller
 
-Technical knowledge and proficiency is an increasingly valued and useful skill in a cultural heritage information professional’s skillset. This course will introduce and provide a platform for the building up of these abilities. Over the course of the semester the student will become familiar with programming, working with data in a programmatic manner and applying these skills to build a demonstrable  project. This course will focus on teaching the basics that will enable an information professional to be successful in today’s digital world. http://pfch.nyc](http://pfch.nyc)
+Technical knowledge and proficiency is an increasingly valued and useful skill in a cultural heritage information professional’s skillset. This course will introduce and provide a platform for the building up of these abilities. Over the course of the semester the student will become familiar with programming, working with data in a programmatic manner and applying these skills to build a demonstrable  project. This course will focus on teaching the basics that will enable an information professional to be successful in today’s digital world. [http://pfch.nyc](http://pfch.nyc)
 <br/><br/>
 <hr/>
 <br/>
