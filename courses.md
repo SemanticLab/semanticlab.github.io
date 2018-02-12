@@ -11,7 +11,7 @@ permalink: /courses/
 
 Cristina Pattuelli
 
-This course examines principles and practices for enhancing access to cultural heritage materials and making digital content easier to find and use. Studentswill be provided the opportunity to explore, analyze, and evaluate state-of-the-art and emerging trends in the description and access of digital heritage collection in libraries, archives, and museums. The goal of this course is to introduce students to the range of theoretical and practical issues relates to heritage data organization.
+This course provides an introduction to the fundamentals of Linked Open Data principles, technologies and practices. The full life-cycle from linked data generation to consumption will be addressed, along with concepts of data modeling, RDF vocabularies, dereferenceable URIs, semantic enrichment and linked data publishing and dissemination. Through a series of readings, guest speakers, and projects we will explore the latest linked open data developments in cultural heritage.
 <br/><br/>
 <hr/>
 <br/>
