@@ -21,7 +21,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
     **Tool Testing [In Progress]**<br/><br/>
   <div class="wrapper">
     <a href="https://www.imls.gov/">
-      <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="75%"/>
+      <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="12%"/>
     </a>
   </div>
 <br/><br/>
@@ -84,7 +84,7 @@ The project draws on jazz history materials in digital format to expose relation
 <br/><br/>
   <div class="wrapper">
     <a href="http://itatti.harvard.edu/">
-      <img src="{{ "assets/logo_i_tatti.png" | relative_url }}" alt="Villa I Tatti" width="75%"/>
+      <img src="{{ "assets/logo_i_tatti.png" | relative_url }}" alt="Villa I Tatti" width="12%"/>
     </a>
   </div>
 <br/><br/>
