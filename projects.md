@@ -65,7 +65,7 @@ The project draws on jazz history materials in digital format to expose relation
   <a href="https://www.jazzednet.org/">
    <img style="padding: 24px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="8%" />
   </a>
-</div><br/>
+</div>
 
 <hr/>
 <br/>
