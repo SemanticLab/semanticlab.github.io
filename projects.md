@@ -63,7 +63,7 @@ The project draws on jazz history materials in digital format to expose relation
     <img style="padding: 24px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="15%" />
   </a>
   <a href="https://www.jazzednet.org/">
-   <img style="padding: 24px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="8%" />
+    <img style="padding: 24px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="8%" />
   </a>
 </div>
 
