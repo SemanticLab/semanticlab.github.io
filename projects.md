@@ -45,27 +45,27 @@ The project draws on jazz history materials in digital format to expose relation
 
 <div style="text-align: left;">
   <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
-    <img style="padding: 22x;" src="{{ "assets/logo_pratt.jpg" | relative_url }}" alt="Pratt Institute" width="12%" />
+    <img style="padding: 24x;" src="{{ "assets/logo_pratt.jpg" | relative_url }}" alt="Pratt Institute" width="12%" />
   </a>
   <a href="http://www.oclc.org/us/en/default.htm">
-    <img style="padding: 22px;" src="{{ "assets/logo_oclc.png" | relative_url }}" alt="OCLC" width="15%" />
+    <img style="padding: 24px;" src="{{ "assets/logo_oclc.png" | relative_url }}" alt="OCLC" width="15%" />
   </a>
   <a href="http://www.alise.org/">
-    <img style="padding: 22px;" src="{{ "assets/logo_alise.jpg" | relative_url }}" alt="Alise" width="12%" />
+    <img style="padding: 24px;" src="{{ "assets/logo_alise.jpg" | relative_url }}" alt="Alise" width="12%" />
   </a>
   
   <br />
   
   <a href="http://www.jazzandheritage.org/">
-    <img style="padding: 22px;" src="{{ "assets/logo_new_orleans_jazz_&_heritage_festival_and_foundation.png" | relative_url }}" alt="New Orleans Jazz and Heritage Foundation" width="18%" />
+    <img style="padding: 24px;" src="{{ "assets/logo_new_orleans_jazz_&_heritage_festival_and_foundation.png" | relative_url }}" alt="New Orleans Jazz and Heritage Foundation" width="18%" />
   </a>
   <a href="http://www.ellafitzgeraldfoundation.org/">
-    <img style="padding: 22px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="15%" />
+    <img style="padding: 24px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="15%" />
   </a>
   <a href="https://www.jazzednet.org/">
-   <img style="padding: 22px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="8%" />
-  </a><br/>
-</div>
+   <img style="padding: 24px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="8%" />
+  </a>
+</div><br/>
 
 <hr/>
 <br/>
