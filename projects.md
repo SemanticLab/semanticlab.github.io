@@ -40,7 +40,7 @@ The project draws on jazz history materials in digital format to expose relation
 
 [LinkedJazz.org](https://linkedjazz.org)
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
     <img style="padding: 24px;" src="{{ "assets/logo_pratt.jpg" | relative_url }}" alt="Pratt Institute" width="12%" />
   </a>
