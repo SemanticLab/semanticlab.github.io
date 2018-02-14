@@ -67,7 +67,6 @@ The project draws on jazz history materials in digital format to expose relation
   </a>
 </div>
 
-<br/>
 <hr/>
 <br/>
 
