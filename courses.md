@@ -25,7 +25,7 @@ Technical knowledge and proficiency is an increasingly valued and useful skill i
 <hr/>
 <br/>
 
-**Linked Data per i Beni Culturali, Università di Bologna**
+**Linked Data per i Beni Culturali, University of Bologna**
 
 Cristina Pattuelli and Matt Miller
 
