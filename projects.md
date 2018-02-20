@@ -14,12 +14,6 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
 <table>
     <tr>
        <td colspan="1">
-        <!---<div class="wrapper">--->
-          <a href="https://www.imls.gov/">
-            <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="75%"/>
-          </a>
-        <!---</div>--->   
-<br/><br/><br/>
          <strong>Grant Information</strong><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf" target="_blank">Preliminary Project Proposal</a><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
@@ -29,6 +23,12 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
            6 November 2017 - <a href="https://drive.google.com/open?id=1qAvGaJI_uq8X0JA1sMkhKbyCKL-2VB3P" target="_blank">Meeting Notes</a><br/><br/>
          <strong>Tool Testing [In Progress]</strong><br/><br/>
          <strong>Photo Gallery [Coming Soon]</strong><br/><br/>
+<br/><br/><br/>
+        <!---<div class="wrapper">--->
+          <a href="https://www.imls.gov/">
+            <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="75%"/>
+          </a>
+        <!---</div>--->           
        </td>
        <td colspan="2">
          <strong>Collaborators</strong><br/>
