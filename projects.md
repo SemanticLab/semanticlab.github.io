@@ -21,7 +21,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
         </div>         
        </td>
        <td>
-       **Grant Information**<br/>
+           <strong>Grant Information</strong><br/>
     [Preliminary Project Proposal](https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf)<br/>
     [Final Project Proposal](https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf)<br/>
     [Grant Announcement](https://www.imls.gov/grants/awarded/lg-72-17-0179-17)<br/><br/>
