@@ -13,7 +13,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
 <br/><br/>
 <table>
     <tr>
-       <td>
+       <td colspan="1">
         <!---<div class="wrapper">--->
           <a href="https://www.imls.gov/">
             <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="75%"/>
@@ -21,7 +21,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
           <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
         <!---</div>--->        
        </td>
-       <td colspan="3">
+       <td colspan="2">
          <strong>Grant Information</strong><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf" target="_blank">Preliminary Project Proposal</a><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
@@ -33,7 +33,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
          <strong>Photo Gallery [Coming Soon]</strong><br/><br/>
          <br/><br/><br/><br/><br/>
        </td>
-       <td colspan="5">
+       <td colspan="3">
          <strong>Collaborators</strong><br/>
            Tulane University<br/><font size="2"><em>Digital Initiatives & Publishing, Howard-Tilton Memorial Library</em></font><br/><br/>
            Harvard University<br/><font size="2"><em>Villa I Tatti Center for Italian Renaissance Studies</em></font><br/><br/>
