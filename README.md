@@ -29,7 +29,7 @@ link: "https://www.imls.gov/grants/awarded/lg-72-17-0179-17"
 ## Add/Edit information about someone in People
 * Edit [this file](https://github.com/SemanticLab/semanticlab.github.io/blob/master/_data/people_team.yml)
 
-## Add/Edit information in the Projects or Teaching
+## Add/Edit information in the Projects or Education
 * These are just single pages, edit the file directly, the [Projects](https://github.com/SemanticLab/semanticlab.github.io/blob/master/projects.md) or [Education](https://github.com/SemanticLab/semanticlab.github.io/blob/master/education.md) markdown
 
 
