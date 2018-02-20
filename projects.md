@@ -33,7 +33,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
        </td>
        <td colspan="2">
          <strong>Collaborators</strong><br/>
-           Tulane University<br/><em>Digital Initiatives & Publishing, Howard-Tilton Memorial Library</em><br/><br/>
+           Tulane University - Jeff Rubin<br/><a href="http://library.tulane.edu/about/directories/department/digital-initiatives-&-publishing" target="_blank">Digital Initiatives & Publishing, Howard-Tilton Memorial Library</a><br/><br/>
            Harvard University<br/><em>Villa I Tatti Center for Italian Renaissance Studies</em><br/><br/>
            University of Minnesota<br/><em>Umbra Search, Givens Collection of African-American Literature</em><br/><br/>
            Carnegie Hall<br/><em>Archives</em><br/><br/>
