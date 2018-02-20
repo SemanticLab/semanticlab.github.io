@@ -35,14 +35,14 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
        </td>
        <td>
          <strong>Collaborators</strong><br/>
-           Tulane University - Jeff Rubin<br/><font size="2"><em>Digital Initiatives & Publishing, Howard-Tilton Memorial Library</em></font><br/><br/>
-           Harvard University - Ilaria della Monica<br/><font size="2"><em>Villa I Tatti Center for Italian Renaissance Studies</em></font><br/><br/>
-           University of Minnesota - Cecily Marcus<br/><font size="2"><em>Umbra Search, Givens Collection of African-American Literature</em></font><br/><br/>
-           Carnegie Hall - Robert Hudson<br/><font size="2"><em>Archives</em></font><br/><br/>
-           Whitney Museum of American Art - Farris Wahbeh<br/><font size="2"><em>Frances Mulhall Achilles Library</em></font><br/><br/>
-           The Rockefeller Archive Center - Hannah Sistrunk<br/><br/>
-           Metropolitan NY Library Council - Karen Hwang<br/><br/>
-           New York University - Alexandra Provo<br/><font size="2"><em>Division of Libraries</em></font><br/>
+           Tulane University<br/><font size="2"><em>Digital Initiatives & Publishing, Howard-Tilton Memorial Library</em></font><br/><br/>
+           Harvard University<br/><font size="2"><em>Villa I Tatti Center for Italian Renaissance Studies</em></font><br/><br/>
+           University of Minnesota<br/><font size="2"><em>Umbra Search, Givens Collection of African-American Literature</em></font><br/><br/>
+           Carnegie Hall<br/><font size="2"><em>Archives</em></font><br/><br/>
+           Whitney Museum of American Art<br/><font size="2"><em>Frances Mulhall Achilles Library</em></font><br/><br/>
+           The Rockefeller Archive Center<br/><br/>
+           Metropolitan NY Library Council<br/><br/>
+           New York University<br/><font size="2"><em>Division of Libraries</em></font><br/>
        </td>
     </tr>
 </table>
