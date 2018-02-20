@@ -29,18 +29,18 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
             <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="75%"/>
           </a>
         <!---</div>--->   
-          <br/><br/><br/><br/><br/><br/>
+          <br/><br/><br/><br/><br/>
        </td>
        <td colspan="2">
          <strong>Collaborators</strong><br/>
            Tulane University - Jeff Rubin<br/><a href="http://library.tulane.edu/about/directories/department/digital-initiatives-&-publishing" target="_blank">Digital Initiatives & Publishing, Howard-Tilton Memorial Library</a><br/><br/>
            Harvard University - Ilaria della Monica<br/><a href="http://itatti.harvard.edu/" target="_blank">Villa I Tatti Center for Italian Renaissance Studies</a><br/><br/>
-           University of Minnesota<br/><em>Umbra Search, Givens Collection of African-American Literature</em><br/><br/>
-           Carnegie Hall<br/><em>Archives</em><br/><br/>
-           Whitney Museum of American Art<br/><em>Frances Mulhall Achilles Library</em><br/><br/>
-           The Rockefeller Archive Center<br/><br/>
-           Metropolitan NY Library Council<br/><br/>
-           New York University<br/><em>Division of Libraries</em><br/>
+           University of Minnesota - Cecily Marcus<br/><a href="https://www.umbrasearch.org/" target="_blank">Umbra Search, Givens Collection of African-American Literature</a><br/><br/>
+           Carnegie Hall - Robert Hudson<br/><a href="https://www.carnegiehall.org/About/History/Archives" target="_blank">Archives</a><br/><br/>
+           Whitney Museum of American Art - Farris Wahben<br/><a href="http://whitney.org/Collection/Research/Library" target="_blank">Frances Mulhall Achilles Library</a><br/><br/>
+           <a href="http://rockarch.org/" target="_blank">The Rockefeller Archive Center</a> - Hannah Sistrunk <br/><br/>
+           <a href="https://metro.org/" target="_blank">Metropolitan New York Library Council</a> - Karen Hwang<br/><br/>
+           New York University - Alexandra Provo<br/><a href="http://library.nyu.edu/" target="_blank">Division of Libraries</a><br/>
        </td>
     </tr>
 </table>
