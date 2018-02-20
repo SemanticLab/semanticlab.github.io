@@ -11,19 +11,27 @@ permalink: /projects/
 
 The School of Information at Pratt Institute will develop a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project will build on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
 <br/><br/>
-    **Grant Information**<br/>
+<table>
+    <tr>
+       <td>
+        <div class="wrapper">
+          <a href="https://www.imls.gov/">
+            <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="20%"/>
+          </a>
+        </div>         
+       </td>
+       <td>
+       **Grant Information**<br/>
     [Preliminary Project Proposal](https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf)<br/>
     [Final Project Proposal](https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf)<br/>
     [Grant Announcement](https://www.imls.gov/grants/awarded/lg-72-17-0179-17)<br/><br/>
     **Stakeholder Meetings**<br/>
       6 November 2017 - [Agenda](https://drive.google.com/open?id=1oxPVhEi1fP4p0QZF2LzG9p4fMRCK_H-G)<br/>
       6 November 2017 - [Meeting Notes](https://drive.google.com/open?id=1qAvGaJI_uq8X0JA1sMkhKbyCKL-2VB3P)<br/><br/>
-    **Tool Testing [In Progress]**<br/><br/>
-  <div class="wrapper">
-    <a href="https://www.imls.gov/">
-      <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="20%"/>
-    </a>
-  </div>
+    **Tool Testing [In Progress]**<br/><br/>          
+       </td>
+    </tr>
+</table>
 <br/>
 
 <hr/>
