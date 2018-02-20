@@ -10,7 +10,7 @@ permalink: /projects/
 **DADAlytics**
 
 The School of Information at Pratt Institute will develop a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project will build on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
-<br/><br/>
+<br/>
 <table>
     <tr>
        <td colspan="1">
@@ -18,7 +18,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
           <a href="https://www.imls.gov/">
             <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="75%"/>
           </a>
-          <br/><br/>
+          <br/><br/><br/><br/>
          <strong>Grant Information</strong><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf" target="_blank">Preliminary Project Proposal</a><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
