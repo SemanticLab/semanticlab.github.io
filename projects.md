@@ -16,7 +16,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
        <td>
         <div class="wrapper">
           <a href="https://www.imls.gov/">
-            <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services" width="20%"/>
+            <img src="{{ "assets/logo_imls.png" | relative_url }}" alt="Institute of Museum and Library Services"/>
           </a>
         </div>         
        </td>
