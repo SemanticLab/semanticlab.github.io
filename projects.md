@@ -38,9 +38,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
            University of Minnesota - Cecily Marcus<br/><a href="https://www.umbrasearch.org/" target="_blank">Umbra Search, Givens Collection of African-American Literature</a><br/><br/>
            Carnegie Hall - Robert Hudson<br/><a href="https://www.carnegiehall.org/About/History/Archives" target="_blank">Archives</a><br/><br/>
            Whitney Museum of American Art - Farris Wahben<br/><a href="http://whitney.org/Collection/Research/Library" target="_blank">Frances Mulhall Achilles Library</a><br/><br/>
-           <a href="http://rockarch.org/" target="_blank">The Rockefeller Archive Center</a> - Hannah Sistrunk <br/><br/>
-           <a href="https://metro.org/" target="_blank">Metropolitan New York Library Council</a> - Karen Hwang<br/><br/>
-           New York University - Alexandra Provo<br/><a href="http://library.nyu.edu/" target="_blank">Division of Libraries</a><br/>
+<br/>
        </td>
     </tr>
 </table>
