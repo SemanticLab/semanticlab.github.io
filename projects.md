@@ -32,14 +32,14 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
        </td>
        <td colspan="2">
          <strong>Collaborators</strong><br/>
-           Tulane University<br/><font size="2"><em>Digital Initiatives & Publishing, <br/>Howard-Tilton Memorial Library</em></font><br/><br/>
-           Harvard University<br/><font size="2"><em>Villa I Tatti <br/>Center for Italian Renaissance Studies</em></font><br/><br/>
-           University of Minnesota<br/><font size="2"><em>Umbra Search, <br/>Givens Collection of African-American Literature</em></font><br/><br/>
-           Carnegie Hall<br/><font size="2"><em>Archives</em></font><br/><br/>
-           Whitney Museum of American Art<br/><font size="2"><em>Frances Mulhall Achilles Library</em></font><br/><br/>
+           Tulane University<br/><em>Digital Initiatives & Publishing, Howard-Tilton Memorial Library</em><br/><br/>
+           Harvard University<br/><em>Villa I Tatti Center for Italian Renaissance Studies</em><br/><br/>
+           University of Minnesota<br/><em>Umbra Search, Givens Collection of African-American Literature</em><br/><br/>
+           Carnegie Hall<br/><em>Archives</em><br/><br/>
+           Whitney Museum of American Art<br/><em>Frances Mulhall Achilles Library</em><br/><br/>
            The Rockefeller Archive Center<br/><br/>
            Metropolitan NY Library Council<br/><br/>
-           New York University<br/><font size="2"><em>Division of Libraries</em></font><br/>
+           New York University<br/><em>Division of Libraries</em><br/>
        </td>
     </tr>
 </table>
