@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Courses
-permalink: /courses/
+title: Education
+permalink: /education/
 ---
 
-<h1 class="page-heading">Courses</h1>
+<h1 class="page-heading">Education</h1>
 
 
 **Linked Open Data for Libraries, Archives and Museums (INFO 670), Pratt Institute**
