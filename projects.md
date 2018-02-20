@@ -21,7 +21,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
           <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
         <!---</div>--->        
        </td>
-       <td>
+       <td colspan="3">
          <strong>Grant Information</strong><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf" target="_blank">Preliminary Project Proposal</a><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
@@ -33,11 +33,11 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
          <strong>Photo Gallery [Coming Soon]</strong><br/><br/>
          <br/><br/><br/><br/><br/>
        </td>
-       <td>
+       <td colspan="5">
          <strong>Collaborators</strong><br/>
-           Tulane University<br/><font size="2"><em>Digital Initiatives & Publishing, <br/>Howard-Tilton Memorial Library</em></font><br/><br/>
-           Harvard University<br/><font size="2"><em>Villa I Tatti <br/>Center for Italian Renaissance Studies</em></font><br/><br/>
-           University of Minnesota<br/><font size="2"><em>Umbra Search, <br/> Givens Collection of African-American Literature</em></font><br/><br/>
+           Tulane University<br/><font size="2"><em>Digital Initiatives & Publishing, Howard-Tilton Memorial Library</em></font><br/><br/>
+           Harvard University<br/><font size="2"><em>Villa I Tatti Center for Italian Renaissance Studies</em></font><br/><br/>
+           University of Minnesota<br/><font size="2"><em>Umbra Search, Givens Collection of African-American Literature</em></font><br/><br/>
            Carnegie Hall<br/><font size="2"><em>Archives</em></font><br/><br/>
            Whitney Museum of American Art<br/><font size="2"><em>Frances Mulhall Achilles Library</em></font><br/><br/>
            The Rockefeller Archive Center<br/><br/>
