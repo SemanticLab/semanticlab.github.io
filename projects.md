@@ -41,7 +41,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
            <hr style="height:8pt; visibility:hidden;" />
            Carnegie Hall - Robert Hudson<br/><a href="https://www.carnegiehall.org/About/History/Archives" target="_blank">Archives</a><br/>
            <hr style="height:8pt; visibility:hidden;" />
-           Whitney Museum of American Art - Farris Wahben<br/><a href="http://whitney.org/Collection/Research" target="_blank">Research</a><br/>
+           Whitney Museum of American Art - Farris Wahbeh<br/><a href="http://whitney.org/Collection/Research" target="_blank">Research</a><br/>
 <br/><br/><br/><br/><br/>
        </td>
     </tr>
