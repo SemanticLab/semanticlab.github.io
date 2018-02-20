@@ -21,14 +21,14 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
         </div>         
        </td>
        <td>
-           <strong>Grant Information</strong><br/>
-    [Preliminary Project Proposal](https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf)<br/>
-    [Final Project Proposal](https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf)<br/>
-    [Grant Announcement](https://www.imls.gov/grants/awarded/lg-72-17-0179-17)<br/><br/>
-    **Stakeholder Meetings**<br/>
-      6 November 2017 - [Agenda](https://drive.google.com/open?id=1oxPVhEi1fP4p0QZF2LzG9p4fMRCK_H-G)<br/>
-      6 November 2017 - [Meeting Notes](https://drive.google.com/open?id=1qAvGaJI_uq8X0JA1sMkhKbyCKL-2VB3P)<br/><br/>
-    **Tool Testing [In Progress]**<br/><br/>          
+         <strong>Grant Information</strong><br/>
+           <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf" target="_blank">Preliminary Project Proposal</a><br/>
+           <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
+           <a href="https://www.imls.gov/grants/awarded/lg-72-17-0179-17" target="_blank">Grant Announcement</a><br/><br/>
+         <strong>Stakeholder Meetings</strong><br/>
+           6 November 2017 - <a href="https://drive.google.com/open?id=1oxPVhEi1fP4p0QZF2LzG9p4fMRCK_H-G" target="_blank">Agenda</a><br/>
+           6 November 2017 - <a href="https://drive.google.com/open?id=1qAvGaJI_uq8X0JA1sMkhKbyCKL-2VB3P" target="_blank">Meeting Notes</a><br/><br/>
+         <strong>Tool Testing [In Progress]</strong><br/><br/>          
        </td>   
     </tr>
 </table>
