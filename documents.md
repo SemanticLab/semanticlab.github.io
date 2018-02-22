@@ -12,7 +12,10 @@ permalink: /publications/
 		<article class="documents-article">
 			<h4 class="documents-title">{{document.date | date_to_long_string}} - {{document.title}}</h4>
 			<p>{{document.content}}</p>
-			<h3><a href="{{document.link}}">View</a></h3>
+			{% if document.link %}
+  				<h3><a href="{{document.link}}">View</a></h3>
+			{% endif %}
+			
 		</article>
 	{% endfor %}
 </div>
