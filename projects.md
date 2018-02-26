@@ -60,7 +60,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
 
 The project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network. New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement. [LinkedJazz.org](https://linkedjazz.org)
 
-Partially supported by:
+Supported by:
 
 <div style="text-align: left;">
   <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
