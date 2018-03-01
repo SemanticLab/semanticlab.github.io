@@ -24,7 +24,7 @@ description:
   New York, NY 10011<br/>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: linkedjazz
+twitter_username: semlabteam
 github_username:  SemanticLab
 
 # Build settings
