@@ -52,7 +52,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
 <br/>
 
   <a href="https://linkedjazz.org/">
-    <img style="padding: 8px;" src="{{ "assets/logo_linked_jazz.jpeg" | relative_url }}" alt="Alise" width="5%" />
+    <img style="padding: 8px;" src="{{ "assets/logo_linked_jazz.jpeg" | relative_url }}" alt="Alise" width="10%" />
   </a>
 **Linked Jazz**
 
