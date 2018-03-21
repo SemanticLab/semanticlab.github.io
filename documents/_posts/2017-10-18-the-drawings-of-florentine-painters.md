@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Drawings of the Florentine Paintings: From Print Catalog to Linked Open Data"
-link: "http://journal.code4lib.org/articles/12902"
 ---
 
 Klic, L., Miller, M., Nelson, J., Pattuelli, M. C. and Provo, A. (2017). [The drawings of the Florentine painters:
