@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Linked Open Data and the Cultural Heritage Landscape"
-link: "https://www.alastore.ala.org/content/linked-data-cultural-heritage-alcts-monograph"
 ---
 
 Thorsen, H. K. and Pattuelli, M. C. (2016). [Linked Open Data and the cultural heritage landscape](https://www.alastore.ala.org/content/linked-data-cultural-heritage-alcts-monograph). 
