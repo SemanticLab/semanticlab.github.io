@@ -11,5 +11,4 @@ The Semantic Lab @Pratt is pleased to announce the Art Linked Data Transformatio
 Instructors:
 **Carlos Acevedo**, Digital Asset Manager at The Jewish Museum.
 **Alexandra Provo**, Project Manager & Digital Production Editor for the Enhanced Networked Monographs project at NYU.
-
 Flyer is available [here](https://drive.google.com/file/d/1hME3Jf4V8MDIec7EKmcvpirsrblOgKWl/view).
