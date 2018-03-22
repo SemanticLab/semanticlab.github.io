@@ -54,7 +54,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
 <a href="https://linkedjazz.org/">
     <img style="padding: 8px;" src="{{ "assets/logo_linked_jazz.jpeg" | relative_url }}" alt="Alise" width="8%" />
   </a>
-**Linked Jazz**
+<h3>Linked Jazz</h3>
 
 [Linked Jazz](https://linkedjazz.org/) is a research project investigating the application of Linked Open Data technologies to digital cultural heritage materials. Our goals are to uncover meaningful connections between documents and data related to the personal and professional lives of jazz artists, and to develop broadly applicable tools and methods for working with Linked Open Data.
 
