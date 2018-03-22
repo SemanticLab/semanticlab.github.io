@@ -7,7 +7,7 @@ permalink: /projects/
 <h1 class="page-heading">Projects</h1>
 
 
-**DADAlytics**
+<h2>DADAlytics</h2>
 
 The School of Information at Pratt Institute will develop a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project will build on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
 <br/>
@@ -54,7 +54,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
   <a href="https://linkedjazz.org/">
     <img style="padding: 8px;" src="{{ "assets/logo_linked_jazz.jpeg" | relative_url }}" alt="Alise" width="10%" />
   </a>
-**Linked Jazz**
+<h2>Linked Jazz</h2>
 
 [Linked Jazz](https://linkedjazz.org/) is a research project investigating the application of Linked Open Data technologies to digital cultural heritage materials. Our goals are to uncover meaningful connections between documents and data related to the personal and professional lives of jazz artists, and to develop broadly applicable tools and methods for working with Linked Open Data.
 
@@ -89,7 +89,7 @@ With the support of:
 <br/>
 
 
-**Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
+<h2>Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web</h2>
 
 [The Drawings of the Florentine Painters](http://florentinedrawings.itatti.harvard.edu/) is an online resource that allows users to simultaneously search through all three editions of art historian Bernard Berensen's seminal work "The Drawings of the Florentine Painters". This project is supported by a 2015  [Digital Resources Grant](http://itatti.harvard.edu/news/kress-foundation-gives-major-grant-%E2%80%9Cflorentine-renaissance-drawings%E2%80%9D-digital-project) awarded by the [Samuel H. Kress Foundation](http://www.kressfoundation.org/) to [Villa I Tatti, The Harvard University Center for Italian Renaissance Studies](http://itatti.harvard.edu/). The entire [dataset](http://data.itatti.harvard.edu) is openly available in RDF for reuse under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0) license.
 
