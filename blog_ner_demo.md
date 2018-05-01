@@ -113,7 +113,7 @@ cd /home/core/DADAlytics-docker-ner-server/
 /opt/bin/docker-compose up
 ```
 
-This will launch the services and the API, it takes a few minutes for things to spin up, and the DBpedia Spotlight will talk a few more moments to load all the resources into memory.
+This will launch the services and the API, it takes a few minutes for things to spin up, and the DBpedia Spotlight will take a few more moments to load all the resources into memory.
 
 Once that is complete you can use the API from anywhere, on your local machine:
 ```
