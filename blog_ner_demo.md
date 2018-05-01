@@ -41,7 +41,7 @@ The API will return combined results of the text analyzed using the tools you sp
 text: The text of the entity
 type: The type of entities the tools marked it as (here it found it four times as a personal name)
 tool: The tools that detected the entity
-Confidence: The number of tools that detected it divided by the number of tools used, 4/4 found this entity, so 100%
+confidence: The number of tools that detected it divided by the number of tools used, 4/4 found this entity, so 100%
 typeMode: The average mode of the entity type. This is useful because it gets the most likely entity type based on all the tools tagging. If an entity was flagged as a person 4 times and a organization 2 it would be “per”
 spotlightUri: If the spotlight tool detects an entity it will also give the DBpedia resource URI
 ```
