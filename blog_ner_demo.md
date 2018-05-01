@@ -28,11 +28,11 @@ If the server is down click the “Spawn Server” button and it will launch the
 
 This site acts as the client to the gateway that combines the results from the multiple NER tools into a single API:
 
-<img src="{{ "assets/dadalytics_toolchain_blog_2.png" | relative_url }}" alt="Diagram of server" width="100%"/>
+<img src="{{ "assets/dadalytics_toolchain_blog_2.png" | relative_url }}" alt="Diagram of server" width="50%"/>
 
 The API will return combined results of the text analyzed using the tools you specified to be used. For example here is the data returned for an entity found in text submitted:
 
-<img src="{{ "assets/dadalytics_toolchain_blog_3png" | relative_url }}" alt="Data returned from API example" width="100%"/>
+<img src="{{ "assets/dadalytics_toolchain_blog_3.png" | relative_url }}" alt="Data returned from API example" width="50%"/>
 
 
 ```
