@@ -18,7 +18,7 @@ Each tool has been dockerized or an existing docker image has been used and comb
 
 These tools were selected because they were the best free/open source NER/NLP tools available. If you think there is another tool we should be utilizing, please let us know.
 
-For a demo of this server visit: https://ner.semlab.io
+### For a demo of this server visit: [https://ner.semlab.io](https://ner.semlab.io)
 
 <img src="{{ "assets/dadalytics_toolchain_blog_1.png" | relative_url }}" alt="Screenshot of demo" width="100%"/>
 
