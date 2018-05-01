@@ -9,12 +9,12 @@ permalink: /DADAlytics_ner_demo/
 As part of our [IMLS funded DADAlytics project](http://semlab.io/projects) we are evaluating Named Entity Recognition (NER) tools and their performance on cultural heritage materials. Identification of entities within resources is the first step in a larger process of converting textual documents into a linked open dataset. This is a well researched area of natural language processing and there are many freely available tools to be utilized. While working with these tools in our research we wanted to enable others to do so as well and lower the difficulty in leveraging them. One deliverable from this process is a streamlined NER toolchain that uses six natural language processing tools. We have compiled these tools into a single dockerized server that can be used to perform named entity extraction on text. “Dockerizing” these tools into a single application with an API greatly reduces the difficulty in setting up the software and enables quickly getting started with NER.
 
 The tools used are:
-* DBpedia Spotlight
-* Stanford NLP (using the english.muc.7class.distsim.crf.ser.gz classifier)
-* NLTK trained on the Groningen Meaning Bank corpus
-* SpaCy
-* The OpeNER Project
-* Tensorflow SyntaxNet: Parsey McParseface (POS tagger used to extract proper nouns)
+* [DBpedia Spotlight](http://www.dbpedia-spotlight.org/)
+* [Stanford NLP](https://nlp.stanford.edu/) (using the english.muc.7class.distsim.crf.ser.gz classifier)
+* [NLTK](https://www.nltk.org/) trained on the Groningen Meaning Bank corpus
+* [SpaCy](https://spacy.io/)
+* [The OpeNER Project](http://www.opener-project.eu/)
+* Tensorflow SyntaxNet: [Parsey McParseface](https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html) (POS tagger used to extract proper nouns)
 
 Each tool has been dockerized or an existing docker image has been used and combined into a single server image with an API to process text through each tool.
 
