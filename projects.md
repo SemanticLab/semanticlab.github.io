@@ -20,7 +20,7 @@ The School of Information at Pratt Institute will develop a prototype of DADAlyt
          <strong>Stakeholder Meetings</strong><br/>
            6 November 2017 - <a href="https://drive.google.com/open?id=1oxPVhEi1fP4p0QZF2LzG9p4fMRCK_H-G" target="_blank">Agenda</a><br/>
            6 November 2017 - <a href="https://drive.google.com/open?id=1qAvGaJI_uq8X0JA1sMkhKbyCKL-2VB3P" target="_blank">Meeting Notes</a><br/><br/>
-         <strong>DADAlytics Named-Entity Recognition Toolchain</strong><br/>
+         <strong>Named-Entity Recognition Toolchain</strong><br/>
            <a href="http://semlab.io/DADAlytics_ner_demo/" target="_blank">About the Toolchain</a><br/>
            <a href="http://semlab.io/DADAlytics-ner-demo/" target="_blank">Toolchain Demo</a><br/><br/>
          <strong>Tool Testing [In Progress]</strong><br/><br/>
