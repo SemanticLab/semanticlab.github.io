@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "“Graphic Out Community Cultures” Presentation at the Knowledge Organization Research Group of University Wisconsin-Milwaukee School of Information Studies"
+title: "“Graphic Out Communities and Cultures” Invited talk at the Knowledge Organization Research Group of University Wisconsin-Milwaukee School of Information Studies"
 ---
 
-Linked open data structures and applications are becoming pervasive and continue to evolve as an organic development of knowledge organization. Cristina Pattuelli’s research presentation “[Graphic Out Community Cultures: Modeling, Networking, Visualizing in the Arts and Humanities](https://uwm.edu/informationstudies/event/korg-presentation-by-cristina-pattuelli/)” - held at the Knowledge Organization Research Group of at the [University of Wisconsin-Milwaukee School of Information Studies](http://uwm.edu/informationstudies/) - describes linked data work in the area of cultural heritage, performing arts in particular, highlighting methods and techniques through the lens of real world scenarios. 
+Prof. Cristina Pattuelli, co-director of the Semantic Lab at Pratt, gave a talk entitled [*Graphing Out Communities and Cultures: Modeling, Networking, Visualizing in the Arts and Humanities*](http://uwm.edu/informationstudies/event/korg-presentation-by-cristina-pattuelli/) to the University of Wisconsin- Milwaukee School of Information Studies. Professor Pattuelli was invited to spend several days on campus, discussing her work with faculty and doctoral students from the [Knowledge Organization Research Group KOrg](https://uwm.edu/informationstudies/tag/korg/).
