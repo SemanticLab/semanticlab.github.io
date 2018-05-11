@@ -106,6 +106,7 @@ sudo mkdir -p /etc/certs; sudo chown nobody:nogroup /etc/certs; sudo chmod 755 /
 sudo git clone https://github.com/SemanticLab/DADAlytics-docker-ner-server.git /home/core/DADAlytics-docker-ner-server
 sudo chown nobody:nogroup /etc/certs -R; sudo chmod 755 /etc/certs -R
 ```
+OSX Tip: [@hadro](https://twitter.com/Hadro) reported this process works for OSX as well but need to change the certs directory to `/private/etc/certs:/etc/certs` in the composer file and `sudo mkdir /private/etc/certs` to make the directory.
 
 Now we can run it:
 ```
