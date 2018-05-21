@@ -12,7 +12,7 @@ permalink: /education/
 Cristina Pattuelli
 
 This course provides an introduction to the fundamentals of Linked Open Data principles, technologies and practices. The full life-cycle from linked data generation to consumption will be addressed, along with concepts of data modeling, RDF vocabularies, dereferenceable URIs, semantic enrichment and linked data publishing and dissemination. Through a series of readings, guest speakers, and projects we will explore the latest linked open data developments in cultural heritage.<br/><br/>
-**Samples of Student Work**<br/>
+**Samples of Student Work (2017-2018)**<br/>
 [Off-Off_Data: Exploring Linked Open Data for Off-Off-Broadway](http://studentwork.prattsi.org/infoshow/2018/off-off_data)<br/>
 [Exploring Cultural Ownership Through Linked Open Data: A Study of the British Museum’s Egyptian Collection](http://studentwork.prattsi.org/infoshow/2018/exploring-cultural-ownership-through-linked-open-data-a-study-of-the-british-museums-egyptian-collection)
 <br/><br/>
