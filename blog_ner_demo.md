@@ -26,7 +26,7 @@ These tools were selected because they were the best free/open source NER/NLP to
 
 This demo allows you to input text and select which tool(s) to use for analysis. It also shows how you can perform this task programmatically via the API.
 
-If the server is down click the “Spawn Server” button and it will launch the demo. It will relaunch in about five minutes. 
+If the server is down, click the “Spawn Server” button and it will launch the demo. It will relaunch in about five minutes. 
 
 This site acts as the client to the gateway that combines the results from the multiple NER tools into a single API:
 
@@ -47,12 +47,12 @@ spotlightUri: If the spotlight tool detects an entity it will also give the DBpe
 ```
 
 About the tools:
-* Stanford NLP - A packaged up version of the tool with a Node API, [docker image](https://hub.docker.com/r/semlab/dadalytics-stanford-ner/).
-* NLTK - Trained on the Groningen Meaning Bank corpus with a Node API, [docker image](https://hub.docker.com/r/semlab/dadalytics-nltk/).
-* OpeNER - A toolchain that contains NER as one part of the process, with a Node API server [docker image](https://hub.docker.com/r/semlab/dadalytics-opener/).
-* SpaCy - A NLP tool that includes NER, used [existing image](https://hub.docker.com/r/jgontrum/spacyapi/).
-* Tensorflow SyntaxNet: Parsey McParseface - This is not a NER tool, but a part of speech tagger that we used to try and extract proper nouns. Used [existing image](https://hub.docker.com/r/jesdoit/parsey-server/).
-* DBpedia Spotlight - a NER tool based on Wikipedia corpus, it detects entities and provides the DBpedia resource that it matched to. Used [existing image](https://hub.docker.com/r/dbpedia/spotlight-english/).
+* **Stanford NLP** - A packaged up version of the tool with a Node API, [docker image](https://hub.docker.com/r/semlab/dadalytics-stanford-ner/).
+* **NLTK** - Trained on the Groningen Meaning Bank corpus with a Node API, [docker image](https://hub.docker.com/r/semlab/dadalytics-nltk/).
+* **OpeNER** - A toolchain that contains NER as one part of the process, with a Node API server [docker image](https://hub.docker.com/r/semlab/dadalytics-opener/).
+* **SpaCy** - A NLP tool that includes NER, used [existing image](https://hub.docker.com/r/jgontrum/spacyapi/).
+* **Tensorflow SyntaxNet: Parsey McParseface** - This is not a NER tool, but a part of speech tagger that we used to try and extract proper nouns. Used [existing image](https://hub.docker.com/r/jesdoit/parsey-server/).
+* **DBpedia Spotlight** - an NER tool based on Wikipedia corpus, it detects entities and provides the DBpedia resource that it matched to. Used [existing image](https://hub.docker.com/r/dbpedia/spotlight-english/).
 
 If you know of other NER tools that would be useful to be included, please drop us a line at [foaf.person@semlab.io](mailto:foaf.person@semlab.io).
 
