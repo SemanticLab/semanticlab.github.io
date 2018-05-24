@@ -24,15 +24,15 @@ These tools were selected because they were the best free/open source NER/NLP to
 
 <img src="{{ "assets/dadalytics_toolchain_blog_1.png" | relative_url }}" alt="Screenshot of demo" width="100%"/>
 
-This demo allows you to input text and select which tool(s) to use in their analysis. It also shows how you can do this task programmatically via the API.
+This demo allows you to input text and select which tool(s) to use for analysis. It also shows how you can perform this task programmatically via the API.
 
-If the server is down click the “Spawn Server” button and it will launch the demo, it should be available in about five minutes. 
+If the server is down click the “Spawn Server” button and it will launch the demo. It will relaunch in about five minutes. 
 
 This site acts as the client to the gateway that combines the results from the multiple NER tools into a single API:
 
 <img src="{{ "assets/dadalytics_toolchain_blog_2.png" | relative_url }}" alt="Diagram of server" width="50%"/>
 
-The API will return combined results of the text analyzed using the tools you specified to be used. For example here is the data returned for an entity found in text submitted:
+The API will return combined results of the text analyzed using the tools you specified. For example, here is the data returned for an entity found in text submitted:
 
 <img src="{{ "assets/dadalytics_toolchain_blog_3.png" | relative_url }}" alt="Data returned from API example" width="50%"/>
 
@@ -47,14 +47,14 @@ spotlightUri: If the spotlight tool detects an entity it will also give the DBpe
 ```
 
 About the tools:
-* Stanford NLP - A packaged up version of the tool with an Node API, [docker image](https://hub.docker.com/r/semlab/dadalytics-stanford-ner/).
+* Stanford NLP - A packaged up version of the tool with a Node API, [docker image](https://hub.docker.com/r/semlab/dadalytics-stanford-ner/).
 * NLTK - Trained on the Groningen Meaning Bank corpus with a Node API, [docker image](https://hub.docker.com/r/semlab/dadalytics-nltk/).
 * OpeNER - A toolchain that contains NER as one part of the process, with a Node API server [docker image](https://hub.docker.com/r/semlab/dadalytics-opener/).
 * SpaCy - A NLP tool that includes NER, used [existing image](https://hub.docker.com/r/jgontrum/spacyapi/).
 * Tensorflow SyntaxNet: Parsey McParseface - This is not a NER tool, but a part of speech tagger that we used to try and extract proper nouns. Used [existing image](https://hub.docker.com/r/jesdoit/parsey-server/).
-* DBpedia Spotlight - a NER tools based on Wikipedia corpus, detects entities and provides the DBpedia resource that it matched to. Used [existing image](https://hub.docker.com/r/dbpedia/spotlight-english/).
+* DBpedia Spotlight - a NER tool based on Wikipedia corpus, it detects entities and provides the DBpedia resource that it matched to. Used [existing image](https://hub.docker.com/r/dbpedia/spotlight-english/).
 
-If you know of other NER tools that would be useful to included please drop us a line.
+If you know of other NER tools that would be useful to be included, please drop us a line at [foaf.person@semlab.io](mailto:foaf.person@semlab.io).
 
 ### Running
 
@@ -65,13 +65,13 @@ cd DADAlytics-docker-ner-server
 docker-compose up
 ```
 
-These tools take a lot of RAM to function, you would need to have around 16-20GB of RAM to run all of them. You can also edit the `docker-compose.yml` file to only run specific tools.
+These tools take a lot of RAM to function, so you would need to have around 16-20GB of RAM to run all of them. You can also edit the `docker-compose.yml` file to only run specific tools.
 
-You can also install this on a temporary server from a provider like Digital Ocean or Amazon’s AWS. Here is a quick tutorial on running it on a Ubuntu Linux system.
+You can also install this on a temporary server from a provider like Digital Ocean or Amazon’s AWS. Here is a quick tutorial on running it on an Ubuntu Linux system.
 
 ### Server Tutorial
 
-I’m going to use Digital Ocean (http://digitalocean.com/) and spin up a server with enough RAM, I’m going to use one running Ubuntu 16.04.4 x64 with 32GB of RAM.
+I’m going to use Digital Ocean (http://digitalocean.com/) and spin up a server with enough RAM. I’m going to use one running Ubuntu 16.04.4 x64 with 32GB of RAM.
 
 SSH to the server
 ```
@@ -114,7 +114,7 @@ cd /home/core/DADAlytics-docker-ner-server/
 /opt/bin/docker-compose up
 ```
 
-This will launch the services and the API, it takes a few minutes for things to spin up, and the DBpedia Spotlight will take a few more moments to load all the resources into memory.
+This will launch the services and the API. It takes a few minutes for things to spin up, and the DBpedia Spotlight will take a few more moments to load all the resources into memory.
 
 Once that is complete you can use the API from anywhere, on your local machine:
 ```
