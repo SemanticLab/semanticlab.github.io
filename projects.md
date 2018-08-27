@@ -24,7 +24,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
            <a href="http://semlab.io/DADAlytics_ner_demo/" target="_blank">About the Toolchain</a><br/>
            <a href="http://semlab.io/DADAlytics-ner-demo/" target="_blank">Toolchain Demo</a><br/><br/>
          <strong>Tool Testing [In Progress]</strong><br/><br/>
-         <strong>Photo Gallery [Coming Soon]</strong><br/><br/>
+           
 <br/>
         <!---<div class="wrapper">--->
           <a href="https://www.imls.gov/" target="_blank">
