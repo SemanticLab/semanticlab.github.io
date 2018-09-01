@@ -42,7 +42,7 @@ This summer school course at the University of Bologna focuses on the principl
 
 The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS student to investigate the utilization of Linked Open Data (LOD) within a museum setting. The fellowship allows the student to apply the knowledge and skills acquired from their course work in a professional setting while developing new skills through participation in an on-site internship. Relevant skills that will be developed during the course of the fellowship include data analysis and visualization, metadata research, and semantic web methods. While the project’s goal is to examine the applicability and utilization of LOD resources for a museum’s collections information, the student also learns how information on works of art is administered in a museum setting. Please find below information on the work by current and past recipients of the Whitney Linked Data Fellowship.
 
-2017-2018 Rachel Egan (Work in progress)<br/>
+2017-2018 Rachel Egan<br/>
 2016-2017 [Mollie Echeveria](http://www.mollieecheverria.com/projects/linked-open-data-whitney-museum/)<br/>
 2015-2016 [Joshua Dull](http://pfch.nyc/linked_open_data_at_the_whitney/index.html)
 
