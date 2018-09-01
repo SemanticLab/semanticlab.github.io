@@ -38,7 +38,16 @@ This summer school course at the University of Bologna focuses on the principl
 <hr/>
 <br/>
 
-**Whitney Linked Data Fellowship, Whitney Museum of Art**
+**MoMA Linked Open Data Fellowship, Museum of Modern Art Archives**
+
+The purpose of the LOD for Museums Fellowship is to provide support for a student to investigate the application of Linked Open Data (LOD) within a museum setting. The fellowship allows the student to apply the knowledge and competencies acquired from their course work in a professional setting while developing new skills through participation in an on-site internship.  The focus of the fellowship in the MoMA Archives is to help build a multi-institution integrated exhibition history index and explore its expression as linked open data. Relevant skills that will be developed during the course of the fellowship include data analysis, reconciliation methods, archival research methods, and semantic web methods.  The project's ultimate aim is to create a valuable research tool for art historical scholarship while also demonstrating methods for interlinking archival resources online. Please find below information on the work by current and past recipients of the Whitney Linked Data Fellowship.
+
+2018-2019 Sarah Ann Adams (in progress)<br/>
+<br/><br/>
+<hr/>
+<br/>
+
+**Whitney Linked Open Data Fellowship, Whitney Museum of Art**
 
 The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS student to investigate the utilization of Linked Open Data (LOD) within a museum setting. The fellowship allows the student to apply the knowledge and skills acquired from their course work in a professional setting while developing new skills through participation in an on-site internship. Relevant skills that will be developed during the course of the fellowship include data analysis and visualization, metadata research, and semantic web methods. While the project’s goal is to examine the applicability and utilization of LOD resources for a museum’s collections information, the student also learns how information on works of art is administered in a museum setting. Please find below information on the work by current and past recipients of the Whitney Linked Data Fellowship.
 
