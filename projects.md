@@ -72,10 +72,10 @@ With the support of:
     <img style="padding: 10px;" src="{{ "assets/logo_alise.jpg" | relative_url }}" alt="Alise" width="11%" />
   </a> 
   <a href="http://www.jazzandheritage.org/">
-    <img style="padding: 10px;" src="{{ "assets/logo_new_orleans_jazz_&_heritage_festival_and_foundation.png" | relative_url }}" alt="New Orleans Jazz and Heritage Foundation" width="16%" />
+    <img style="padding: 10px;" src="{{ "assets/logo_new_orleans_jazz_&_heritage_festival_and_foundation.png" | relative_url }}" alt="New Orleans Jazz and Heritage Foundation" width="18%" />
   </a>
   <a href="http://www.ellafitzgeraldfoundation.org/">
-    <img style="padding: 10px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="14%" />
+    <img style="padding: 10px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="18%" />
   </a>
   <a href="https://www.jazzednet.org/">
     <img style="padding: 10px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="10%" />
