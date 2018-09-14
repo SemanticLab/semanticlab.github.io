@@ -105,6 +105,7 @@ With the support of:
     <img style="padding: 10px;" src="{{ "assets/logo_eadh.png" | relative_url }}" alt="The Euopean Association for Digital Humanities logo" width="25%" />
   </a>
 </div>
+<br/>
 
 <hr/>
 <br/>
