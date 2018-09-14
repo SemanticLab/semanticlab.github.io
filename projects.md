@@ -85,6 +85,17 @@ With the support of:
 <hr/>
 <br/>
 
+<img style="padding: 7px; width: 175px;" src="{{ "assets/logo_mary_berenson_project.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/><br/>**An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at the Villa I Tatti, Harvard University Center for Italian Renaissance Studies Center**
+
+The Mary Berenson Project intends to investigate the application of computational analysis techniques to archival documents to automate the generation of linked open data with the goal of creating networked narratives. The project focuses on the collections of diaries and letters from the Berenson Archives held at the Villa I Tatti, [The Harvard University Center for Italian Renaissance Studies in Florence](http://itatti.harvard.edu/).<br/>
+
+[Mary Berenson](http://itatti.harvard.edu/mary-berenson)(Philadelphia, PA 1864-1944 Florence, Italy) was an art historian, critic and wife of Italian Renaissance art historian Bernard Berenson. While she worked in the shadow of her more renowned husband, Mary is now credited with having had significant influence over his scholarly work and having been instrumental in developing the rich social circle of intellectuals, artists and art collectors that surrounded the couple during the years spent at their residence Villa I Tatti in Florence—now The Harvard University Center for Italian Renaissance Studies. 
+
+Mary Berenson’s archive, a rich collection of letters, personal diaries, literary journals and notes, both published and unpublished, is part of the Bernard and Mary Berenson Papers (1880-2002) held at the Biblioteca Berenson at the Villa I Tatti. This trove of primary source material has enormous historical value, but has yet to be fully explored. 
+
+<hr/>
+<br/>
+
 <img style="padding: 7px; width: 175px;" src="{{ "assets/logo_drawings_of_the_florentine_painters.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/><br/>**Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
 
 [The Drawings of the Florentine Painters](http://florentinedrawings.itatti.harvard.edu/) is an online resource that allows users to simultaneously search through all three editions of art historian Bernard Berensen's seminal work "The Drawings of the Florentine Painters". This project is supported by a 2015  [Digital Resources Grant](http://itatti.harvard.edu/news/kress-foundation-gives-major-grant-%E2%80%9Cflorentine-renaissance-drawings%E2%80%9D-digital-project) awarded by the [Samuel H. Kress Foundation](http://www.kressfoundation.org/) to [Villa I Tatti, The Harvard University Center for Italian Renaissance Studies](http://itatti.harvard.edu/).<br/>
