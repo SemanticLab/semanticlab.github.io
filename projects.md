@@ -83,9 +83,8 @@ With the support of:
 </div>
 
 <hr/>
-<br/>
 
-<img style="padding: 8px; width: 175px;" src="{{ "assets/logo_drawings_of_the_florentine_painters.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/><br/>**Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
+<img style="padding: 7px; width: 175px;" src="{{ "assets/logo_drawings_of_the_florentine_painters.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/><br/>**Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
 
 [The Drawings of the Florentine Painters](http://florentinedrawings.itatti.harvard.edu/) is an online resource that allows users to simultaneously search through all three editions of art historian Bernard Berensen's seminal work "The Drawings of the Florentine Painters". This project is supported by a 2015  [Digital Resources Grant](http://itatti.harvard.edu/news/kress-foundation-gives-major-grant-%E2%80%9Cflorentine-renaissance-drawings%E2%80%9D-digital-project) awarded by the [Samuel H. Kress Foundation](http://www.kressfoundation.org/) to [Villa I Tatti, The Harvard University Center for Italian Renaissance Studies](http://itatti.harvard.edu/).<br/>
 
