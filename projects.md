@@ -83,6 +83,7 @@ With the support of:
 </div>
 
 <hr/>
+<br/>
 
 <img style="padding: 7px; width: 175px;" src="{{ "assets/logo_drawings_of_the_florentine_painters.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/><br/>**Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
 
