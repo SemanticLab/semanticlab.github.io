@@ -97,12 +97,12 @@ The Mary Berenson Project intends to investigate the application of computationa
 Mary Berenson’s archive, a rich collection of letters, personal diaries, literary journals and notes, both published and unpublished, is part of the Bernard and Mary Berenson Papers (1880-2002) held at the Biblioteca Berenson at the Villa I Tatti. This trove of primary source material has enormous historical value, but has yet to be fully explored. 
 
 With the support of:
-<div align="left" style="text-align: center;">
+<div>
   <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
     <img style="padding: 10px;" src="{{ "assets/logo_pratt_si.png" | relative_url }}" alt="Pratt Institute School of Information logo" width="11%" />
   </a>
   <a href="https://eadh.org/">
-    <img style="padding: 10px;" src="{{ "assets/logo_eadh.png" | relative_url }}" alt="The Euopean Association for Digital Humanities logo" width="14%" />
+    <img style="padding: 10px;" src="{{ "assets/logo_eadh.png" | relative_url }}" alt="The Euopean Association for Digital Humanities logo" width="25%" />
   </a>
 </div>
 
