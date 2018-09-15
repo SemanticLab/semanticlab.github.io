@@ -87,14 +87,15 @@ With the support of:
 
 <img style="padding: 8px; width: 340px;" src="{{ "assets/logo_mary_berenson_project.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/><br/><br/>
 
-**An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at**<br/>
-**Villa I Tatti, Harvard University Center for Italian Renaissance Studies Center**
+**An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies Center**
 
 The Mary Berenson Project intends to investigate the application of computational analysis techniques to archival documents to automate the generation of linked open data with the goal of creating networked narratives. The project focuses on the collections of diaries and letters from the Berenson Archives held at the Villa I Tatti, [The Harvard University Center for Italian Renaissance Studies in Florence](http://itatti.harvard.edu/).<br/>
 
 [Mary Berenson](http://itatti.harvard.edu/mary-berenson) (Philadelphia, PA 1864-1944 Florence, Italy) was an art historian, critic and wife of Italian Renaissance art historian Bernard Berenson. While she worked in the shadow of her more renowned husband, Mary is now credited with having had significant influence over his scholarly work and having been instrumental in developing the rich social circle of intellectuals, artists and art collectors that surrounded the couple during the years spent at their residence Villa I Tatti in Florence—now The Harvard University Center for Italian Renaissance Studies. 
 
 Mary Berenson’s archive, a rich collection of letters, personal diaries, literary journals and notes, both published and unpublished, is part of the Bernard and Mary Berenson Papers (1880-2002) held at the Biblioteca Berenson at the Villa I Tatti. This trove of primary source material has enormous historical value, but has yet to be fully explored. 
+
+Photograph of Mary Berenson in the [Public Domain](https://commons.wikimedia.org/wiki/File:Mary_Berenson_(n%C3%A9e_Smith)_1885_from_NPG.jpg)
 
 With the support of:
 <div>
