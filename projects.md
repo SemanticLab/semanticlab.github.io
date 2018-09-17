@@ -103,7 +103,7 @@ With the support of:
     <img style="padding: 10px;" src="{{ "assets/logo_pratt_si.png" | relative_url }}" alt="Pratt Institute School of Information logo" width="11%" />
   </a>
   <a href="https://eadh.org/">
-    <img style="padding: 10px;" src="{{ "assets/logo_eadh.png" | relative_url }}" alt="The Euopean Association for Digital Humanities logo" width="25%" />
+    <img style="padding: 10px;" src="{{ "assets/logo_eadh.png" | relative_url }}" alt="The Euopean Association for Digital Humanities logo" width="15%" />
   </a>
 </div>
 <br/>
