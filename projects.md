@@ -111,7 +111,7 @@ With the support of:
 <hr/>
 
 
-<img style="padding: 4px; width: 475px;" src="{{ "assets/logo_drawings_of_the_florentine_painters_3.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/>
+<img style="padding: 4px; width: 475px;" src="{{ "assets/logo_drawings_of_the_florentine_painters.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/>
 
 **Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
 
