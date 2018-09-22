@@ -108,7 +108,7 @@ With the support of:
 </div>
 <br/>
 
-<hr/>
+<hr/><br/>
 
 
 <img style="padding: 4px; width: 475px;" src="{{ "assets/logo_drawings_of_the_florentine_painters.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/>
