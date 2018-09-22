@@ -85,7 +85,7 @@ With the support of:
 <hr/>
 <br/>
 
-<img style="padding: 8px; width: 400px;" src="{{ "assets/logo_mary_berenson_project_10.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/><br/><br/>
+<img style="padding: 8px; width: 400px;" src="{{ "assets/logo_mary_berenson_project_10.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/><br/>
 
 **An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies Center**
 
