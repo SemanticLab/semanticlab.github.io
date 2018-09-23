@@ -89,7 +89,7 @@ With the support of:
 
 **An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies Center**
 
-The Mary Berenson Project intends to investigate the application of computational analysis techniques to archival documents to automate the generation of linked open data with the goal of creating networked narratives. The project focuses on the collections of diaries and letters from the Berenson Archives held at the Villa I Tatti, [The Harvard University Center for Italian Renaissance Studies in Florence](http://itatti.harvard.edu/).<br/>
+The Mary Berenson Project intends to investigate the application of computational analysis techniques to archival documents to automate the generation of linked open data with the goal of creating networked narratives. In collaboration with [The Harvard University Center for Italian Renaissance Studies in Florence, Villa I Tatti](http://itatti.harvard.edu/), the project focuses on the collections of diaries and letters from the Berenson Archives held at the Villa I Tatti.<br/>
 
 [Mary Berenson](http://itatti.harvard.edu/mary-berenson) (Philadelphia, PA 1864-1944 Florence, Italy) was an art historian, critic and wife of Italian Renaissance art historian Bernard Berenson. While she worked in the shadow of her more renowned husband, Mary is now credited with having had significant influence over his scholarly work and having been instrumental in developing the rich social circle of intellectuals, artists and art collectors that surrounded the couple during the years spent at their residence Villa I Tatti in Florence—now The Harvard University Center for Italian Renaissance Studies. 
 
