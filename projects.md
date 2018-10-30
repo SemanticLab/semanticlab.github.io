@@ -12,7 +12,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
 <br/>
 <table>
     <tr>
-       <td colspan="1" vertical-align: top>
+       <td colspan="1" valign="top">
          <strong>Grant Information</strong><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf" target="_blank">Preliminary Project Proposal</a><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
@@ -35,7 +35,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
         <!---</div>--->   
           <br/>
        </td>
-       <td colspan="2" vertical-align: top>
+       <td colspan="2" valign="top">
          <strong>Collaborators</strong><br/>
            Tulane University - Jeff Rubin<br/><a href="http://library.tulane.edu/about/directories/department/digital-initiatives-&-publishing" target="_blank">Digital Initiatives & Publishing, Howard-Tilton Memorial Library</a><br/>
            <hr style="height:8pt; visibility:hidden;" />
@@ -45,7 +45,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
            <hr style="height:8pt; visibility:hidden;" />
            Carnegie Hall - Robert Hudson<br/><a href="https://www.carnegiehall.org/About/History/Archives" target="_blank">Archives</a><br/>
            <hr style="height:8pt; visibility:hidden;" />
-           Whitney Museum of American Art - Farris Wahbeh<br/><a href="http://whitney.org/Collection/Research" target="_blank">Research Resources</a><br/><br/><br/><br/><br/>
+           Whitney Museum of American Art - Farris Wahbeh<br/><a href="http://whitney.org/Collection/Research" target="_blank">Research Resources</a>
        </td>
     </tr>
 </table>
