@@ -4,9 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1 class="page-heading">Projects: [DADAlytics](https://semlab.io/projects/#dadalytics) | [Linked Jazz](https://semlab.io/projects/#linked-jazz) | [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) | [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)</h1>
+<h1 class="page-heading">Projects:</h1> [DADAlytics](https://semlab.io/projects/#dadalytics) | [Linked Jazz](https://semlab.io/projects/#linked-jazz) | [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) | [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
-<a name="linked-jazz"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
+<a name="dadalytics"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
 With the generous support from IMLS, the Semantic Lab Team is developing a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project builds on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
 <br/>
