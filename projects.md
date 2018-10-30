@@ -45,8 +45,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
            <hr style="height:8pt; visibility:hidden;" />
            Carnegie Hall - Robert Hudson<br/><a href="https://www.carnegiehall.org/About/History/Archives" target="_blank">Archives</a><br/>
            <hr style="height:8pt; visibility:hidden;" />
-           Whitney Museum of American Art - Farris Wahbeh<br/><a href="http://whitney.org/Collection/Research" target="_blank">Research Resources</a><br/>
-<br/><br/><br/><br/><br/>
+           Whitney Museum of American Art - Farris Wahbeh<br/><a href="http://whitney.org/Collection/Research" target="_blank">Research Resources</a><br/><br/><br/><br/><br/>
        </td>
     </tr>
 </table>
