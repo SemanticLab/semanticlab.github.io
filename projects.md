@@ -12,7 +12,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
 <br/>
 <table>
     <tr>
-       <td colspan="1">
+       <td colspan="1" vertical-align: top>
          <strong>Grant Information</strong><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-preliminary-proposal.pdf" target="_blank">Preliminary Project Proposal</a><br/>
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
@@ -35,7 +35,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
         <!---</div>--->   
           <br/>
        </td>
-       <td colspan="2">
+       <td colspan="2" vertical-align: top>
          <strong>Collaborators</strong><br/>
            Tulane University - Jeff Rubin<br/><a href="http://library.tulane.edu/about/directories/department/digital-initiatives-&-publishing" target="_blank">Digital Initiatives & Publishing, Howard-Tilton Memorial Library</a><br/>
            <hr style="height:8pt; visibility:hidden;" />
