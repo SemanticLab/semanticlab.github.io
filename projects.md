@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1 class="page-heading">Projects: [DADAlytics](#dadalytics) | [Linked Jazz](#linked-jazz) | [The Mary Berenson Project](#the-mary-berenson-project) | [Drawings of the Florentine Painters](drawings-of-the-florentine-painters)</h1>
+<h1 class="page-heading">Projects: [DADAlytics](https://semlab.io/projects/#dadalytics) | [Linked Jazz](https://semlab.io/projects/#linked-jazz) | [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) | [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)</h1>
 
 <a name="linked-jazz"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
