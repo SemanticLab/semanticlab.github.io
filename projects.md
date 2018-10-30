@@ -4,9 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1 class="page-heading">Projects: DADAlytics | Linked Jazz | The Mary Berenson Project | Drawings of the Florentine Painters</h1>
+<h1 class="page-heading">Projects: [DADAlytics](#dadalytics) | [Linked Jazz](#linked-jazz) | [The Mary Berenson Project](#the-mary-berenson-project) | [Drawings of the Florentine Painters](drawings-of-the-florentine-painters)</h1>
 
-<img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
+<a name="linked-jazz"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
 With the generous support from IMLS, the Semantic Lab Team is developing a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project builds on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
 <br/>
@@ -52,7 +52,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
 
 <hr/>
 <br/>
-<a href="https://linkedjazz.org/"><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_linked_jazz_10.png" | relative_url }}" alt="Linked Jazz logo" width="8%"/></a>
+<a name="linked-jazz" href="https://linkedjazz.org/"><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_linked_jazz_10.png" | relative_url }}" alt="Linked Jazz logo" width="8%"/></a>
 
 
 
@@ -85,7 +85,7 @@ With the support of:
 <hr/>
 <br/>
 
-<img style="padding: 8px; width: 400px;" src="{{ "assets/logo_mary_berenson_project_1.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/>
+<a name="the-mary-berenson-project"></a><img style="padding: 8px; width: 400px;" src="{{ "assets/logo_mary_berenson_project_1.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/>
 
 **An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies Center**
 
@@ -111,7 +111,7 @@ With the support of:
 <hr/><br/>
 
 
-<img style="padding: 4px; width: 475px;" src="{{ "assets/logo_drawings_of_the_florentine_painters_10.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/>
+<a name="drawings-of-the-florentine-painters"></a><img style="padding: 4px; width: 475px;" src="{{ "assets/logo_drawings_of_the_florentine_painters_10.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/>
 
 **Florentine Renaissance Drawings: A Linked Catalogue for the Semantic Web**
 
