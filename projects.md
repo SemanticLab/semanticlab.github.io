@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1 class="page-heading">Projects</h1>
+<h1 class="page-heading">Projects: DADAlytics | Linked Jazz | The Mary Berenson Project | Drawings of the Florentine Painters</h1>
 
 <img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
