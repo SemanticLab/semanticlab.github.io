@@ -23,7 +23,9 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
          <strong>Named-Entity Recognition Toolchain</strong><br/>
            <a href="http://semlab.io/DADAlytics_ner_demo/" target="_blank">About the Toolchain</a><br/>
            <a href="http://semlab.io/DADAlytics-ner-demo/" target="_blank">Toolchain Demo</a><br/><br/>
-         <strong>Tool Testing [In Progress]</strong><br/><br/>
+         <strong>Tool Testing</strong><br/>
+           <a href="http://semlab.io/DADAlytics-ner-evaluation/" target="_blank">Results: Manual Markup vs. DADAlytics Automatic Extraction</a><br/>
+           <br/>
            
 <br/>
         <!---<div class="wrapper">--->
