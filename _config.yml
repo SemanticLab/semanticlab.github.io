@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Semantic Lab
-subtitle: "@ Pratt Institute"
+subtitle: "at Pratt Institute"
 email: foaf.Person@semlab.io
 description: 
   Director Prof. Cristina Pattuelli<br/>
