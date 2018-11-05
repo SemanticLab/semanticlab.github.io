@@ -18,8 +18,8 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
            <a href="https://www.imls.gov/sites/default/files/grants/lg-72-17-0179-17/proposals/lg-72-17-0179-17-full-proposal-documents.pdf" target="_blank">Final Project Proposal</a><br/>
            <a href="https://www.imls.gov/grants/awarded/lg-72-17-0179-17" target="_blank">Grant Announcement</a><br/><br/>
          <strong>Stakeholder Meetings</strong><br/>
-           6 November 2017 - <a href="https://drive.google.com/open?id=1oxPVhEi1fP4p0QZF2LzG9p4fMRCK_H-G" target="_blank">Agenda</a><br/>
-           6 November 2017 - <a href="https://drive.google.com/open?id=1qAvGaJI_uq8X0JA1sMkhKbyCKL-2VB3P" target="_blank">Meeting Notes</a><br/><br/>
+           6 November 2017 - <a href="https://github.com/SemanticLab/semanticlab.github.io/blob/master/assets/dadalytics_stakeholder_meeting_agenda.pdf" target="_blank">Agenda</a><br/>
+           6 November 2017 - <a href="https://github.com/SemanticLab/semanticlab.github.io/blob/master/assets/dadalytics_stakeholder_meeting_compiled_notes.pdf" target="_blank">Meeting Notes</a><br/><br/>
          <strong>Named-Entity Recognition Toolchain</strong><br/>
            <a href="http://semlab.io/DADAlytics_ner_demo/" target="_blank">About the Toolchain</a><br/>
            <a href="http://semlab.io/DADAlytics-ner-demo/" target="_blank">Toolchain Demo</a><br/><br/>
