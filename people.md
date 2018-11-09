@@ -7,7 +7,7 @@ permalink: /people/
 
 <h1 class="page-heading">People</h1>
 
-
+**Current Members:**
 <div class="people-table">
 		<table>
 		<tbody>
@@ -25,8 +25,7 @@ permalink: /people/
 	</table>
 </div>
 
-Past Members
-
+**Past Members:**
 <div class="people-table">
 		<table>
 		<tbody>
