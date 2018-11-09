@@ -25,6 +25,8 @@ permalink: /people/
 	</table>
 </div>
 
+Past Members
+
 <div class="people-table">
 		<table>
 		<tbody>
