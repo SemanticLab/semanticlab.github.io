@@ -29,7 +29,7 @@ permalink: /people/
 		<table>
 		<tbody>
 
-			{% for member in site.data.people_team_past %}
+			{% for member in site.data.people_team %}
 			  <tr>
 			  	<td>{% if member.name %}{{ member.name }}{% endif %}</td>
 			  	<td>{% if member.email %}<a href="mailto:{{ member.email }}">email</a>{% endif %}</td>
