@@ -88,7 +88,7 @@ With the support of:
 
 <a name="the-mary-berenson-project"></a><img style="padding: 8px; width: 400px;" src="{{ "assets/logo_mary_berenson_project_1.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/>
 
-**An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies Center**
+**An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies**
 
 The Mary Berenson Project intends to investigate the application of computational analysis techniques to archival documents to automate the generation of linked open data with the goal of creating networked narratives. In collaboration with [The Harvard University Center for Italian Renaissance Studies, Villa I Tatti](http://itatti.harvard.edu/), the project focuses on the collections of diaries and letters from the Berenson Archives held at the Villa I Tatti.<br/>
 
