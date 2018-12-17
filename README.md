@@ -14,7 +14,7 @@ layout: post
 title: "Your title here!"
 ---
 ```
-## Add a new document
+## Add a new document (publication)
 * They live [here](https://github.com/SemanticLab/semanticlab.github.io/tree/master/documents/_posts)
 * Create a new markdown file in that directory, make sure the date starts out the filename like the others.
 * make sure there are these frontmatter lines (the link is the link to the document(s)):
