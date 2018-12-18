@@ -24,6 +24,7 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
            <a href="http://semlab.io/DADAlytics_ner_demo/" target="_blank">About the Toolchain</a><br/>
            <a href="http://semlab.io/DADAlytics-ner-demo/" target="_blank">Toolchain Demo</a><br/><br/>
          <strong>Tool Testing</strong><br/>
+           <a href="http://semlab.io/DADAlytics-ner-evaluation/document_summary.html" target="_blank">Overview of Documents Used for Tool Testing</a><br/>
            <a href="http://semlab.io/DADAlytics-ner-evaluation/" target="_blank">Manual Markup vs. DADAlytics Automatic Extraction     </a><br/>
            <br/>
            
