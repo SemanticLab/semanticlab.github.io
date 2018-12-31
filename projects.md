@@ -65,7 +65,7 @@ The project draws on jazz history materials in digital format to expose relation
 **Women in Jazz**<br/>
 [Linked Jazz Network Gender View](https://linkedjazz.org/network/?mode=gender)<br/>
 [2015 Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/WomenOfJazz)<br/>
-[2017 New Orleans Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz)<br/><br/>
+[2017 New Orleans Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz)<br/>
 
 **Local 496 Project**<br/>
 
