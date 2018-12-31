@@ -64,13 +64,13 @@ The project draws on jazz history materials in digital format to expose relation
 
 <table>
     <tr>
-       <td colspan="1" valign="top">
+       <td colspan="3" valign="top">
          <strong>Women in Jazz</strong><br/>
        </td>
-       <td colspan="1" valign="top">
+       <td colspan="3" valign="top">
          <strong>Local 496 Project</strong><br/>
        </td>
-       <td colspan="1" valign="top">
+       <td colspan="3" valign="top">
          <strong>Zena Latto Project</strong><br/>
        </td>
     </tr>
