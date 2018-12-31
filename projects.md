@@ -68,6 +68,9 @@ The project draws on jazz history materials in digital format to expose relation
 [2017 New Orleans Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz)<br/>
 
 **Local 496 Project**<br/>
+[2018 New York Archives Conference - Local 496 Poster](https://www.dropbox.com/s/4xrlh7w11ytc7fj/Local%20496%20%20Batiste%20Poster_5.30.2018.pdf?dl=0)<br/>
+[2018 New York Archives Conference - Local 496 Project Narrative](https://www.dropbox.com/s/v3o9pqr7nl9gziq/GSEF%20Narrative.pdf?dl=0)<br/>
+[Jazz Musicians added to GeoNames from Local 496 Union List](http://www.geonames.org/search.html?q=%22Jazz+Artist%22&startRow=0)
 
 **Zena Latto Project**<br/>
 [Discovering Zena Latto](https://linkedjazz.org/discovering-zena-latto-2/) - Linked Jazz Write-Up<br/>
