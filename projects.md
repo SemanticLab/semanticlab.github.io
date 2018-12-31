@@ -62,6 +62,20 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
 
 The project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network. New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement. [LinkedJazz.org](https://linkedjazz.org)
 
+<table>
+    <tr>
+       <td colspan="1" valign="top">
+         <strong>Women in Jazz</strong><br/>
+       </td>
+       <td colspan="1" valign="top">
+         <strong>Local 496 Project</strong><br/>
+       </td>
+       <td colspan="1" valign="top">
+         <strong>Zena Latto Project</strong><br/>
+       </td>
+    </tr>
+</table>
+
 With the support of:
 <div class="center-div" style="text-align: center;">
   <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
