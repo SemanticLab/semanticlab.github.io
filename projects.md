@@ -62,17 +62,19 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
 
 The project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network. New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement. [LinkedJazz.org](https://linkedjazz.org)
 
-**Women in Jazz**</br>
-[Linked Jazz Network Gender View](https://linkedjazz.org/network/?mode=gender)</br>
-[2015 Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/WomenOfJazz)</br>
-[2017 New Orleans Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz)</br></br>
-**Local 496 Project**</br>
-**Zena Latto Project**</br>
-[Discovering Zena Latto](https://linkedjazz.org/discovering-zena-latto-2/) - Linked Jazz Write-Up</br>
-[Zena Latto Wikipedia Page](https://en.wikipedia.org/wiki/Zena_Latto)</br>
-[Zena Latto Omeka Site](https://zenalatto.omeka.net/)</br>
-[Zena's Flyer](https://www.carnegiehall.org/Blog/2016/09/Zenas-Flyer) - Carnegie Hall Write-Up</br>
-[Linked Jazz Interview with Zena Latto, 2015](https://archive.org/details/LinkedJazzZenaLattoInterview2015) - Internet Archive</br>
+**Women in Jazz**<br/>
+[Linked Jazz Network Gender View](https://linkedjazz.org/network/?mode=gender)<br/>
+[2015 Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/WomenOfJazz)<br/>
+[2017 New Orleans Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz)<br/><br/>
+
+**Local 496 Project**<br/>
+
+**Zena Latto Project**<br/>
+[Discovering Zena Latto](https://linkedjazz.org/discovering-zena-latto-2/) - Linked Jazz Write-Up<br/>
+[Zena Latto Wikipedia Page](https://en.wikipedia.org/wiki/Zena_Latto)<br/>
+[Zena Latto Omeka Site](https://zenalatto.omeka.net/)<br/>
+[Zena's Flyer](https://www.carnegiehall.org/Blog/2016/09/Zenas-Flyer) - Carnegie Hall Write-Up<br/>
+[Linked Jazz Interview with Zena Latto, 2015](https://archive.org/details/LinkedJazzZenaLattoInterview2015) - Internet Archive<br/>
 
 With the support of:
 <div class="center-div" style="text-align: center;">
