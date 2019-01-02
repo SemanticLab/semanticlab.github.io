@@ -63,15 +63,10 @@ With the generous support from IMLS, the Semantic Lab Team is developing a proto
 The project draws on jazz history materials in digital format to expose relationships between musicians and reveal their community network. New modes of connecting cultural data have the potential to open up new and unprecedented avenues of research and community engagement. Current subprojects of Linked Jazz are Women in Jazz, the Local 496 Project, and the Zena Latto Project. Information on these projects can be found below and at [LinkedJazz.org](https://linkedjazz.org).
 
 
-**Women in Jazz**<br/>
+**Women of Jazz**<br/>
 [Linked Jazz Network Gender View](https://linkedjazz.org/network/?mode=gender)<br/>
 [2015 Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/WomenOfJazz)<br/>
 [2017 New Orleans Women of Jazz Wikipedia Edit-a-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz)<br/>
-
-**Local 496 Project**<br/>
-[2018 New York Archives Conference - Local 496 Poster](https://www.dropbox.com/s/4xrlh7w11ytc7fj/Local%20496%20%20Batiste%20Poster_5.30.2018.pdf?dl=0)<br/>
-[2018 New York Archives Conference - Local 496 Project Narrative](https://www.dropbox.com/s/v3o9pqr7nl9gziq/GSEF%20Narrative.pdf?dl=0)<br/>
-[Jazz Musicians added to GeoNames from Local 496 Union List](http://www.geonames.org/search.html?q=%22Jazz+Artist%22&startRow=0)
 
 **Zena Latto Project**<br/>
 [Discovering Zena Latto](https://linkedjazz.org/discovering-zena-latto-2/) - Linked Jazz Write-Up<br/>
@@ -79,6 +74,11 @@ The project draws on jazz history materials in digital format to expose relation
 [Zena Latto Omeka Site](https://zenalatto.omeka.net/)<br/>
 [Zena's Flyer](https://www.carnegiehall.org/Blog/2016/09/Zenas-Flyer) - Carnegie Hall Write-Up<br/>
 [Linked Jazz Interview with Zena Latto, 2015](https://archive.org/details/LinkedJazzZenaLattoInterview2015) - Internet Archive<br/>
+
+**Local 496 Project**<br/>
+[2018 New York Archives Conference - Local 496 Poster](https://www.dropbox.com/s/4xrlh7w11ytc7fj/Local%20496%20%20Batiste%20Poster_5.30.2018.pdf?dl=0)<br/>
+[2018 New York Archives Conference - Local 496 Project Narrative](https://www.dropbox.com/s/v3o9pqr7nl9gziq/GSEF%20Narrative.pdf?dl=0)<br/>
+[Jazz Musicians added to GeoNames from Local 496 Union List](http://www.geonames.org/search.html?q=%22Jazz+Artist%22&startRow=0)<br/>
 
 With the support of:
 <div class="center-div" style="text-align: center;">
