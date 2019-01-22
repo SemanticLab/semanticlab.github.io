@@ -9,7 +9,7 @@ permalink: /projects/
 
 <a name="dadalytics"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
-With the generous support from IMLS, the Semantic Lab Team is developing a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project builds on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
+With the generous support from IMLS, the Semantic Lab Team has developed a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project builds on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds will support the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders and the development of a prototype.
 <br/>
 <table>
     <tr>
@@ -108,7 +108,7 @@ With the support of:
 
 <a name="the-mary-berenson-project"></a><img style="padding: 8px; width: 400px;" src="{{ "assets/logo_mary_berenson_project_1.png" | relative_url }}" alt="The Mary Berenson Project logo" width="100%"/>
 
-**An Exploratory Study into the Mining and LInking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies**
+**An Exploratory Study into the Mining and Linking of the Mary Berenson Archive at Villa I Tatti, Harvard University Center for Italian Renaissance Studies**
 
 The Mary Berenson Project intends to investigate the application of computational analysis techniques to archival documents to automate the generation of linked open data with the goal of creating networked narratives. In collaboration with [The Harvard University Center for Italian Renaissance Studies, Villa I Tatti](http://itatti.harvard.edu/), the project focuses on the collections of diaries and letters from the Berenson Archives held at the Villa I Tatti.<br/>
 
