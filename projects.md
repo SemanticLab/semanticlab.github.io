@@ -63,16 +63,16 @@ The jazz community is defined by the relationships that exist between musicians,
 The Linked Open Data tools and methods developed for the Linked Jazz project have opened new and unprecedented avenues of research and community engagement. Our work has generated the subprojects listed below.
 
 
-<a name="women-of-jazz">**Women of Jazz**</a><br/>
+<a name="women-of-jazz"></a>**Women of Jazz**<br/>
 
 The goal of the Linked Jazz Network Visualization Tool is to tell meaningful stories through data. One of the most powerful stories to come out of Linked Jazz was about women in jazz. By viewing connections by gender, it became evident (although not surprising) that a sizable population of outstanding female musicians were not widely known, let alone recognized for their important contributions. [Our findings](https://linkedjazz.org/enriching-the-linked-jazz-name-list-with-gender-information/) led to a series of Women of Jazz Wikipedia Edit-a-thons ([2015](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/WomenOfJazz) and [2017)](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz) and projects like the creation of a [gender view](https://linkedjazz.org/network/?mode=gender) of the Linked Jazz knowledge graph. 
 
 
-<a name="zena-latto-project">**Zena Latto Project**</a><br/>
+<a name="zena-latto-project"></a>**Zena Latto Project**<br/>
 
 How do you tell the story of someone whose work has left few or no traces? Like so many of the women in jazz, [Zena Latto’s story](https://linkedjazz.org/discovering-zena-latto-2/) is representative of musicians whose presence and influence were all but lost to history. Our involvement began when archivists at Carnegie Hall came across a [flyer](https://www.carnegiehall.org/Blog/2016/09/Zenas-Flyer) for a 1957 all-female jazz show they’d hosted but had no institutional record of. The Semantic Lab at Pratt began to gather the materials needed to give Zena an online identity. Prior to her death in 2016, Zena Latto herself consented to an interview and passed her jazz archives on to the Semantic Lab at Pratt. These materials were digitized and made publicly available via the [Internet Archive](https://archive.org/details/LinkedJazzZenaLattoInterview2015) and [Omeka](https://zenalatto.omeka.net/). A [Wikipedia page](https://en.wikipedia.org/wiki/Zena_Latto) was created by members of the Semantic Lab who have [continued to work](https://linkedjazz.org/discovering-zena-latto-2/) on the Zeno Latto Project. Her record serves as an illustration of the possibilities in historical recovery and a hub for other marginalized women in jazz.
 
-<a name="local-496-project">**Local 496 Project**</a><br/>
+<a name="local-496-project"></a>**Local 496 Project**<br/>
 
 The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holdingsInfo?searchId=531&recCount=10&recPointer=1&bibId=966417) is the official roster of the Local 496 labor union created in the 1940s. It includes the names, addresses and instruments of the union members from the one-time segregated African-American chapter of the New Orleans jazz musicians’ union. While the chapter merged with the white musicians’ chapter in 1969, the Directory is a unique document that helps identify a cohesive and interrelated community of musicians. In collaboration with [Tulane University’s Hogan Jazz Archive](https://jazz.tulane.edu/), the Semantic Lab is transforming this static list into an expanded knowledge graph that will support and further jazz and other historical research in significant ways.
 
