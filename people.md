@@ -25,7 +25,6 @@ permalink: /people/
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Past Student Members:</b>
-
 Rachel Egan, Dana Lachenmayer, Eric Toole
 
 
