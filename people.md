@@ -25,7 +25,6 @@ permalink: /people/
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Past Student Members:**
-		<body>
 
 			{% for member in site.data.people_team_past %}
 			  <tr>
@@ -36,7 +35,6 @@ permalink: /people/
 			  	<td>{% if member.website %}<a href="{{ member.website }}">website</a>{% endif %}</td>
 			  </tr>
 			{% endfor %}
-		</body>
 </div>
 
 
