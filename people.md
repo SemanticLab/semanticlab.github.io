@@ -36,8 +36,7 @@ permalink: /people/
 			  	<td>{% if member.website %}<a href="{{ member.website }}">website</a>{% endif %}</td>
 			  </tr>
 			{% endfor %}
-		</tbody>
-	</table>
+		</body>
 </div>
 
 
