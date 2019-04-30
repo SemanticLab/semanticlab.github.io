@@ -25,9 +25,7 @@ permalink: /people/
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Past Student Members:**
-<div class="people-table">
-		<table>
-		<tbody>
+		<body>
 
 			{% for member in site.data.people_team_past %}
 			  <tr>
