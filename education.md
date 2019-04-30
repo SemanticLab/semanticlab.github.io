@@ -33,7 +33,7 @@ Technical knowledge and proficiency is an increasingly valued and useful skill i
 Cristina Pattuelli and Matt Miller
 
 This summer school course at the University of Bologna focuses on the principles and techniques of Linked Data in the context of its relationship to cultural heritage, offering a theoretical and practical introduction to the most recent methods of representing the resources stored in libraries, archives, and other types of cultural institutions. Students gain the skills necessary to process and communicate information about cultural heritage by participating in the construction of the semantic web and the dissemination of knowledge of cultural heritage in a responsible and qualified manner, with the ultimate goal of increasing visibility and facilitating access to these resources.
-[Linked Data per i Beni Culturali - Summer School](https://site.unibo.it/linked-data-per-i-beni-culturali/it)
+[Linked Data per i Beni Culturali - Summer School](https://site.unibo.it/linked-data-per-i-beni-culturali/it) (2016, 2017 and 2018)
 <br/><br/>
 <hr/>
 <br/>
