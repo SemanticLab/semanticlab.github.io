@@ -24,8 +24,8 @@ permalink: /people/
 	</table>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><p style="margin-left: 40px">Past Student Members:</p></b>
-Rachel Egan, Dana Lachenmayer, Eric Toole
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1 class="page-heading">Past Student Members</h1>
+<br>Rachel Egan, Dana Lachenmayer, Eric Toole</br>
 
 
 <!-- 
