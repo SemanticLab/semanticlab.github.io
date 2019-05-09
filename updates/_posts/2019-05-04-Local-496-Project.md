@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 title: "Latest from Local 496 Project"
 ---
