@@ -235,7 +235,7 @@ Save and exit
 
 
 ### Step 5
-###Testing everything works
+### Testing everything works
 
 Start up the system again:
 ```
@@ -250,7 +250,7 @@ Click Log In
 It should direct you to wikibase port and ask you to approve the Oauth link, you click yes
 And now quick statements should work
 
-![Linking Quickstatements to Wikibase login](https://github.com/SemanticLab/semanticlab.github.io/blob/master/assets/howto/wikibase_basic_conntect_oauth.gif)
+![Linking Quickstatements to Wikibase login](https://raw.githubusercontent.com/SemanticLab/semanticlab.github.io/master/assets/howto/wikibase_basic_conntect_oauth.gif)
 
 
 If you are going to keep the server around and you want to make this wikibase running a service that will startup if the computer reboots and runs in the background. You probably also want to setup some swap space to the server.
