@@ -130,4 +130,142 @@ And then “Update consumer status”
 ![Approve OAuth](https://raw.githubusercontent.com/SemanticLab/semanticlab.github.io/master/assets/howto/wikibase_basic_auth_oauth.gif)
 
 
+### Step 4
+### Configure images
 
+Now that we have the info we need we can shut down the docker server in the terminal pressing Control+C and it should shut down gracefully.
+
+We want to do three things
+Disable public account creation and public editing
+Change the logo
+Add our OAuth key and secret to the Quickstatements image so it can work
+Update our IP address in the config so Quickstatements can work
+
+We are going to edit the docker-compose.yml file using the editor vi
+vi docker-compose.yml
+
+We press the letter “i” to start insert mode, if you ever mess up and want to start over hit [esc] (escape key) and press colon “:” and enter “q!” (quit without saving)
+
+----
+Edit the volumes for wikibase. Before:
+```
+    volumes:
+      - mediawiki-images-data:/var/www/html/images
+      - quickstatements-data:/quickstatements/data
+```
+After:
+```
+    volumes:
+      - mediawiki-images-data:/var/www/html/images
+      - quickstatements-data:/quickstatements/data
+      - ./wikibase-basic-local/LocalSettings.php:/var/www/html/LocalSettings.php
+      - ./wikibase-basic-local/custom.png:/var/www/html/resources/assets/wiki.png
+```
+----
+Edit the IP address in environment for wikibase. Before:
+```
+      - QS_PUBLIC_SCHEME_HOST_AND_PORT=http://localhost:9191
+```      
+After:
+```
+      - QS_PUBLIC_SCHEME_HOST_AND_PORT=http://167.99.125.251:9191
+```
+-----
+Edit the volumes for quickstatements. Before:
+```
+    volumes:
+     - quickstatements-data:/quickstatements/data
+```     
+After:
+```
+    volumes:
+     - quickstatements-data:/quickstatements/data
+     - ./wikibase-basic-local/qs-oauth.json:/quickstatements/data/qs-oauth.json
+```     
+-----
+Edit the environment for quickstatements. Before:
+```
+    environment:
+      - QS_PUBLIC_SCHEME_HOST_AND_PORT=http://localhost:9191
+      - WB_PUBLIC_SCHEME_HOST_AND_PORT=http://localhost:8181
+      - WIKIBASE_SCHEME_AND_HOST=http://wikibase.svc
+      - WB_PROPERTY_NAMESPACE=122
+      - "WB_PROPERTY_PREFIX=Property:"
+      - WB_ITEM_NAMESPACE=120
+      - "WB_ITEM_PREFIX=Item:"
+```      
+After:
+```
+    environment:
+      - QS_PUBLIC_SCHEME_HOST_AND_PORT=http://167.99.125.251:9191
+      - WB_PUBLIC_SCHEME_HOST_AND_PORT=http://167.99.125.251:8181
+      - WIKIBASE_SCHEME_AND_HOST=http://wikibase.svc
+      - WB_PROPERTY_NAMESPACE=122
+      - "WB_PROPERTY_PREFIX=Property:"
+      - WB_ITEM_NAMESPACE=120
+      - "WB_ITEM_PREFIX=Item:"
+      - OAUTH_CONSUMER_KEY=978b1226ab40cd643c5a9041039b85c1
+      - OAUTH_CONSUMER_SECRET=6186cbbfa24d13bf4df68713a7ada045a6adb4e1
+```
+Okay. hit [esc] and enter “:” and enter “w” and hit enter. Then [esc] “:” and “q” and enter.
+
+We also need to add the OAuth to a json file that the quick statements image reads:
+```
+vi wikibase-basic-local/qs-oauth.json
+```
+
+Before:
+```
+{
+  "key":"KEYHERE",
+  "secret" : "SECRETHERE"
+}
+```
+After:
+```
+{
+  "key":"978b1226ab40cd643c5a9041039b85c1",
+  "secret" : "6186cbbfa24d13bf4df68713a7ada045a6adb4e1"
+}
+```
+
+These are my keys, you need to use the ones you got from the process earlier.
+
+Save and exit
+
+
+### Step 5
+###Testing everything works
+
+Start up the system again:
+```
+docker-compose up
+```
+
+Once running go to your main site port 8181 and hard refresh and you should see update Logo.
+Lets connect Quickstatments to the wikibase goto:
+http://<YOUR-IP>:9191
+So port 9191
+Click Log In 
+It should direct you to wikibase port and ask you to approve the Oauth link, you click yes
+And now quick statements should work
+
+![Linking Quickstatements to Wikibase login](https://github.com/SemanticLab/semanticlab.github.io/blob/master/assets/howto/wikibase_basic_conntect_oauth.gif)
+
+
+If you are going to keep the server around and you want to make this wikibase running a service that will startup if the computer reboots and runs in the background. You probably also want to setup some swap space to the server.
+
+Control+C to wait for gracefully server shutdown
+I have two scripts that does this for you we just need to make them executable and run them:
+
+```
+cd wikibase-basic-local/
+chmod +x create_swap.sh 
+sudo ./create_swap.sh 
+chmod +x make_service.sh 
+sudo ./make_service.sh 
+```
+
+And that’s it, Wikbase should be running in the background now and will startup if the server reboots.
+
+Don’t forget to “destroy” your digitalocean droplet when you are done.
