@@ -244,7 +244,7 @@ docker-compose up
 
 Once running go to your main site port 8181 and hard refresh and you should see update Logo.
 Lets connect Quickstatments to the wikibase goto:
-http://<YOUR-IP>:9191
+http://\<YOUR-IP\>:9191
 So port 9191
 Click Log In 
 It should direct you to wikibase port and ask you to approve the Oauth link, you click yes
