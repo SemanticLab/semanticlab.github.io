@@ -98,9 +98,16 @@ Your wikibase should be running at:
 
 So for mine it was http://167.99.125.251:8181
 
-The services run of different ports
+The services run on different ports
 
-The first thing we need to do it create some data because I’ve found things stop working if you restart the service after it has initialized but has no data (seems like it break wdqs-updater)
+```
+http://<YOUR-IP>:8181 - Main Wikibase 
+http://<YOUR-IP>:8282 - Query service
+http://<YOUR-IP>:9191 - Quickstatements
+```
+
+
+The first thing we need to do it create some data because I’ve found things stop working if you restart the service after it has initialized but has no data (seems like it breaks wdqs-updater)
 
 Click on special pages on the left and create a property and an item:
 
