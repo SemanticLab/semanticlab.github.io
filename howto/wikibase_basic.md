@@ -31,7 +31,7 @@
 ### Step 1
 ### Setting up server. 
 
-We are using Digitalocean.com for this tutorial. If you want to use it you need to setup an account: https://www.digitalocean.com/ 
+We are using Digitalocean.com for this tutorial. If you want to use it you need to setup an account: [Digital Ocean](https://www.digitalocean.com/)
 
 Create a new droplet with the green Create button
 
