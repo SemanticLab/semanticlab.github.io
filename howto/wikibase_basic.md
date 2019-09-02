@@ -116,7 +116,7 @@ Request a token for a new consumer.
 ![Fill out Oauth Form](https://raw.githubusercontent.com/SemanticLab/semanticlab.github.io/master/assets/howto/wikibase_basic_create_oauth.gif)
 
 Fill out the form, important values:
-OAuth "callback" URL: “http://<YOUR-IP>:9191/api.php”
+OAuth "callback" URL: “http://\<YOUR-IP\>:9191/api.php”
 Allow consumer to specify a callback in requests and use "callback" URL above as a required prefix. : Yes
 Rights: High-volume editing, Edit existing pages, Edit protected pages, Create, edit, and move pages
 
@@ -142,7 +142,9 @@ Add our OAuth key and secret to the Quickstatements image so it can work
 Update our IP address in the config so Quickstatements can work
 
 We are going to edit the docker-compose.yml file using the editor vi
+```
 vi docker-compose.yml
+```
 
 We press the letter “i” to start insert mode, if you ever mess up and want to start over hit [esc] (escape key) and press colon “:” and enter “q!” (quit without saving)
 
