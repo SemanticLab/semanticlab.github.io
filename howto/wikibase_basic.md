@@ -277,4 +277,4 @@ sudo ./make_service.sh
 
 And that’s it, Wikbase should be running in the background now and will startup if the server reboots.
 
-Don’t forget to “destroy” your digitalocean droplet when you are done.
+If you are done you can “destroy” your digitalocean droplet when you are completely done, this will distory the server (and your wikibase instance and data) otherwise it will keep charging you for your server.
