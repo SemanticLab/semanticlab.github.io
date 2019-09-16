@@ -23,7 +23,7 @@ With the generous support from IMLS, the Semantic Lab Team has developed a proto
            6 November 2017 - <a href="https://github.com/SemanticLab/semanticlab.github.io/blob/master/assets/dadalytics_stakeholder_meeting_compiled_notes.pdf" target="_blank">Meeting Notes</a><br/><br/>
          <strong>Named Entity Recognition Service</strong><br/>
            <a href="http://semlab.io/DADAlytics_ner_demo/" target="_blank">About the Service</a><br/>
-           <a href="http://tools.semlab.io" target="_blank">To try the service visit our Semantic Lab Tools page</a><br/><br/>
+           To try the service visit our <a href="http://tools.semlab.io" target="_blank">Semantic Lab Tools page</a><br/><br/>
          <strong>Tool Testing</strong><br/>
            <a href="http://semlab.io/DADAlytics-ner-evaluation/document_summary.html" target="_blank">Overview of Documents Used for Tool Testing</a><br/>
            <a href="http://semlab.io/DADAlytics-ner-evaluation/" target="_blank">Manual Markup vs. DADAlytics Automatic Extraction     </a><br/>
