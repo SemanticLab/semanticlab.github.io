@@ -26,6 +26,6 @@
 </div>
 
 
-A demo of the early aplha version of Sélavy tool
+A demo of the early alpha version of Sélavy tool
 
 http://tools.semlab.io/
