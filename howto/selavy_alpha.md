@@ -28,4 +28,4 @@
 
 A demo of the early alpha version of Sélavy tool
 
-http://tools.semlab.io/
+[http://tools.semlab.io/](http://tools.semlab.io/)
