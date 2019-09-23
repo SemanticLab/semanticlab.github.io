@@ -19,7 +19,7 @@
 }
 </style>
 
-## Wikibase Install Basic Tutorial
+## Sélavy - Alpha Demo
 
 <div class="responsive-container">
 <iframe width="100%" height="720" src="https://www.youtube-nocookie.com/embed/Pg4CiaLNk8o?VQ=HD1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
