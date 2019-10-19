@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-<h1 class="page-heading">Publications</h1>
+<h1 class="page-heading">Publications and Presentations</h1>
 
 <div class="documents">
 	{% for document in site.categories.documents %}
