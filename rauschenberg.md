@@ -1,6 +1,6 @@
 
 
-<a name="dadalytics"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/eat_logo.jpg" | relative_url }}" alt="DADAlytics logo" width="8%"/>
+<a name="dadalytics"></a><img style="padding: 8px; ;width: 400px;" src="{{ "assets/eat_logo.jpg" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 <p>
 Experiments in Art and Technology (E.A.T.) was a radical collaborative organization established in 1967 by artists Robert Rauschenberg, Robert Whitman, and engineers Billy Klüver, Fred Waldhauer following the 1966 collaborative performance of 9 Evenings: Theatre and Engineering.
 </p>
@@ -17,15 +17,10 @@ The Semantic Lab is currently working to transform archival metadata from digiti
     <tr>
        <td colspan="1" valign="top">
          <strong>Grant Information</strong>
-         <br/>
-         
-         
        </td>
        <td colspan="2" valign="top">
-         
          <strong>Collaborators</strong>
          <br/>
-       
        </td>
     </tr>
 </table>
