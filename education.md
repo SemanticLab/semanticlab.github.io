@@ -42,6 +42,7 @@ This summer school course at the University of Bologna focuses on the principl
 
 The purpose of the LOD for Museums Fellowship is to provide support for a student to investigate the application of Linked Open Data (LOD) within a museum setting. The fellowship allows the student to apply the knowledge and competencies acquired from their course work in a professional setting while developing new skills through participation in an on-site internship.  The focus of the fellowship in the MoMA Archives is to help build a multi-institution integrated exhibition history index and explore its expression as linked open data. Relevant skills that will be developed during the course of the fellowship include data analysis, reconciliation methods, archival research methods, and semantic web methods.  The project's ultimate aim is to create a valuable research tool for art historical scholarship while also demonstrating methods for interlinking archival resources online. Please find below information on the work by current and recipients of the MoMA Linked Open Data Fellowship.
 
+2019-2020 Sloan Strader (in progress)
 2018-2019 [Sarah Ann Adams](https://sites.google.com/view/momalodfellowship18-19/about)<br/> 
 <br/><br/>
 <hr/>
