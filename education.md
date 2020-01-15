@@ -43,7 +43,7 @@ This summer school course at the University of Bologna focuses on the principl
 The purpose of the LOD for Museums Fellowship is to provide support for a student to investigate the application of Linked Open Data (LOD) within a museum setting. The fellowship allows the student to apply the knowledge and competencies acquired from their course work in a professional setting while developing new skills through participation in an on-site internship.  The focus of the fellowship in the MoMA Archives is to help build a multi-institution integrated exhibition history index and explore its expression as linked open data. Relevant skills that will be developed during the course of the fellowship include data analysis, reconciliation methods, archival research methods, and semantic web methods.  The project's ultimate aim is to create a valuable research tool for art historical scholarship while also demonstrating methods for interlinking archival resources online. Please find below information on the work by current and recipients of the MoMA Linked Open Data Fellowship.
 
 2019-2020 Sloan Strader (in progress)<br/>
-2018-2019 [Sarah Ann Adams](https://sites.google.com/view/momalodfellowship18-19/about)<br/> 
+2018-2019 [Sarah Ann Adams](https://sites.google.com/view/momalodfellowship18-19/about)
 <br/><br/>
 <hr/>
 <br/>
@@ -61,20 +61,19 @@ The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS 
 
 **Wiki Education**
 
-Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata. 
-
-[Wikipedia Editing with a Linked Jazz Twist](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), Pratt School of Information, New York, February 8, 2014
-
-[Women of Jazz Wikipedia Edit-A-Thon](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), New York Public Library for the Performing Arts, New York, May 30, 2015	
-
-[New Orleans Women of Jazz Wikipedia Edit-A-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz), Jazz Education Network 8th Annual Conference, New Orleans, January 6, 2017  
-
-[Wikidata Workshop](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Internal_Wikidata_Workshop_at_Pratt_Institute), Pratt Institute School of Information, New York, November 10, 2018
- 	 	 	
-[Working with Art Data Wikidata Workshop](https://www.dropbox.com/s/sbdt5i3birldggx/Wikidata%20Workshop%20spring%202019.pdf?dl=0), Pratt School of Information, New York, February 20, 2019
+Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata.
 
 [Local 496: New Orleans Jazz History in Wikidata](https://docs.google.com/presentation/d/1qG6Sv-PDc-EdNWrto_qY53YcCaAMpdZzZ4c-X1SWyKU/edit#slide=id.p), Tulane University, New Orleans, November 8, 2019
+	
+[Working with Art Data Wikidata Workshop](https://www.dropbox.com/s/sbdt5i3birldggx/Wikidata%20Workshop%20spring%202019.pdf?dl=0), Pratt School of Information, New York, February 20, 2019  
 
+[Wikidata Workshop](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Internal_Wikidata_Workshop_at_Pratt_Institute), Pratt Institute School of Information, New York, November 10, 2018	
+
+[New Orleans Women of Jazz Wikipedia Edit-A-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz), Jazz Education Network 8th Annual Conference, New Orleans, January 6, 2017
+
+[Women of Jazz Wikipedia Edit-A-Thon](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), New York Public Library for the Performing Arts, New York, May 30, 2015 
+
+[Wikipedia Editing with a Linked Jazz Twist](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), Pratt School of Information, New York, February 8, 2014
 
 <!-- 
 <div class="people-table">
