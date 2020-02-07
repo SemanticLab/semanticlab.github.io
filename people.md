@@ -25,13 +25,14 @@ permalink: /people/
 	</table>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/><br/>
+
 <table>
     <tr>
        <td colspan="1" valign="top">
-         <strong>Past Student Members:</strong><br/>
-Rachel Egan, Dana Lachenmayer, Eric Toole
-
+         <strong>Past Student Members of the Semantic Lab at Pratt:</strong><br/>
+	Rachel Egan, Dana Lachenmayer, Eric Toole<br/><br/>
+	<i>For past members of the Linked Jazz project, click <a href="https://linkedjazz.org/?page_id=215">here</a>.</i>    
 
 <!-- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
