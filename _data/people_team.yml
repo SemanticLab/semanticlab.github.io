@@ -1,64 +1,75 @@
-- name: Cristina Pattuelli, Co-director
+- name: Cristina Pattuelli
+  role: Co-director
   github: 
   website: https://cristinapattuelli.org/
   twitter: cristinapattuel
   email: mpattuel@pratt.edu
 
-- name: Matt Miller, Co-director
+- name: Matt Miller
+  role: Co-director
   github: https://github.com/thisismattmiller
   website: http://thisismattmiller.com
   twitter: thisismmiller
   email: thisismmiller@gmail.com
 
-- name: Sarah Ann Adams, Research Fellow
+- name: Sarah Ann Adams
+  role: Research Fellow
   github: sarahannadams
   website: 
   twitter: _sarahannadams
   email: s.ann.adams5761@gmail.com
   
-- name: Karen Li-Lun Hwang, Research Fellow
+- name: Karen Li-Lun Hwang
+  role: Research Fellow
   github: 
   website: 
   twitter: izahoina
   email: izahoina@gmail.com
 
-- name: Mary Mann, Affiliate
+- name: Mary Mann
+  role: Affiliate
   github: https://github.com/MaryDama
   website: https://www.mary-mann.com/
   twitter: 
   email: marydamamann@gmail.com
   
-- name: Alexandra Provo, Affiliate
+- name: Alexandra Provo
+  role: Affiliate
   github: 
   website: 
   twitter: https://twitter.com/AlexandraAlisa
   email: aprovo@gmail.com
   
-- name: Hilary Thorsen, Affiliate
+- name: Hilary Thorsen
+  role: Affiliate
   github: 
   website: 
   twitter: 
   email: hkthorsen@gmail.com
   
-- name: Hannah Sistrunk, Affiliate
+- name: Hannah Sistrunk
+  role: Affiliate
   github: 
   website: 
   twitter: 
   email: hsistrunk@rockarch.org
 
-- name: Taylor Baker, Research Assistant
+- name: Taylor Baker
+  role: Research Assistant
   github: 
   website: 
   twitter: 
   email: tbaker22@pratt.edu
   
-- name: Rose Gold, Research Assistant
+- name: Rose Gold
+  role: Research Assistant
   github: 
   website: 
   twitter: rlgold54
   email: roselevinegold@gmail.com
   
-- name: Meghan Lyon, Research Assistant, E.A.T. Project Manager
+- name: Meghan Lyon
+  role: Research Assistant, E.A.T. Project Manager
   github: 
   website: http://www.meghanlyon.com/
   twitter: aquatic_archive
