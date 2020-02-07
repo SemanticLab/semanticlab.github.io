@@ -25,7 +25,7 @@ permalink: /people/
 	</table>
 </div>
 
-<br/><br/>
+<br/>
 
 **Past Members of the Semantic Lab at Pratt:**<br/>
 Rachel Egan, Dana Lachenmayer, Eric Toole<br/>
