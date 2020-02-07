@@ -27,13 +27,9 @@ permalink: /people/
 
 <br/>
 
-<table>
-	<tbody>
-		<tr><b>Past Members of the Semantic Lab at Pratt:</b></tr>
-		<tr>Rachel Egan, Dana Lachenmayer, Eric Toole</tr>
-		<tr><i>For past members of the Linked Jazz project, click <a href="https://linkedjazz.org/?page_id=215">here</a>.</i></tr>
-	</tbody>
-</table>
+<b>Past Members of the Semantic Lab at Pratt:</b> Rachel Egan, Dana Lachenmayer, Eric Toole<br>
+<i>For past members of the Linked Jazz project, click <a href="https://linkedjazz.org/?page_id=215">here</a>.</i>
+
    
 
 <!-- 
