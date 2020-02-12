@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <h1 class="page-heading">Projects</h1>
 
-##### [DADAlytics](https://semlab.io/projects/#dadalytics) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
+##### [DADAlytics](https://semlab.io/projects/#dadalytics) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
 <a name="dadalytics"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
@@ -62,16 +62,18 @@ The jazz community is defined by the relationships that exist between musicians,
 
 The Linked Open Data tools and methods developed for the Linked Jazz project have opened new and unprecedented avenues of research and community engagement. Our work has generated the subprojects listed below.
 
-
  - <a name="women-of-jazz"></a>**Women of Jazz** <br/>
 The goal of the Linked Jazz Network Graph is to tell meaningful stories through data. One of the most powerful stories to come out of Linked Jazz was about women in jazz. By viewing connections by gender, it became evident (although not surprising) that a sizable population of outstanding female musicians were not widely known, let alone recognized for their important contributions. [Our findings](https://linkedjazz.org/enriching-the-linked-jazz-name-list-with-gender-information/) led to a series of Women of Jazz Wikipedia Edit-a-thons ([2015](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/WomenOfJazz) and [2017)](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz) and projects like the creation of a [gender view](https://linkedjazz.org/network/?mode=gender) of the Linked Jazz graph. 
-
 
  - <a name="zena-latto-project"></a>**Zena Latto Project** <br/>
 How do you tell the story of someone whose work has left few or no traces? Like so many of the women in jazz, [Zena Latto’s story](https://linkedjazz.org/discovering-zena-latto-2/) is representative of musicians whose presence and influence were all but lost to history. Our involvement began when archivists at Carnegie Hall came across a [flyer](https://www.carnegiehall.org/Blog/2016/09/Zenas-Flyer) for a 1957 all-female jazz show they’d hosted but had no institutional record of. The Semantic Lab at Pratt began to gather the materials needed to give Zena an online identity. Prior to her death in 2016, Zena Latto herself consented to an interview and passed her jazz archives on to the Semantic Lab at Pratt. These materials were digitized and made publicly available via the [Internet Archive](https://archive.org/details/LinkedJazzZenaLattoInterview2015). A [Wikipedia page](https://en.wikipedia.org/wiki/Zena_Latto) was created by members of the Semantic Lab who have [continued to work](https://linkedjazz.org/discovering-zena-latto-2/) on the Zeno Latto Project. Her record serves as an illustration of the possibilities in historical recovery and a hub for other marginalized women in jazz.
 
  - <a name="local-496-project"></a>**Local 496 Project** <br/>
 The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holdingsInfo?searchId=531&recCount=10&recPointer=1&bibId=966417) is the official roster of the Local 496 labor union created in the 1940s. It includes the names, addresses and instruments of the union members from the one-time segregated African-American chapter of the New Orleans jazz musicians’ union. While the chapter merged with the white musicians’ chapter in 1969, the Directory is a unique document that helps identify a cohesive and interrelated community of musicians. In collaboration with [Tulane University’s Hogan Jazz Archive](https://jazz.tulane.edu/), the Semantic Lab is transforming this static list into an expanded knowledge graph that will support and further jazz and other historical research in significant ways.<br/><br/>
+
+ - <a name="linking-lost-jazz-shrines"></a>**Linking Lost Jazz Shrines** <br/>
+Linking Lost Jazz Shrines is a [Weeksville Heritage Center](https://www.weeksvillesociety.org/) and Semantic Lab at Pratt collaboration, funded by [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/), which seeks to apply linked open data technologies to [The Weeksville Lost Jazz Shrines of Brooklyn (WLJSB)](https://weeksvilleheritagecenter.squarespace.com/s/WLJSB_Finding-Aid_2015.pdf) collection of oral histories. This collection was created as part of a 2008 research project documenting Central Brooklyn’s cultural legacy of jazz history between the 1930s and 1960s. Linking Lost Jazz Shrines will link to the Linked Jazz dataset, as well as contribute new musicians, music groups, and jazz venues, enriching and expanding the Linked Jazz network.<br/><br/>
+
 
 With the support of:
 <div class="center-div" style="text-align: center;">
