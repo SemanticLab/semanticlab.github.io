@@ -69,7 +69,7 @@
   email: roselevinegold@gmail.com
   
 - name: Meghan Lyon
-  role: >
+  role: |
         Research Assistant
         E.A.T. Project Manager
   github: 
@@ -85,7 +85,7 @@
   email: ajonatha@pratt.edu 
   
 - name: Laura Indick
-  role: >
+  role: |
         Research Assistant
         Semantic Lab Coordinator
   github: 
