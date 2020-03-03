@@ -70,7 +70,7 @@
   
 - name: Meghan Lyon
   role: |
-        Research Assistant
+        Research Assistant \n
         E.A.T. Project Manager
   github: 
   website: http://www.meghanlyon.com/
@@ -86,7 +86,7 @@
   
 - name: Laura Indick
   role: |
-        Research Assistant
+        Research Assistant \n
         Semantic Lab Coordinator
   github: 
   website: 
