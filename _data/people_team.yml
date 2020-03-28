@@ -69,13 +69,18 @@
   email: roselevinegold@gmail.com
   
 - name: Meghan Lyon
-  role: |
-        Research Assistant 
-        E.A.T. Project Manager
+  role: Research Assistant 
   github: 
   website: http://www.meghanlyon.com/
   twitter: aquatic_archive
   email: mlyon8@gmail.com
+  
+- name:
+  role: E.A.T. Project Manager
+  github:
+  website:
+  twitter:
+  email:
 
 - name: Andreas Jonathan
   role: Research Assistant
@@ -85,10 +90,15 @@
   email: ajonatha@pratt.edu 
   
 - name: Laura Indick
-  role: |
-        Research Assistant
-        Semantic Lab Coordinator
+  role: Research Assistant
   github: 
   website: 
   twitter: 
   email: lindick@pratt.edu
+
+- name:
+  role: Semantic Lab Coordinator
+  github:
+  website:
+  twitter:
+  email:
