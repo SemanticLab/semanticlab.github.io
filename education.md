@@ -11,7 +11,7 @@ permalink: /education/
 
 Cristina Pattuelli
 
-This course provides an introduction to the fundamentals of Linked Open Data principles, technologies and practices. The full life-cycle from linked data generation to consumption will be addressed, along with concepts of data modeling, RDF vocabularies, dereferenceable URIs, semantic enrichment and linked data publishing and dissemination. Through a series of readings, guest speakers, and projects we will explore the latest linked open data developments in cultural heritage.<br/><br/>
+This course provides an introduction to the fundamentals of Linked Open Data principles, technologies and practices. The full life-cycle from linked data generation to consumption will be addressed, along with concepts of data modeling, RDF vocabularies, dereferenceable URIs, semantic enrichment and linked data publishing and dissemination. Through a series of readings, guest speakers, and projects we will explore the latest linked open data developments in cultural heritage. [Student Projects](https://sites.google.com/pratt.edu/pratt-lod/home)<br/><br/>
 <hr/>
 <br/>
 
@@ -19,7 +19,8 @@ This course provides an introduction to the fundamentals of Linked Open Data pri
 
 Matt Miller
 
-Technical knowledge and proficiency is an increasingly valued and useful skill in a cultural heritage information professional’s skillset. This course will introduce and provide a platform for the building up of these abilities. Over the course of the semester the student will become familiar with programming, working with data in a programmatic manner and applying these skills to build a demonstrable  project. This course will focus on teaching the basics that will enable an information professional to be successful in today’s digital world. [http://pfch.nyc](http://pfch.nyc)
+Technical knowledge and proficiency is an increasingly valued and useful skill in a cultural heritage information professional’s skillset. This course will introduce and provide a platform for the building up of these abilities. Over the course of the semester the student will become familiar with programming, working with data in a programmatic manner and applying these skills to build a demonstrable  project. This course will focus on teaching the basics that will enable an information professional to be successful in today’s digital world.
+[http://pfch.nyc](http://pfch.nyc)
 <br/><br/>
 <hr/>
 <br/>
