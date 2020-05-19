@@ -25,13 +25,6 @@
   website: 
   twitter: izahoina
   email: izahoina@gmail.com
-
-- name: Mary Mann
-  role: Affiliate
-  github: https://github.com/MaryDama
-  website: https://www.mary-mann.com/
-  twitter: 
-  email: marydamamann@gmail.com
   
 - name: Alexandra Provo
   role: Affiliate
@@ -46,21 +39,7 @@
   website: 
   twitter: 
   email: hkthorsen@gmail.com
-  
-- name: Hannah Sistrunk
-  role: Affiliate
-  github: 
-  website: 
-  twitter: 
-  email: hsistrunk@rockarch.org
-
-- name: Taylor Baker
-  role: Research Assistant
-  github: 
-  website: 
-  twitter: 
-  email: tbaker22@pratt.edu
-  
+ 
 - name: Rose Gold
   role: Research Assistant
   github: 
@@ -74,13 +53,6 @@
   website: http://www.meghanlyon.com/
   twitter: aquatic_archive
   email: mlyon8@gmail.com
-
-- name: Andreas Jonathan
-  role: Research Assistant
-  github: 
-  website: 
-  twitter: 
-  email: ajonatha@pratt.edu 
   
 - name: Laura Indick
   role: Research Assistant,<br>Semantic Lab Coordinator
@@ -88,3 +60,17 @@
   website: 
   twitter: 
   email: lindick@pratt.edu
+  
+  - name: Miranda Siler
+  role: Research Assistant
+  github: 
+  website: 
+  twitter: 
+  email: msiler18@pratt.edu 
+  
+  - name: Michelle Rothrock
+  role: Research Assistant
+  github: 
+  website: 
+  twitter: 
+  email: mrothroc@pratt.edu 
