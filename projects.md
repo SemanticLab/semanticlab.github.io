@@ -74,6 +74,9 @@ The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holding
  - <a name="linking-lost-jazz-shrines"></a>**Linking Lost Jazz Shrines** <br/>
 Linking Lost Jazz Shrines is a [Weeksville Heritage Center](https://www.weeksvillesociety.org/) and Semantic Lab at Pratt collaboration, funded by [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/), which seeks to apply linked open data technologies to [The Weeksville Lost Jazz Shrines of Brooklyn (WLJSB)](https://weeksvilleheritagecenter.squarespace.com/s/WLJSB_Finding-Aid_2015.pdf) collection of oral histories. This collection was created as part of a 2008 research project documenting Central Brooklyn’s cultural legacy of jazz history between the 1930s and 1960s. Linking Lost Jazz Shrines will link to the Linked Jazz dataset, as well as contribute new musicians, music groups, and jazz venues, enriching and expanding the Linked Jazz network.<br/><br/>
 
+**Recent Presentations:**<br/>
+Adams, S. (2020). Linking Lost Jazz Shrines, Collections as Data,  Cohort 1,  Summative Forum | 17 Jan 2020, The University of Nevada, Las Vegas
+
 
 With the support of:
 <div class="center-div" style="text-align: center;">
