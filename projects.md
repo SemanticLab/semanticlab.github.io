@@ -73,8 +73,9 @@ The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holding
 
  - <a name="linking-lost-jazz-shrines"></a>**Linking Lost Jazz Shrines** <br/>
 Linking Lost Jazz Shrines is a [Weeksville Heritage Center](https://www.weeksvillesociety.org/) and Semantic Lab at Pratt collaboration, funded by [Collections as Data: Part to Whole](https://collectionsasdata.github.io/part2whole/), which seeks to apply linked open data technologies to [The Weeksville Lost Jazz Shrines of Brooklyn (WLJSB)](https://weeksvilleheritagecenter.squarespace.com/s/WLJSB_Finding-Aid_2015.pdf) collection of oral histories. This collection was created as part of a 2008 research project documenting Central Brooklyn’s cultural legacy of jazz history between the 1930s and 1960s. Linking Lost Jazz Shrines will link to the Linked Jazz dataset, as well as contribute new musicians, music groups, and jazz venues, enriching and expanding the Linked Jazz network.<br/><br/>
-    - **Recent Presentations:**<br/>
-    Adams, S. (2020). Linking Lost Jazz Shrines, Collections as Data,  Cohort 1,  Summative Forum | 17 Jan 2020, The    University of Nevada, Las Vegas
+
+**Recent Presentations:**<br/>
+Adams, S. (2020). Linking Lost Jazz Shrines, Collections as Data,  Cohort 1,  Summative Forum | 17 Jan 2020, The    University of Nevada, Las Vegas
 
 
 With the support of:
@@ -112,7 +113,12 @@ The Mary Berenson Project investigates the application of computational analysis
 
 Mary Berenson’s archive, a rich collection of letters, personal diaries, literary journals and notes, both published and unpublished, is part of the Bernard and Mary Berenson Papers (1880-2002) held at the Biblioteca Berenson at the Villa I Tatti. This trove of primary source material has enormous historical value, but has yet to be fully explored. 
 
+**Recent Publications:**<br/>
+Adams, S. A., Mann, M., Gold, R., Della Monica, I., and Pattuelli, M. C. (2019). [Documents as data: Harvesting Knowledge from textual resources with DADAlytics](https://www.slideshare.net/cristinapattuelli/documents-as-data-harvesting-knowledge-from-textual-resources-with-dadalytics). 11th International Conference on Qualitative and Quantitative Methods in Libraries (QQML 2019), May 28-31, Florence, Italy. [Abstract](http://qqml.org/wp-content/uploads/2017/09/Book-of-Abstracts_Final_AfterConf_v1.pdf).
+
 Photograph of Mary Berenson in the [Public Domain](https://commons.wikimedia.org/wiki/File:Mary_Berenson_(n%C3%A9e_Smith)_1885_from_NPG.jpg)
+
+
 
 With the support of:
 <div>
