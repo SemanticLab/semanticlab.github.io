@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <h1 class="page-heading">Projects</h1>
 
-##### [DADAlytics](https://semlab.io/projects/#dadalytics) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
+##### [DADAlytics](https://semlab.io/projects/#dadalytics) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
 <a name="dadalytics"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
