@@ -81,7 +81,8 @@ Pattuelli, M.C. and Sarah A. Adams (June 10, 2020). [Linking Lost Jazz Shrines: 
 
 Adams, S. (2020). [Linking Lost Jazz Shrines](https://docs.google.com/presentation/d/1po6rJ4vxKCjWylKWUQPAiPGdSoRkmKKomk6H8H0bp1U/edit#slide=id.g7662d0fdee_0_22), Collections as Data,  Cohort 1,  Summative Forum | 17 Jan 2020, The    University of Nevada, Las Vegas.
 
-
+<br> 
+</br>
 With the support of:
 <div class="center-div" style="text-align: center;">
   <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
