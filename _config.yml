@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Semantic Lab
 subtitle: "at Pratt Institute"
-email: foaf.Person@semlab.io
+email: semanticlab@pratt.edu
 description: 
   Director Prof. Cristina Pattuelli<br/>
   Pratt Institute<br/>
