@@ -54,7 +54,7 @@ About the tools:
 * **Tensorflow SyntaxNet: Parsey McParseface** - This is not a NER tool, but a part of speech tagger that we used to try and extract proper nouns. Used [existing image](https://hub.docker.com/r/jesdoit/parsey-server/).
 * **DBpedia Spotlight** - an NER tool based on Wikipedia corpus, it detects entities and provides the DBpedia resource that it matched to. Used [existing image](https://hub.docker.com/r/dbpedia/spotlight-english/).
 
-If you know of other NER tools that would be useful to be included, please drop us a line at [foaf.person@semlab.io](mailto:foaf.person@semlab.io).
+If you know of other NER tools that would be useful to be included, please drop us a line at [semanticlab@pratt.edu](mailto:semanticlab@pratt.edu).
 
 ### Running
 
