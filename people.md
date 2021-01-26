@@ -25,7 +25,7 @@ permalink: /people/
 	</table>
 </div>
 
-
+<br/>
 
 <b>Past Student Members of the Semantic Lab at Pratt:</b><br>
 Taylor Baker, Rachel Egan, Laura Indick, Andreas Jonathan, Dana Lachenmayer, Meghan Lyon, Mary Mann, Hannah Sistrunk, Eric Toole <br>
