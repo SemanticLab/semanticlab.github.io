@@ -28,7 +28,7 @@ permalink: /people/
 <br/>
 
 <b>Past Student Members of the Semantic Lab at Pratt:</b><br>
-Meghan Lyon, Taylor Baker, Rachel Egan, Andreas Jonathan, Dana Lachenmayer, Mary Mann, Hannah Sistrunk, Eric Toole <br>
+Taylor Baker, Rachel Egan, Laura Indick, Andreas Jonathan, Dana Lachenmayer, Meghan Lyon, Mary Mann, Hannah Sistrunk, Eric Toole <br>
 <i>For past members of the Linked Jazz project, click <a href="https://linkedjazz.org/?page_id=215">here</a>.</i>
 
    
