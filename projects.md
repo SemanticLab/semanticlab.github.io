@@ -51,26 +51,26 @@ Adams, S. (2020). [Linking Lost Jazz Shrines](https://docs.google.com/presentati
 With the support of:
 <div class="center-div" style="text-align: center;">
   <a href="http://www.pratt.edu/academics/information_and_library_sciences/">
-    <img style="padding: 20px;" src="{{ "assets/logo_pratt.jpg" | relative_url }}" alt="Pratt Institute" width="11%" />
+    <img style="padding: 40px;" src="{{ "assets/logo_pratt.jpg" | relative_url }}" alt="Pratt Institute" width="11%" />
   </a>
   <a href="http://www.oclc.org/us/en/default.htm">
-    <img style="padding: 20px;" src="{{ "assets/logo_oclc.png" | relative_url }}" alt="OCLC" width="14%" />
+    <img style="padding: 40px;" src="{{ "assets/logo_oclc.png" | relative_url }}" alt="OCLC" width="14%" />
   </a>
   <a href="http://www.alise.org/">
-    <img style="padding: 20px;" src="{{ "assets/logo_alise.jpg" | relative_url }}" alt="Alise" width="11%" />
+    <img style="padding: 40px;" src="{{ "assets/logo_alise.jpg" | relative_url }}" alt="Alise" width="11%" />
   </a> 
   <a href="http://www.jazzandheritage.org/">
-    <img style="padding: 20px;" src="{{ "assets/logo_new_orleans_jazz_&_heritage_festival_and_foundation.png" | relative_url }}" alt="New Orleans Jazz and Heritage Foundation" width="18%" />
+    <img style="padding: 40px;" src="{{ "assets/logo_new_orleans_jazz_&_heritage_festival_and_foundation.png" | relative_url }}" alt="New Orleans Jazz and Heritage Foundation" width="18%" />
   </a>
  <br>
   <a href="http://www.ellafitzgeraldfoundation.org/">
-    <img style="padding: 20px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="18%" />
+    <img style="padding: 40px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="18%" />
   </a>
   <a href="https://www.jazzednet.org/">
-    <img style="padding: 20px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="10%" />
+    <img style="padding: 40px;" src="{{ "assets/logo_jazz_education_network.jpg" | relative_url }}" alt="Jazz Education Network" width="10%" />
   </a>
    <a href="https://metro.org/">
-   <img style="padding: 20px;" src="{{ "assets/logo_metro.jpg" | relative_url }}" alt="Metropolitan New York Library Council (METRO)" width="10%" />
+   <img style="padding: 40px;" src="{{ "assets/logo_metro.jpg" | relative_url }}" alt="Metropolitan New York Library Council (METRO)" width="10%" />
   </a>
 </div>
 
