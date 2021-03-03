@@ -62,6 +62,7 @@ With the support of:
   <a href="http://www.jazzandheritage.org/">
     <img style="padding: 10px;" src="{{ "assets/logo_new_orleans_jazz_&_heritage_festival_and_foundation.png" | relative_url }}" alt="New Orleans Jazz and Heritage Foundation" width="18%" />
   </a>
+ <br>
   <a href="http://www.ellafitzgeraldfoundation.org/">
     <img style="padding: 10px;" src="{{ "assets/logo_ella_fitzgerald_charitable_foundation.jpg" | relative_url }}" alt="Ella Fitzgerald Charitable Foundation" width="18%" />
   </a>
