@@ -11,7 +11,7 @@ permalink: /projects/
 
 Over the course of his five decades-long career Rauschenberg challenged artistic conventions, defied genres and media boundaries, and fostered unconventional collaborations between disparate communities—from dancers and musicians to scientists and engineers. In 1966, with Bell Laboratories engineer Billy Klüver, Rauschenberg founded Experiments in Art and Technology (E.A.T.), a seminal initiative to connect art and technology in an impactful way.
 
-This project aims to expose the rich web of relationships surrounding the life and work of the artist Robert Rauschenberg (1926-2008) by leveraging linked data technologies and a dedicated suite of digital tools and applications. We have started with a collection from the Robert Rauschenberg Foundation Archives that documents the activity of E. A. T. This collection consists of 141 documents, all recently digitized, that include photos, notebooks, videos, posters, and newspaper clippings.
+This project aims to expose the rich web of relationships surrounding the life and work of the artist Robert Rauschenberg (1926-2008) by leveraging linked data technologies and a dedicated suite of digital tools and applications. We have started with a collection from [the Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections) that documents the activity of E.A.T. This collection consists of 141 documents, all recently digitized, that include photos, notebooks, videos, posters, and newspaper clippings.
 
 <hr/>
 <br/>
