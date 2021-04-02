@@ -15,7 +15,7 @@ This project aims to expose the rich web of relationships surrounding Rauschenbe
 
 Our work has generated the subprojects listed below.
 
- - <a name="B/E.A.T."></a>**"E.A.T./LOD*B"** <br/>
+ - <a name="B/E.A.T."></a>**E.A.T./LOD*B** <br/>
 Description of E.A.T. Bibliography here.
 
 Project documentation coming soon.
