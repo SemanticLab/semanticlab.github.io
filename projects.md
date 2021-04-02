@@ -7,7 +7,7 @@ permalink: /projects/
 
 ##### [Robert Rauschenberg & E.A.T.](https://semlab.io/projects/#robert-rauschenberg-&-experiments-in-art-and-technology) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
-<a name="robert-rauschenberg-&-experiments-in-art-and-technology"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">Robert Rauschenberg & E.A.T.</font></b>
+<a name="robert-rauschenberg-&-experiments-in-art-and-technology"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">E.A.T./LOD: Robert Rauschenberg & E.A.T.</font></b>
 
 Over the course of his five decades-long career [Robert Rauschenberg](https://www.rauschenbergfoundation.org/artist) (1926-2008) challenged artistic conventions, defied genres and media boundaries, and fostered unconventional collaborations between disparate communities—from dancers and musicians to scientists and engineers. In 1966, with Bell Laboratories engineer [Billy Klüver](https://en.wikipedia.org/wiki/Billy_Kl%C3%BCver), Rauschenberg founded Experiments in Art and Technology (E.A.T.), a seminal initiative to connect art and technology in an impactful way.
 
@@ -15,10 +15,7 @@ This project aims to expose the rich web of relationships surrounding Rauschenbe
 
 Our work has generated the subprojects listed below.
 
- - <a name="N/E.A.T."></a>**N/E.A.T.** <br/>
-Description of Networked E.A.T. here.
-
- - <a name="B/E.A.T."></a>**B/E.A.T.** <br/>
+ - <a name="B/E.A.T."></a>**"E.A.T./LOD*B"** <br/>
 Description of E.A.T. Bibliography here.
 
 Project documentation coming soon.
