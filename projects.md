@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <h1 class="page-heading">Projects</h1>
 
-##### [Robert Rauschenberg & E.A.T.](https://semlab.io/projects/#robert-rauschenberg-&-experiments-in-art-and-technology) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
+##### [E.A.T./LOD](https://semlab.io/projects/#robert-rauschenberg-&-experiments-in-art-and-technology) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
 <a name="robert-rauschenberg-&-experiments-in-art-and-technology"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">E.A.T./LOD: Robert Rauschenberg & E.A.T.</font></b>
 
