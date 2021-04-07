@@ -16,7 +16,7 @@ This project aims to expose the rich web of relationships surrounding Rauschenbe
 Our work has generated the following subproject:
 
  - <a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. + LOD Bibliography** <br/>
-This project aims to transform the E.A.T. Bibliography into linked data to become part of the broader Robert Rauschenberg & E.A.T. dataset. The E.A.T. Bibliography, created by Billy Klüver, consists of a list of over 600 references centered on the E.A.T. initiative. This document was shared by Julie Martin, the current director of E.A.T. The goal of the project is to enhance the Robert Rauschenberg & E.A.T. project with bibliographic data to provide unified access and discovery to E.A.T. research, collection, and related reference data. Documentation for the project is available [here](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page). 
+This project aims to transform the E.A.T. Bibliography into linked data to become part of the broader E.A.T. + LOD dataset. The E.A.T. Bibliography, created by Billy Klüver, consists of a list of over 600 references centered on the E.A.T. initiative. This document was shared by Julie Martin, the current director of E.A.T. The goal of the project is to enhance the E.A.T + LOD project with bibliographic data to provide unified access and discovery to E.A.T. research, collection, and related reference data. Documentation for the project is available [here](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page). 
 
 Additional project documentation coming soon.
 
