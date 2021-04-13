@@ -13,7 +13,7 @@ Over the course of his five decades-long career [Robert Rauschenberg](https://ww
 
 This project aims to expose the rich web of relationships surrounding Rauschenberg's life and work by leveraging linked data technologies and a dedicated suite of digital tools and applications. Thanks to an ongoing collaboration with [the Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections), we are currently focusing on a collection of 141 documents from the Rauschenberg Archives that document the activity of E.A.T. The collection includes photos, notebooks, videos, posters, and newspaper clippings. 
 
-Documentation for the project can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
+The E.A.T. + LOD project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
 
 Our work has also generated the following subproject:
 
