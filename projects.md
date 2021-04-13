@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <h1 class="page-heading">Projects</h1>
 
-##### [E.A.T. + LOD](https://semlab.io/projects/#e.a.t.-+-lod) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
+##### [E.A.T. + LOD](https://semlab.io/projects/#e.a.t.-+-lod) - [E.A.T. + LOD Bibliography](https://semlab.io/projects/#e.a.t.-+-lod-bibliography) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
 <a name="e.a.t.-+-lod"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">E.A.T. + LOD</font></b>
 
@@ -13,12 +13,13 @@ Over the course of his five decades-long career [Robert Rauschenberg](https://ww
 
 This project aims to expose the rich web of relationships surrounding Rauschenberg's life and work by leveraging linked data technologies and a dedicated suite of digital tools and applications. Thanks to an ongoing collaboration with [the Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections), we are currently focusing on a collection of 141 documents from the Rauschenberg Archives that document the activity of E.A.T. The collection includes photos, notebooks, videos, posters, and newspaper clippings. 
 
-Our work has generated the following subproject:
+Project documentation is available [here](http://base.semlab.io/wiki/Item_talk:Q19104).
+
+Our work has also generated the following subproject:
 
  - <a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. + LOD Bibliography** <br/>
 This project aims to transform the E.A.T. Bibliography into linked data to become part of the broader E.A.T. + LOD dataset. The E.A.T. Bibliography, created by Billy Klüver, consists of a list of over 600 references centered on the E.A.T. initiative. This document was shared by Julie Martin, the current director of E.A.T. The goal of the project is to enhance the E.A.T + LOD project with bibliographic data to provide unified access and discovery to E.A.T. research, collection, and related reference data. Documentation for the project is available [here](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page). 
 
-Additional project documentation coming soon.
 
 <hr/>
 <br/>
