@@ -36,6 +36,7 @@ The goal of the Linked Jazz knowledge graph is to tell meaningful stories throug
 
     Our current work to promote the recognition of women in jazz focuses on increasing the representation of these women in knowledge bases used to link information around the web. Starting with specific stories of women jazz musicians as a test case, we are also developing methods to graph out and give visibility to underrepresented communities, weaving their stories into the information landscape.
     <br>
+    <br>
     Supported by the Ella Fitzgerald-JEN Research Fellowship at the Smithsonian (June 2016-June 2018); the New Orleans Jazz & Heritage Foundation, Community Partnership Grant, Jazz & Heritage Archive: Documentation and Preservation (September 2016-August 2017); Pratt School of Information Faculty Innovation Fund (2021).
 
  - <a name="zena-latto-project"></a>**Zena Latto Project** <br/>
