@@ -57,6 +57,8 @@ The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holding
 
 **Recent Presentations:**<br/>
 <br>
+Adams, S. & Collier, Z. (June 30, 2021). [Jazz History as Linked Data: The Linking Lost Jazz Shrines Project.](https://www.youtube.com/watch?v=59obskVqYwk) Data for History 2021: Modeling Time, Places, Agents.
+
 Hwang, K.L. (December 11, 2020). [Wikibase and Semantic Lab: Collaborative Project Data Modeling and Graphing a History of Women in Jazz](https://docs.google.com/presentation/d/1WEPKZqMiMpMY0nwhZPj8mDZgNi2nnv0OO58t51p8SpM/edit#slide=id.p). WikiCon North America 2020.
 
 Pattuelli, M.C. and Sarah A. Adams (June 10, 2020). [Linking Lost Jazz Shrines: The Preservation of Brooklyn Jazz Scene through Linked Open Data](https://www.weeksvillesociety.org/weeksville-wednesdays/2020/6/10/preserving-of-brooklyns-jazz-legacy-linking-lost-jazz-shrines-panel-cww9j). Weeksville Heritage Center, Brooklyn, NY.
