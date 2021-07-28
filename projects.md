@@ -21,6 +21,13 @@ Our work has also generated the following subproject:
 This project aims to transform the E.A.T. Bibliography into linked data to become part of the broader E.A.T. + LOD dataset. The E.A.T. Bibliography, created by Billy Klüver, consists of a list of over 600 references centered on the E.A.T. initiative. This document was shared by Julie Martin, the current director of E.A.T. The goal of the project is to enhance the E.A.T + LOD project with bibliographic data to provide unified access and discovery to E.A.T. research, collection, and related reference data. Documentation for the project is available [here](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page). 
 
 
+**Recent Presentations:**<br/>
+<br>
+Siler, M. (July 20, 2021). [Wikibase and Artists Archives: Connecting “Experiments in Art and Technology” Data from the Rauschenberg Archives.](https://www.dropbox.com/home/*LinkedJazz_Team/***DELIVERABLES/2021/LD4?preview=ld42021+eat%2Blod+poster.pdf) 2021 LD4 Conference on Linked Data. 
+
+Ferguson, T. & Rothrock, M. (May 13, 2021). [E.A.T. & LOD: Turning the E.A.T. Bibliography into Linked Data.](https://studentwork.prattsi.org/infoshow/2021/e-a-t-lod-turning-the-e-a-t-bibliography-into-linked-data) Pratt School of Information #InfoShow21.
+
+Siler, M. (April 12, 2021). [E.A.T. Linked Data Modeling.](https://www.pratt.edu/researchopenhouse/2021/school-of-information/eat-linked-data-modeling/) Pratt Institute Research Open House.
 <hr/>
 <br/>
 
