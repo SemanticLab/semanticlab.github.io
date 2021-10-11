@@ -22,7 +22,8 @@ This project aims to transform the E.A.T. Bibliography into linked data to becom
 
 
 **Recent Presentations:**<br/>
-<br>
+Siler, M. (September 20, 2021). [E.A.T. + LOD: A project by the Semantic Lab in partnership with the Robert Rauschenberg Foundation.](https://drive.google.com/file/d/1MWGz9MXU_zPAbZWrtzmF34bKofKDWphi/view) Hack4OpenGLAM's Creative Commons Global Summit.
+
 Siler, M. (July 20, 2021). [Wikibase and Artists Archives: Connecting “Experiments in Art and Technology” Data from the Rauschenberg Archives.](https://www.dropbox.com/home/*LinkedJazz_Team/***DELIVERABLES/2021/LD4?preview=ld42021+eat%2Blod+poster.pdf) 2021 LD4 Conference on Linked Data. 
 
 Ferguson, T. & Rothrock, M. (May 13, 2021). [E.A.T. & LOD: Turning the E.A.T. Bibliography into Linked Data.](https://studentwork.prattsi.org/infoshow/2021/e-a-t-lod-turning-the-e-a-t-bibliography-into-linked-data) Pratt School of Information #InfoShow21.
@@ -56,7 +57,8 @@ The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holding
 [Linking Lost Jazz Shrines](https://sites.google.com/weeksvillesociety.org/linking-lost-jazz-shrines) is a [Weeksville Heritage Center](https://www.weeksvillesociety.org/) and Semantic Lab at Pratt collaboration, which seeks to apply linked open data technologies to [The Weeksville Lost Jazz Shrines of Brooklyn (WLJSB)](https://weeksvilleheritagecenter.squarespace.com/s/WLJSB_Finding-Aid_2015.pdf) collection of oral histories. This collection was created as part of a 2008 research project documenting Central Brooklyn’s cultural legacy of jazz history between the 1930s and 1960s. Linking Lost Jazz Shrines will link to the Linked Jazz dataset, as well as contribute new musicians, music groups, and jazz venues, enriching and expanding the Linked Jazz network. In 2020, the LLJS project received the [A.R.T.'s New York Archives Archival Achievement](https://www.nycarchivists.org/event-4004583) award. Supported by the Andrew W. Mellon Foundation’s ["Collections as Data: Part to Whole"](https://collectionsasdata.github.io/part2whole/) grant program (January 2019-August 2020); ["Equity in Action"](https://mnylc.org/equity-in-action/) grant from the Metropolitan New York Library Council (METRO) (February-October 2021).<br/><br/>
 
 **Recent Presentations:**<br/>
-<br>
+Adams, S. & Collier, Z. (October 5, 2021). [Linking Lost Jazz Shrines].(https://docs.google.com/presentation/d/1_i13T82LJ_MdgVNR-Cnmr6Ij5Gozm7CJpLGKqIVrTZE/edit#slide=id.gefc82ca71b_0_0) METRO Equity in Action Recipient Presentation.
+
 Adams, S. & Collier, Z. (June 30, 2021). [Jazz History as Linked Data: The Linking Lost Jazz Shrines Project.](https://www.youtube.com/watch?v=59obskVqYwk) Data for History 2021: Modelling Time, Places, Agents.
 
 Hwang, K.L. (December 11, 2020). [Wikibase and Semantic Lab: Collaborative Project Data Modeling and Graphing a History of Women in Jazz](https://docs.google.com/presentation/d/1WEPKZqMiMpMY0nwhZPj8mDZgNi2nnv0OO58t51p8SpM/edit#slide=id.p). WikiCon North America 2020.
