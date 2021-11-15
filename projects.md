@@ -22,6 +22,8 @@ This project aims to transform the E.A.T. Bibliography into linked data to becom
 
 
 **Recent Presentations:**<br/>
+Davis, J. (October 31, 2021). [Wikibase: Basecamp for the Semantic Lab's Wiki Journey.](https://drive.google.com/file/d/1p0IsAgudw_aMiJd8ukObgIihE3KoYPfT/view) WikidataCon 2021.
+
 Siler, M. (September 20, 2021). [E.A.T. + LOD: A project by the Semantic Lab in partnership with the Robert Rauschenberg Foundation.](https://drive.google.com/file/d/1MWGz9MXU_zPAbZWrtzmF34bKofKDWphi/view) Hack4OpenGLAM's Creative Commons Global Summit.
 
 Siler, M. (July 20, 2021). [Wikibase and Artists Archives: Connecting “Experiments in Art and Technology” Data from the Rauschenberg Archives.](https://www.dropbox.com/home/*LinkedJazz_Team/***DELIVERABLES/2021/LD4?preview=ld42021+eat%2Blod+poster.pdf) 2021 LD4 Conference on Linked Data. 
