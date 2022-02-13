@@ -22,7 +22,7 @@ This project aims to transform the E.A.T. Bibliography into linked data to becom
 
 
 **Recent Presentations:**<br/>
-Davis, J. (October 31, 2021). [Wikibase: Basecamp for the Semantic Lab's Wiki Journey.](https://drive.google.com/file/d/1p0IsAgudw_aMiJd8ukObgIihE3KoYPfT/view) WikidataCon 2021.
+Davis, J. (October 31, 2021). [Wikibase: Basecamp for the Semantic Lab's Wiki Journey.](https://drive.google.com/file/d/1p0IsAgudw_aMiJd8ukObgIihE3KoYPfT/view) [WikidataCon 2021] (https://www.wikidata.org/wiki/Wikidata:WikidataCon_2021/Documentation/List_of_sessions).
 
 Siler, M. (September 20, 2021). [E.A.T. + LOD: A project by the Semantic Lab in partnership with the Robert Rauschenberg Foundation.](https://drive.google.com/file/d/1MWGz9MXU_zPAbZWrtzmF34bKofKDWphi/view) Hack4OpenGLAM's Creative Commons Global Summit.
 
