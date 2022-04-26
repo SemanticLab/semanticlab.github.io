@@ -22,7 +22,7 @@ This project aims to transform the E.A.T. Bibliography into linked data to becom
 
 
 **Recent Presentations:**<br/>
-Carlson, J. (April 15, 2022). [Semantic Lab at Pratt Institute: Enabling Research through Linked Data](https://server24.pratt.edu/researchopenhouse/2022/school-of-information/the-semantic-lab/) Pratt Institute Research Open House.
+Carlson, J. (April 15, 2022). [Semantic Lab at Pratt Institute: Enabling Research through Linked Data.](https://server24.pratt.edu/researchopenhouse/2022/school-of-information/the-semantic-lab/) Pratt Institute Research Open House.
 
 Carlson, J. (December 30, 2021). [Discussion of Semantic Lab's Wikibase usage](https://meta.wikimedia.org/wiki/Wikibase_Community_User_Group/Meetings/2021-12-30) at the monthly Wikibase Community User Group live session.
 
