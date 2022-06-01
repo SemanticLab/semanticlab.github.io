@@ -22,6 +22,10 @@ This project aims to transform the E.A.T. Bibliography into linked data to becom
 
 
 **Recent Presentations:**<br/>
+Davis, J. & Kaplan, A. (May 13, 2022). [Linked Data for Archival Exploration – A Use Case from the Rauschenberg Archives Part 2: Exploration: Queries and Visualizations](https://studentwork.prattsi.org/infoshow/2022/semantic-lab-at-pratt-linked-data-for-archival-exploration-a-use-case-from-the-rauschenberg-archives-part-2-exploration-queries-and-visualizations). Pratt School of Information [#InfoShow22](https://studentwork.prattsi.org/infoshow/2022/infoshow22-is-back-in-person).
+
+Ferguson, T. & Mikelić, E. (May 13, 2022). [Linked Data for Archival Exploration – A Use Case from the Rauschenberg Archives Part 1: Construction: Methods and Tools](https://studentwork.prattsi.org/infoshow/2022/semantic-lab-at-pratt-linked-data-for-archival-exploration-a-use-case-from-the-rauschenberg-archives-part-1-construction-methods-and-tools). Pratt School of Information [#InfoShow22](https://studentwork.prattsi.org/infoshow/2022/infoshow22-is-back-in-person).
+
 Carlson, J. (April 15, 2022). [Semantic Lab at Pratt Institute: Enabling Research through Linked Data.](https://server24.pratt.edu/researchopenhouse/2022/school-of-information/the-semantic-lab/) Pratt Institute Research Open House.
 
 Carlson, J. (December 30, 2021). [Discussion of Semantic Lab's Wikibase usage](https://meta.wikimedia.org/wiki/Wikibase_Community_User_Group/Meetings/2021-12-30) at the monthly Wikibase Community User Group live session.
