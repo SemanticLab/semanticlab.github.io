@@ -11,13 +11,13 @@ permalink: /projects/
 
 Over the course of his six decades-long career [Robert Rauschenberg](https://www.rauschenbergfoundation.org/artist) (1925-2008) challenged artistic conventions, defied genres and media boundaries, and fostered unconventional collaborations between disparate communities—from dancers and musicians to scientists and engineers. In 1966, with Bell Laboratories engineer [Billy Klüver](https://en.wikipedia.org/wiki/Billy_Kl%C3%BCver), Rauschenberg founded Experiments in Art and Technology (E.A.T.), a seminal initiative to connect art and technology in an impactful way.
 
-This project aims to expose the rich web of relationships surrounding Rauschenberg's life and work by leveraging linked data technologies and a dedicated suite of digital tools and applications. Thanks to an ongoing collaboration with [the Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections), we are currently focusing on a collection of 141 documents from the Rauschenberg Archives that document the activity of E.A.T. The collection includes photos, notebooks, videos, posters, and newspaper clippings. 
+This project aims to expose the rich web of relationships surrounding Rauschenberg's life and work by leveraging linked data technologies and a dedicated suite of digital tools and applications. Thanks to an ongoing collaboration with [the Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections) and with the director of E.A.T., Julie Martin, we are currently focusing on a collection of approximately 150 items that document the intitial phase of activity of E.A.T. The collection includes photos, notebooks, videos, posters, and newspaper clippings. 
 
 The E.A.T. + LOD project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
 
 Our work has also generated the following subproject:
 
- - <a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. + LOD Bibliography** <br/>
+<a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. + LOD Bibliography** <br/>
 This project aims to transform the E.A.T. Bibliography into linked data to become part of the broader E.A.T. + LOD dataset. The E.A.T. Bibliography, created by Billy Klüver, consists of a list of over 600 references centered on the E.A.T. initiative. This document was shared by Julie Martin, the current director of E.A.T. The goal of the project is to enhance the E.A.T + LOD project with bibliographic data to provide unified access and discovery to E.A.T. research, collection, and related reference data. Documentation for the project is available [here](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page). 
 
 
