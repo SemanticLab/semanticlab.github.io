@@ -112,7 +112,7 @@ With the support of
 <hr/>
 <br/>
 
-<a name="curatorial-history-and-activism-of-the-AAAC"></a><img style="padding: 8px; width: 400px;" src="{{ "assets/logo_AAAC_SL_flat_text_lg.png" | relative_url }}" alt="AAAC and Semantic Lab logo" width="100%"/>
+<a name="curatorial-history-and-activism-of-the-AAAC"></a><img style="padding: 8px; width: 400px;" src="{{ "assets/logo_AAAC_SL_flat_text_lg3.png" | relative_url }}" alt="AAAC and Semantic Lab logo" width="100%"/>
 
 
 The [Asian American Arts Centre](http://www.artspiral.org/) (AAAC) emerged from the historic Asian American activist group Basement Workshop (1970-1986) in New York City to focus on the promotion of Asian American visual art. Operating from its space at 26 Bowery and more recently in the Lower East Side, AAAC has launched over a hundred exhibitions, collaborating with a diverse community of artists, local grassroots organizations, international curators, art critics, and activists.<br/>
