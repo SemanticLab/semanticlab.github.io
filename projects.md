@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 <h1 class="page-heading">Projects</h1>
 
-##### [E.A.T. + LOD](https://semlab.io/projects/#e.a.t.-+-lod) - [E.A.T. + LOD Bibliography](https://semlab.io/projects/#e.a.t.-+-lod-bibliography) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [International Sweethearts of Rhythm Project](https://semlab.io/projects/#international-sweethearts-of-rhythm) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
+##### [E.A.T. + LOD](https://semlab.io/projects/#e.a.t.-+-lod) - [E.A.T. + LOD Bibliography](https://semlab.io/projects/#e.a.t.-+-lod-bibliography) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [International Sweethearts of Rhythm Project](https://semlab.io/projects/#international-sweethearts-of-rhythm) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [Curatorial History and Activism of the AAAC](https://semlab.io/projects/#curatorial-history-and-activism-of-the-AAAC) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
 <a name="e.a.t.-+-lod"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">E.A.T. + LOD</font></b>
 
@@ -111,6 +111,26 @@ With the support of
 
 <hr/>
 <br/>
+
+<a name="curatorial-history-and-activism-of-the-AAAC"></a><img style="padding: 8px; width: 400px;" src="{{ "assets/logo_AAAC_SL_flat_text.png" | relative_url }}" alt="AAAC and Semantic Lab logo" width="100%"/>
+
+
+The [Asian American Arts Centre](http://www.artspiral.org/) (AAAC) emerged from the historic Asian American activist group Basement Workshop (1970-1986) in New York City to focus on the promotion of Asian American visual art. Operating from its space at 26 Bowery and more recently in the Lower East Side, AAAC has launched over a hundred exhibitions, collaborating with a diverse community of artists, local grassroots organizations, international curators, art critics, and activists.<br/>
+
+In 2022, Semantic Lab was awarded a METRO [Equity in Action Grant](https://metro.org/grants/equity-in-action) in partnership with the Asian American Arts Centre to develop a sustainable solution for the long-term preservation of AAAC’s exhibition history. Working with AAAC Executive Director Robert Lee, Semantic Lab will leverage Wikimedia Commons to provide open access to exhibition ephemera documenting this history, while generating new, reusable linked open data in the form of Wikidata records for describing these resources. 
+
+This project is part of Semantic Lab’s continued work to advance more diverse representation in the historical narrative through the application of semantic technologies. 
+
+
+With the support of:
+<div>
+   <a href="https://metro.org/">
+   <img style="padding: 30px;" src="{{ "assets/logo_metro.jpg" | relative_url }}" alt="Metropolitan New York Library Council (METRO)" width="10%" />
+  </a>
+</div>
+<br/>
+
+<hr/><br/>
 
 <a name="dadalytics"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
