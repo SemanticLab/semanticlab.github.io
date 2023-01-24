@@ -41,14 +41,14 @@
   email: hkthorsen@gmail.com
   
 - name: Jessika Davis
-  role: Data Research Analyst
+  role: Research Assistant,<br>Semantic Lab Coordinator
   github: 
   website: 
   twitter: Jrskabean
   email: jdavi379@pratt.edu 
  
 - name: Ava Kaplan
-  role: Research Assistant,<br>Semantic Lab Coordinator
+  role: Research Assistant
   github: 
   website: 
   twitter: 
@@ -67,3 +67,10 @@
   website: 
   twitter: 
   email: adela448@pratt.edu
+
+- name: Liwen Hu
+  role: Research Assistant
+  github: 
+  website: 
+  twitter: 
+  email: lhux28@pratt.edu
