@@ -17,7 +17,8 @@ The E.A.T. + LOD project documentation can be found [here](http://base.semlab.io
 
 **Featured Documents**<br/>
 
-<a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. Bibliography**, August 12, 1965-January 18, 1980 / by Billy Klüver. Rev. ed. New York: Experiments in Art and Technology, 1980.<br/>
+<a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. Bibliography, August 12, 1965-January 18, 1980 / by Billy Klüver. Rev. ed. New York: Experiments in Art and Technology, 1980.**<br/>
+
 The E.A.T. Bibliography provides a list of over 600 bibliographic references to material published by E.A.T. and articles on E.A.T. activities from 1965 to 1980. The Semantic Lab has converted this bibliographic information into linked data with the goal of enhancing the E.A.T. + LOD knowledge base and providing a unified access point to E.A.T. sources. Project documentation can be found on our [Wikibase](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page).
 
 **Recent Presentations:**<br/>
