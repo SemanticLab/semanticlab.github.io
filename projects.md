@@ -142,7 +142,8 @@ With the support of:
 
 <a name="dadalytics"></a><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_dadalytics_10.png" | relative_url }}" alt="DADAlytics logo" width="8%"/>
 
-With the generous support from IMLS, the Semantic Lab Team has developed a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets, lowering barriers to entry for institutions seeking to create linked open data from archival materials. This project builds on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending that tool's functionality and making it more widely available for use by other institutions. Grant funds supported the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders, and the development of a prototype. 
+With the generous support from IMLS, the Semantic Lab Team has developed a prototype of DADAlytics, a modular tool that performs supervised entity extraction from archival documents for generating linked open datasets. The tool lowers barriers to entry for institutions seeking to create linked open data from archival materials. This project builds on previous work to develop the [Linked Jazz Transcript Analyzer](https://linkedjazz.org/tools/transcript-analyzer/), extending its functionality and making it more widely available for use by other institutions. Grant funds supported the research and data gathering needed to inform the redesign and reengineering of the tool, including an environmental scan, a series of meetings with key stakeholders, and the development of a prototype.
+
 <br/>
 <table>
     <tr>
