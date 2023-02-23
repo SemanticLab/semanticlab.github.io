@@ -11,15 +11,14 @@ permalink: /projects/
 
 Over the course of his six decades-long career [Robert Rauschenberg](https://www.rauschenbergfoundation.org/artist) (1925-2008) challenged artistic conventions, defied genres and fostered unconventional collaborations between disparate communities—from dancers and musicians to scientists and engineers. In 1966, with Bell Laboratories engineer [Billy Klüver](https://en.wikipedia.org/wiki/Billy_Kl%C3%BCver), Rauschenberg founded Experiments in Art and Technology (E.A.T.), a seminal initiative to connect art and technology in an impactful way. By leveraging linked data technologies through a dedicated suite of digital tools and applications, this project aims to expose the rich web of creativity, innovation, and exchange that E.A.T. generated in avant-garde artwork and performance.
 
-Thanks to an ongoing collaboration with the [Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections) and the director of E.A.T., Julie Martin, we are currently processing a collection of approximately 150 items that document the initial phase of E.A.T., particularly the notable large-scale performance series, “9 Evenings: Theater and Engineering.” The collection includes photos, notebooks, videos, posters, and newspaper clippings. 
+Thanks to an ongoing [collaboration](https://www.rauschenbergfoundation.org/collaborations/semantic-lab-pratt-institute-2019-present) with the [Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections) and the director of E.A.T., Julie Martin, we are currently processing a collection of approximately 150 items that document the initial phase of E.A.T., particularly the notable large-scale performance series, “9 Evenings: Theater and Engineering.” The collection includes photos, notebooks, videos, posters, and newspaper clippings. 
 
 The E.A.T. + LOD project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
 
-Our work has also generated the following subproject:
+**Featured Documents**<br/>
 
-<a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. + LOD Bibliography** <br/>
-This project aims to transform the E.A.T. Bibliography into linked data to become part of the broader E.A.T. + LOD dataset. The E.A.T. Bibliography, created by Billy Klüver, consists of a list of over 600 references centered on the E.A.T. initiative. This document was shared by Julie Martin, the current director of E.A.T. The goal of the project is to enhance the E.A.T + LOD project with bibliographic data to provide unified access and discovery to E.A.T. research, collection, and related reference data. Documentation for the project is available [here](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page). 
-
+<a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. Bibliography, August 12, 1965-January 18, 1980 / by Billy Klüver. Rev. ed. New York: Experiments in Art and Technology, 1980.** <br/>
+The E.A.T. Bibliography provides a list of over 600 bibliographic references to material published by E.A.T. and articles on E.A.T. activities from 1965 to 1980. The Semantic Lab has converted this bibliographic information into linked data with the goal of enhancing the E.A.T. + LOD knowledge base and providing a unified access point to E.A.T. sources. Project documentation can be found on our [Wikibase](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page).
 
 **Recent Presentations:**<br/>
 Davis, J., Kaplan, A., & Mikelić, E. (October 26, 2022). [E.A.T. + LOD: Our Version of The Story](https://docs.google.com/presentation/d/1XvGKs3cyyHFiTH-Z0TcOuKBmf1Hlhp5VvUMjkY99dlk/edit?usp=sharing). [2022 ARLIS/NA Virtual Mini-Conference](https://www.arlisny.org/event-5004808).
