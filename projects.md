@@ -44,7 +44,7 @@ Siler, M. (April 12, 2021). [E.A.T. Linked Data Modeling.](https://www.pratt.edu
 <hr/>
 <br/>
 
-<a name="linked-jazz" href="https://linkedjazz.org/"><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_linked_jazz_10.png" | relative_url }}" alt="Linked Jazz logo" width="8%"/></a>
+<a name="linked-jazz"><img style="padding: 8px; ;width: 270px;" src="{{ "assets/logo_linked_jazz_10.png" | relative_url }}" alt="Linked Jazz logo" width="8%"/></a>
 
 
 The jazz community is defined by the relationships that exist between musicians, mentors, rivals, lovers and friends. Exposing these connections and identifying the rich networks they produce is the aim of Linked Jazz. The [Linked Jazz](https://linkedjazz.org/) project investigates the application of Linked Open Data technologies to digitized jazz history materials to uncover meaningful connections between documents and data related to the personal and professional lives of jazz artists.   
