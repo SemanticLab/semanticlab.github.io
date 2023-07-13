@@ -49,6 +49,8 @@ Siler, M. (April 12, 2021). [E.A.T. Linked Data Modeling.](https://www.pratt.edu
 
 The jazz community is defined by the relationships that exist between musicians, mentors, rivals, lovers and friends. Exposing these connections and identifying the rich networks they produce is the aim of Linked Jazz. The Linked Jazz project investigates the application of Linked Open Data technologies to digitized jazz history materials to uncover meaningful connections between documents and data related to the personal and professional lives of jazz artists.   
 
+More information about Linked Jazz can be found on the former [website](https://linkedjazz.org/). 
+
 The Linked Open Data tools and methods developed for the Linked Jazz project have opened new and unprecedented avenues of research and community engagement. Our work has generated the subprojects listed below.
 
  - <a name="women-of-jazz"></a>**Women of Jazz** <br/>
