@@ -33,44 +33,39 @@
   twitter: https://twitter.com/AlexandraAlisa
   email: aprovo@gmail.com
   
-- name: Hilary Thorsen
-  role: Affiliate
-  github: 
-  website: 
-  twitter: 
-  email: hkthorsen@gmail.com
-  
 - name: Jessika Davis
-  role: Data Research Analyst
+  role: Research Fellow
   github: 
   website: 
   twitter: Jrskabean
   email: jdavi379@pratt.edu 
  
 - name: Ava Kaplan
-  role: Data Research Analyst
+  role: Research Fellow
   github: 
   website: 
   twitter: 
   email: akapla82@pratt.edu
 
-- name: Alyse Delaney
-  role: Research Assistant,<br>Semantic Lab Co-Coordinator
-  github: 
-  website: 
-  twitter: 
-  email: adela448@pratt.edu
-
-- name: Liwen Hu
-  role: Research Assistant,<br>Semantic Lab Co-Coordinator
-  github: 
-  website: 
-  twitter: 
-  email: lhux28@pratt.edu
-
-- name: Kate Rowland
+- name: Calista Donohoe
   role: Research Assistant
   github: 
   website: 
   twitter: 
-  email: krowlan6@pratt.edu
+  email: cdono123@pratt.edu
+
+- name: Samie Konet
+  role: Research Assistant
+  github: 
+  website: 
+  twitter: 
+  email: skonet@pratt.edu
+
+  - name: Hilary Thorsen
+  role: Affiliate
+  github: 
+  website: 
+  twitter: 
+  email: hkthorsen@gmail.com
+
+
