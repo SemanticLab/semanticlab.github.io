@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projects
-permalink: /projects/
+title: Data
+permalink: /data/
 ---
 Explore Properties and Data:
 
