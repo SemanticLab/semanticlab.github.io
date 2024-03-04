@@ -64,6 +64,8 @@ The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS 
 
 Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata.
 
+[The Art of SPARQLing](https://docs.google.com/presentation/d/1CC2rP6dLfplBZfsF1SbHLEBOBCpuf2aQRSEIRBXeQos/edit#slide=id.p), Pratt Institute, February 23, 2024
+
 [Local 496: New Orleans Jazz History in Wikidata](https://docs.google.com/presentation/d/1qG6Sv-PDc-EdNWrto_qY53YcCaAMpdZzZ4c-X1SWyKU/edit#slide=id.p), Tulane University, New Orleans, November 8, 2019
 	
 [Working with Art Data Wikidata Workshop](https://www.dropbox.com/s/sbdt5i3birldggx/Wikidata%20Workshop%20spring%202019.pdf?dl=0), Pratt School of Information, New York, February 20, 2019  
