@@ -10,7 +10,6 @@ Vist our Wikibase to browse data: [**base.semlab.io**](http://base.semlab.io/)
 
 Use the query interface to write SPARQL inquiries: [**query.semlab.io**](https://query.semlab.io/). Click the **Examples** button to see sample queries you can run.
 
-Learn the step-by-step process for migrating a Docker Wikibase to a new server [here](https://thisismattmiller.com/post/migrating-your-docker-wikibase/).
 
 ### Data Dumps
 
