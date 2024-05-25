@@ -48,18 +48,11 @@
   email: akapla82@pratt.edu
 
 - name: Calista Donohoe
-  role: Research Assistant, SemLab coordinator
+  role: Research Fellow, SemLab coordinator
   github: 
   website: 
   twitter: 
   email: cdono123@pratt.edu
-
-- name: Samie Konet
-  role: Research Assistant
-  github: 
-  website: 
-  twitter: 
-  email: skonet@pratt.edu
 
 - name: Natalie Zak
   role: Research Assistant
@@ -67,6 +60,13 @@
   website: 
   twitter: 
   email: nzak@pratt.edu
+
+- name: Grace Volinsky
+  role: Research Assistant
+  github: 
+  website: 
+  twitter: 
+  email: gvolinsk@pratt.edu
 
 - name: Hilary Thorsen
   role: Affiliate
