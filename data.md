@@ -18,7 +18,7 @@ Use the query interface to write SPARQL inquiries: [**query.semlab.io**](https:/
 
 [**Wikidata Model RDF**](https://github.com/SemanticLab/data-export-wiki-ttl): Data dump in the Turtle serialization using the [Wikidata data model](https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format)
 
-_Update daily._
+_Updated daily._
 
 
 ### Data Tools:
@@ -26,7 +26,7 @@ _Update daily._
 
 The [**Property Explorer**](https://semlab.io/property-explorer/) can show you how the properties are used in our Wikibase. It helps you understand what type of data is in our system and how we model it.
 
-_Update daily._
+_Updated daily._
 
 
 
