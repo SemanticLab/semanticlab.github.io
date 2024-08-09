@@ -16,7 +16,6 @@ permalink: /people/
 			  	<td>{% if member.name %}{{ member.name }}{% endif %}</td>
 			  	<td>{% if member.role %}{{ member.role }}{% endif %}</td>
 			  	<td>{% if member.email %}<a href="mailto:{{ member.email }}">email</a>{% endif %}</td>
-			  	<td>{% if member.twitter %}<a href="https://twitter.com/{{ member.twitter }}">twitter</a>{% endif %}</td>
 			  	<td>{% if member.github %}<a href="https://github.com/{{ member.github }}">github</a>{% endif %}</td>
 			  	<td>{% if member.website %}<a href="{{ member.website }}">website</a>{% endif %}</td>
 			  </tr>
