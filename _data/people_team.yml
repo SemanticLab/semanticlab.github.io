@@ -2,77 +2,66 @@
   role: Co-director
   github: 
   website: https://cristinapattuelli.org/
-  twitter: cristinapattuel
   email: mpattuel@pratt.edu
 
 - name: Matt Miller
   role: Co-director
   github: https://github.com/thisismattmiller
   website: http://thisismattmiller.com
-  twitter: thisismmiller
   email: thisismmiller@gmail.com
 
 - name: Sarah Ann Adams
   role: Research Fellow
   github: sarahannadams
   website: 
-  twitter: _sarahannadams
   email: s.ann.adams5761@gmail.com
   
 - name: Karen Li-Lun Hwang
   role: Research Fellow
   github: 
   website: 
-  twitter: izahoina
   email: izahoina@gmail.com
   
 - name: Alexandra Provo
   role: Research Fellow
   github: 
   website: 
-  twitter: https://twitter.com/AlexandraAlisa
-  email: aprovo@gmail.com
+  email: aprovo@pratt.edu
   
 - name: Jessika Davis
   role: Research Fellow
   github: 
-  website: 
-  twitter: Jrskabean
+  LinkedIn: https://www.linkedin.com/in/jessika-davis-datamuse/ 
   email: jdavi379@pratt.edu 
  
 - name: Ava Kaplan
   role: Research Fellow
   github: 
   website: 
-  twitter: 
   email: akapla82@pratt.edu
 
 - name: Calista Donohoe
   role: Research Fellow, SemLab coordinator
   github: 
   website: 
-  twitter: 
   email: cdono123@pratt.edu
 
 - name: Natalie Zak
   role: Research Assistant
   github: 
   website: 
-  twitter: 
   email: nzak@pratt.edu
 
 - name: Grace Volinsky
   role: Research Assistant
   github: 
   website: 
-  twitter: 
   email: gvolinsk@pratt.edu
 
 - name: Hilary Thorsen
   role: Affiliate
   github: 
   website: 
-  twitter: 
   email: hkthorsen@gmail.com
 
 
