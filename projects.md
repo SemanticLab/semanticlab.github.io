@@ -7,13 +7,13 @@ permalink: /projects/
 
 ##### [E.A.T. + LOD](https://semlab.io/projects/#e.a.t.-+-lod) - [E.A.T. + LOD Bibliography](https://semlab.io/projects/#e.a.t.-+-lod-bibliography) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [International Sweethearts of Rhythm Project](https://semlab.io/projects/#international-sweethearts-of-rhythm) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [Curatorial History and Activism of the AAAC](https://semlab.io/projects/#curatorial-history-and-activism-of-the-AAAC) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
 
-<a name="e.a.t.-+-lod"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">E.A.T. + LOD</font></b>
+<a name="e.a.t.-+-lod"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">The E.A.T. Knowledge Graph</font></b>
 
 Over the course of his six decades-long career [Robert Rauschenberg](https://www.rauschenbergfoundation.org/artist) (1925-2008) challenged artistic conventions, defied genres and fostered unconventional collaborations between disparate communities—from dancers and musicians to scientists and engineers. In 1966, with Bell Laboratories engineer [Billy Klüver](https://en.wikipedia.org/wiki/Billy_Kl%C3%BCver), Rauschenberg founded Experiments in Art and Technology (E.A.T.), a seminal initiative to connect art and technology in an impactful way. By leveraging linked data technologies through a dedicated suite of digital tools and applications, this project aims to expose the rich web of creativity, innovation, and exchange that E.A.T. generated in avant-garde artwork and performance.
 
 Thanks to an ongoing [collaboration](https://www.rauschenbergfoundation.org/collaborations/semantic-lab-pratt-institute-2019-present) with the [Robert Rauschenberg Foundation Archives](https://www.rauschenbergfoundation.org/art/archives/collections) and the executive director of E.A.T., Julie Martin, we are currently processing a collection of approximately 150 items that document the initial phase of E.A.T., particularly the notable large-scale performance series, “9 Evenings: Theater and Engineering.” The collection includes photos, notebooks, videos, posters, and newspaper clippings. 
 
-The E.A.T. + LOD project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
+The E.A.T. Knowledge Graph (formerly E.A.T. + LOD) project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
 
 **Featured Documents**<br/>
 
