@@ -84,15 +84,15 @@ Pattuelli, M. C. (2022). Inclusive Linked Data for Community Memory Projects. Pr
 
 Pattuelli, M. C. & Hwang, K.L. (2022). [The Girl in the Other Room: Generating New Open Knowledge for the Women of Jazz](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003081876-10/girl-room-cristina-pattuelli-karen-li-lun-hwang). Reddan, J., Herzig, M., & Kahr, M. (Eds.). *The Routledge Companion to Jazz and Gender* (1st ed.). (pp. 105-118). Routledge. DOI: [https://doi.org/10.4324/9781003081876](https://doi.org/10.4324/9781003081876)
 
-Adams, S. & Collier, Z. (October 5, 2021). [Linking Lost Jazz Shrines](https://docs.google.com/presentation/d/1_i13T82LJ_MdgVNR-Cnmr6Ij5Gozm7CJpLGKqIVrTZE/edit#slide=id.gefc82ca71b_0_0). METRO Equity in Action Recipient Presentation.
+Adams, S. A. & Collier, Z. (October 5, 2021). [Linking Lost Jazz Shrines](https://docs.google.com/presentation/d/1_i13T82LJ_MdgVNR-Cnmr6Ij5Gozm7CJpLGKqIVrTZE/edit#slide=id.gefc82ca71b_0_0). METRO Equity in Action Recipient Presentation.
 
-Adams, S. & Collier, Z. (June 30, 2021). [Jazz History as Linked Data: The Linking Lost Jazz Shrines Project.](https://www.youtube.com/watch?v=59obskVqYwk) Data for History 2021: Modelling Time, Places, Agents.
+Adams, S. A. & Collier, Z. (June 30, 2021). [Jazz History as Linked Data: The Linking Lost Jazz Shrines Project.](https://www.youtube.com/watch?v=59obskVqYwk) Data for History 2021: Modelling Time, Places, Agents.
 
 Hwang, K.L. (December 11, 2020). [Wikibase and Semantic Lab: Collaborative Project Data Modeling and Graphing a History of Women in Jazz](https://docs.google.com/presentation/d/1WEPKZqMiMpMY0nwhZPj8mDZgNi2nnv0OO58t51p8SpM/edit#slide=id.p). WikiCon North America 2020.
 
-Pattuelli, M.C. & Adams, S. (June 10, 2020). [Linking Lost Jazz Shrines: The Preservation of Brooklyn Jazz Scene through Linked Open Data](https://www.weeksvillesociety.org/weeksville-wednesdays/2020/6/10/preserving-of-brooklyns-jazz-legacy-linking-lost-jazz-shrines-panel-cww9j). Weeksville Heritage Center, Brooklyn, NY.
+Pattuelli, M.C. & Adams, S. A. (June 10, 2020). [Linking Lost Jazz Shrines: The Preservation of Brooklyn Jazz Scene through Linked Open Data](https://www.weeksvillesociety.org/weeksville-wednesdays/2020/6/10/preserving-of-brooklyns-jazz-legacy-linking-lost-jazz-shrines-panel-cww9j). Weeksville Heritage Center, Brooklyn, NY.
 
-Adams, S. (2020). [Linking Lost Jazz Shrines](https://docs.google.com/presentation/d/1po6rJ4vxKCjWylKWUQPAiPGdSoRkmKKomk6H8H0bp1U/edit#slide=id.g7662d0fdee_0_22). Collections as Data, Cohort 1, Summative Forum, 17 Jan 2020, The University of Nevada, Las Vegas.
+Adams, S. A. (2020). [Linking Lost Jazz Shrines](https://docs.google.com/presentation/d/1po6rJ4vxKCjWylKWUQPAiPGdSoRkmKKomk6H8H0bp1U/edit#slide=id.g7662d0fdee_0_22). Collections as Data, Cohort 1, Summative Forum, 17 Jan 2020, The University of Nevada, Las Vegas.
 
 **The Linked Jazz tools are available [here](https://linkedjazz.org/?page_id=1562).**
 <br> 
