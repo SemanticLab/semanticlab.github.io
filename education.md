@@ -24,9 +24,9 @@ Since 2014, we have been conducting workshops and edit-a-thons for students, pro
 
 [Wikipedia Editing with a Linked Jazz Twist](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), Pratt Institute School of Information, New York, February 8, 2014
 
-<br/><br/>
+<br/>
 <hr/>
-
+<br />
 **Linked Open Data for Libraries, Archives and Museums (INFO 670), Pratt Institute (2017–2022)**
 
 Cristina Pattuelli
@@ -95,7 +95,7 @@ The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS 
 			{% endfor %}
 		</tbody>
 	</table>
-</div> -->
+</div>-->
 
 
 <!-- 
