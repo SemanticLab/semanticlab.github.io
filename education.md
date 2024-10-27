@@ -26,7 +26,6 @@ Since 2014, we have been conducting workshops and edit-a-thons for students, pro
 
 <br/><br/>
 <hr/>
-<br/>
 
 **Linked Open Data for Libraries, Archives and Museums (INFO 670), Pratt Institute (2017–2022)**
 
