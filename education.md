@@ -7,7 +7,7 @@ permalink: /education/
 <h1 class="page-heading">Education</h1>
 
 
-**Linked Open Data for Libraries, Archives and Museums (INFO 670), Pratt Institute**
+**Linked Open Data for Libraries, Archives and Museums (INFO 670), Pratt Institute (2017–2022)**
 
 Cristina Pattuelli
 
