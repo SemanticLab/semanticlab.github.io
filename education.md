@@ -76,16 +76,12 @@ The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS 
 2017-2018 [Rachel Egan](https://github.com/reganartinfo/hopper)<br/>
 2016-2017 [Mollie Echeverria](http://www.mollieecheverria.com/projects/linked-open-data-whitney-museum/)<br/>
 2015-2016 [Joshua Dull](http://pfch.nyc/linked_open_data_at_the_whitney/index.html)
-<br/><br/>
-<hr/>
-<br/>
 <!-- 
 <div class="people-table">
 	
 	<h4>Semlab Team</h4>
 	<table>
 		<tbody>
-
 			{% for member in site.data.people_team %}
 			  <tr>
 			  	<td>{{ member.name }}</td>
@@ -95,8 +91,7 @@ The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS 
 			{% endfor %}
 		</tbody>
 	</table>
-</div>-->
-
+</div> -->
 
 <!-- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
