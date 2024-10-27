@@ -6,6 +6,27 @@ permalink: /education/
 
 <h1 class="page-heading">Education</h1>
 
+**Wiki Education**
+
+Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata.
+
+[The Art of SPARQLing](https://docs.google.com/presentation/d/1CC2rP6dLfplBZfsF1SbHLEBOBCpuf2aQRSEIRBXeQos/edit#slide=id.p), Pratt Institute School of Information, February 23, 2024
+
+[Local 496: New Orleans Jazz History in Wikidata](https://docs.google.com/presentation/d/1qG6Sv-PDc-EdNWrto_qY53YcCaAMpdZzZ4c-X1SWyKU/edit#slide=id.p), Tulane University, New Orleans, November 8, 2019
+	
+[Working with Art Data Wikidata Workshop](https://www.dropbox.com/s/sbdt5i3birldggx/Wikidata%20Workshop%20spring%202019.pdf?dl=0), Pratt Institute School of Information, New York, February 20, 2019  
+
+[Wikidata Workshop](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Internal_Wikidata_Workshop_at_Pratt_Institute), Pratt Institute School of Information, New York, November 10, 2018	
+
+[New Orleans Women of Jazz Wikipedia Edit-A-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz), Jazz Education Network 8th Annual Conference, New Orleans, January 6, 2017
+
+[Women of Jazz Wikipedia Edit-A-Thon](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), New York Public Library for the Performing Arts, New York, May 30, 2015 
+
+[Wikipedia Editing with a Linked Jazz Twist](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), Pratt Institute School of Information, New York, February 8, 2014
+
+<br/><br/>
+<hr/>
+<br/>
 
 **Linked Open Data for Libraries, Archives and Museums (INFO 670), Pratt Institute (2017–2022)**
 
@@ -59,25 +80,6 @@ The purpose of the LOD for Museums Fellowship is to provide support for a MSLIS 
 <br/><br/>
 <hr/>
 <br/>
-
-**Wiki Education**
-
-Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata.
-
-[The Art of SPARQLing](https://docs.google.com/presentation/d/1CC2rP6dLfplBZfsF1SbHLEBOBCpuf2aQRSEIRBXeQos/edit#slide=id.p), Pratt Institute School of Information, February 23, 2024
-
-[Local 496: New Orleans Jazz History in Wikidata](https://docs.google.com/presentation/d/1qG6Sv-PDc-EdNWrto_qY53YcCaAMpdZzZ4c-X1SWyKU/edit#slide=id.p), Tulane University, New Orleans, November 8, 2019
-	
-[Working with Art Data Wikidata Workshop](https://www.dropbox.com/s/sbdt5i3birldggx/Wikidata%20Workshop%20spring%202019.pdf?dl=0), Pratt Institute School of Information, New York, February 20, 2019  
-
-[Wikidata Workshop](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Internal_Wikidata_Workshop_at_Pratt_Institute), Pratt Institute School of Information, New York, November 10, 2018	
-
-[New Orleans Women of Jazz Wikipedia Edit-A-Thon](https://en.wikipedia.org/wiki/Wikipedia:Meetup/New_Orleans/WomenOfJazz), Jazz Education Network 8th Annual Conference, New Orleans, January 6, 2017
-
-[Women of Jazz Wikipedia Edit-A-Thon](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), New York Public Library for the Performing Arts, New York, May 30, 2015 
-
-[Wikipedia Editing with a Linked Jazz Twist](https://www.dropbox.com/s/f3geczr2clua1oc/Wikipedia%20Editing%20Workshop.pdf?dl=0), Pratt Institute School of Information, New York, February 8, 2014
-
 <!-- 
 <div class="people-table">
 	
