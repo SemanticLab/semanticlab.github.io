@@ -10,6 +10,8 @@ permalink: /education/
 
 Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata.
 
+[Wikidata Day 2024](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2024) Co-hosted with Wikimedia NYC and Girls Who Code, Pratt Institute School of Information, New York, October 26, 2024.
+
 [The Art of SPARQLing](https://docs.google.com/presentation/d/1CC2rP6dLfplBZfsF1SbHLEBOBCpuf2aQRSEIRBXeQos/edit#slide=id.p), Pratt Institute School of Information, February 23, 2024
 
 [Local 496: New Orleans Jazz History in Wikidata](https://docs.google.com/presentation/d/1qG6Sv-PDc-EdNWrto_qY53YcCaAMpdZzZ4c-X1SWyKU/edit#slide=id.p), Tulane University, New Orleans, November 8, 2019
