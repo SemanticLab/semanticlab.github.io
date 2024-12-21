@@ -209,7 +209,7 @@ The Mary Berenson Project investigates the application of computational analysis
 
 Mary Berenson’s archive, a rich collection of letters, personal diaries, literary journals and notes, both published and unpublished, is part of the Bernard and Mary Berenson Papers (1880-2002) held at the Biblioteca Berenson at the Villa I Tatti. This trove of primary source material has enormous historical value, but has yet to be fully explored. 
 
-**Publications:**<br/>
+**Publications**<br/>
 Adams, S. A., Mann, M., Gold, R., Della Monica, I., and Pattuelli, M. C. (2019). [Documents as data: Harvesting Knowledge from textual resources with DADAlytics](https://www.slideshare.net/cristinapattuelli/documents-as-data-harvesting-knowledge-from-textual-resources-with-dadalytics). 11th International Conference on Qualitative and Quantitative Methods in Libraries (QQML 2019), May 28-31, Florence, Italy. [Abstract](http://qqml.org/wp-content/uploads/2017/09/Book-of-Abstracts_Final_AfterConf_v1.pdf).
 
 Photograph of Mary Berenson in the [Public Domain](https://commons.wikimedia.org/wiki/File:Mary_Berenson_(n%C3%A9e_Smith)_1885_from_NPG.jpg)
