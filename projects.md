@@ -16,12 +16,11 @@ Thanks to an ongoing [collaboration](https://www.rauschenbergfoundation.org/coll
 The E.A.T. Knowledge Graph (formerly E.A.T. + LOD) project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
 
 **Sources**<br/>
-
 <a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. Bibliography, August 12, 1965-January 18, 1980** / by Billy Klüver. Rev. ed. New York: Experiments in Art and Technology, 1980.<br/>
 
 The E.A.T. Bibliography provides a list of over 600 bibliographic references to material published by E.A.T. and articles on E.A.T. activities from 1965 to 1980. The Semantic Lab has converted this bibliographic information into linked data with the goal of enhancing the E.A.T. knowledge base and providing a unified access point to E.A.T. sources. A browsable version of the E.A.T. Bibliography, driven by SPARQL queries, is available [here](https://semlab.io/eat-bibliography/#/). Project documentation is available on the [Wikibase Project Page](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page).
 
-**Publications and Presentations:**<br/>
+**Publications and Presentations**<br/>
 Davis, J. & Kaplan, A. (October 29, 2023). [E.A.T. + LOD Projects: Semantic Lab + Wikibase Vocabulary](https://docs.google.com/presentation/d/1zrVnICyear-IPJgfuNiV_25z3wq0CX_hGOm3-Zw73mk/edit?usp=sharing). Presented at [Wikidata Day 2023 in New York City](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2023).
 
 Davis, J., Kaplan, A., & Mikelić, E. (October 26, 2022). [E.A.T. + LOD: Our Version of The Story](https://docs.google.com/presentation/d/1XvGKs3cyyHFiTH-Z0TcOuKBmf1Hlhp5VvUMjkY99dlk/edit?usp=sharing). [2022 ARLIS/NA Virtual Mini-Conference](https://www.arlisny.org/event-5004808).
@@ -75,7 +74,7 @@ The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holding
  - <a name="linking-lost-jazz-shrines"></a>**Linking Lost Jazz Shrines** <br/>
 [Linking Lost Jazz Shrines](https://sites.google.com/weeksvillesociety.org/linking-lost-jazz-shrines) is a [Weeksville Heritage Center](https://www.weeksvillesociety.org/) and Semantic Lab at Pratt collaboration, which seeks to apply linked open data technologies to [The Weeksville Lost Jazz Shrines of Brooklyn (WLJSB)](https://weeksvilleheritagecenter.squarespace.com/s/WLJSB_Finding-Aid_2015.pdf) collection of oral histories. This collection was created as part of a 2008 research project documenting Central Brooklyn’s cultural legacy of jazz history between the 1930s and 1960s. Linking Lost Jazz Shrines will link to the Linked Jazz dataset, as well as contribute new musicians, music groups, and jazz venues, enriching and expanding the Linked Jazz network. In 2020, the LLJS project received the [A.R.T.'s New York Archives Archival Achievement](https://www.nycarchivists.org/event-4004583) award. Supported by the Andrew W. Mellon Foundation’s ["Collections as Data: Part to Whole"](https://collectionsasdata.github.io/part2whole/) grant program (January 2019-August 2020); ["Equity in Action"](https://mnylc.org/equity-in-action/) grant from the Metropolitan New York Library Council (METRO) (February-October 2021).<br/><br/>
 
-**Publications & Presentations:**<br/>
+**Publications and Presentations**<br/>
 Three Semantic Lab projects: *Linked Jazz*, *Linking Lost Jazz Shrines (LLJS)*, and *Women of Jazz: The International Sweethearts of Rhythm* have been included in [“Mapping the Black Digital and Public Humanities.”](https://sites.lib.jmu.edu/mappingbdph/) Based at James Madison University, this digital library connects over 400 projects related to Black history and culture, allowing users to explore listings and subject coverage via a map and other visualizations.
 
 Hwang, K.L. (October 29, 2023). [Women in Jazz Projects: Semantic Lab + Wikimedia Structured Data Tools](https://docs.google.com/presentation/d/1i92fQgzUgkya90YR1oB_wyO4UOUnD6O0Qvlns9PXth8/edit?usp=sharing). Presented at [Wikidata Day 2023 in New York City](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2023).
@@ -135,7 +134,7 @@ In 2022, Semantic Lab was awarded a METRO [Equity in Action Grant](https://metro
 
 This project is part of Semantic Lab’s continued work to advance more diverse representation in the historical narrative through the application of semantic technologies. 
 
-**Presentations:**<br/>
+**Presentations**<br/>
 Hwang, K.L. (October 18, 2022). [Creating a Sustainable Digital Preservation Strategy and New Semantic Knowledge for the Web: The Asian American Arts Centre Exhibition Flyers Collection](https://docs.google.com/presentation/d/1M2xkTkO6RcS4HoRZGnVZSmeiyTPfIFgM0ul31MQNgws/edit?usp=sharing). METRO Equity in Action Recipient Presentation. Video of presentation available [here](https://youtu.be/ci6cDnicEXk).
 
 Hwang, K.L. (October 29, 2022), "Preserving the Records: New Knowledge Graphs - Asian American Arts Centre Exhibition Flyers". Presented as a Welcome to Wikidata Workshop at [Wikidata Day 2022 in New York City](https://www.bklynlibrary.org/calendar/wikidata-day-central-library-info-20221029), Brooklyn Public Central Library.
