@@ -6,7 +6,7 @@ permalink: /data/
 
 ### Wikibase
 
-Vist our Wikibase to browse data: [**base.semlab.io**](http://base.semlab.io/)
+Visit our Wikibase to browse data: [**base.semlab.io**](http://base.semlab.io/)
 
 Use the query interface to write SPARQL inquiries: [**query.semlab.io**](https://query.semlab.io/). Click the **Examples** button to see sample queries you can run.
 
