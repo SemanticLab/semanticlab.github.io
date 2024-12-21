@@ -21,7 +21,7 @@ The E.A.T. Knowledge Graph (formerly E.A.T. + LOD) project documentation can be 
 
 The E.A.T. Bibliography provides a list of over 600 bibliographic references to material published by E.A.T. and articles on E.A.T. activities from 1965 to 1980. The Semantic Lab has converted this bibliographic information into linked data with the goal of enhancing the E.A.T. knowledge base and providing a unified access point to E.A.T. sources. A browsable version of the E.A.T. Bibliography, driven by SPARQL queries, is available [here](https://semlab.io/eat-bibliography/#/). Project documentation is available on the [Wikibase Project Page](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page).
 
-**Presentations:**<br/>
+**Publications and Presentations:**<br/>
 Davis, J. & Kaplan, A. (October 29, 2023). [E.A.T. + LOD Projects: Semantic Lab + Wikibase Vocabulary](https://docs.google.com/presentation/d/1zrVnICyear-IPJgfuNiV_25z3wq0CX_hGOm3-Zw73mk/edit?usp=sharing). Presented at [Wikidata Day 2023 in New York City](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2023).
 
 Davis, J., Kaplan, A., & Mikelić, E. (October 26, 2022). [E.A.T. + LOD: Our Version of The Story](https://docs.google.com/presentation/d/1XvGKs3cyyHFiTH-Z0TcOuKBmf1Hlhp5VvUMjkY99dlk/edit?usp=sharing). [2022 ARLIS/NA Virtual Mini-Conference](https://www.arlisny.org/event-5004808).
