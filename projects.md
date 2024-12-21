@@ -238,7 +238,7 @@ With the support of:
 
 Principle investigators are Lukas Klic and Jonathan Nelson of Villa I Tatti. Design, methodology, technical advising, and project management by Matt Miller, Cristina Pattuelli, and Alexandra Provo. For further information, please see the [Background of The Project](http://florentinedrawings.itatti.harvard.edu/pages/background), [Full List of Contributors](http://florentinedrawings.itatti.harvard.edu/pages/credits), or the [2017 ARLIS/NA Review of "The Drawings of the Florentine Painters"](https://www.arlisna.org/publications/multimedia-technology-reviews/1229-the-drawings-of-the-florentine-painters). The entire [dataset](http://data.itatti.harvard.edu) is openly available in RDF for reuse under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0) license.
 
-**Publications:**<br/>
+**Publications**<br/>
 Klic, L., Nelson, J.K., Pattuelli, M. C., and Provo, A. (2018). Florentine Renaissance Drawings: A linked catalog for the Semantic Web. *Art Documentation*. (37)1, 33-43. DOI: [https://doi.org/10.1086/697276](https://doi.org/10.1086/697276).
 
 Klic, L., Miller, M., Nelson, J., Pattuelli, M. C. and Provo, A. (2017). [The drawings of the Florentine painters:
