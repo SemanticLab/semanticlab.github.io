@@ -15,7 +15,7 @@ Thanks to an ongoing [collaboration](https://www.rauschenbergfoundation.org/coll
 
 The E.A.T. Knowledge Graph (formerly E.A.T. + LOD) project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
 
-**Featured Documents**<br/>
+**Sources**<br/>
 
 <a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. Bibliography, August 12, 1965-January 18, 1980** / by Billy Klüver. Rev. ed. New York: Experiments in Art and Technology, 1980.<br/>
 
