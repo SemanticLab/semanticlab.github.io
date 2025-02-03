@@ -43,7 +43,7 @@ Siler, M. (July 20, 2021). [Wikibase and Artists Archives: Connecting “Experim
 
 Ferguson, T. & Rothrock, M. (May 13, 2021). [E.A.T. & LOD: Turning the E.A.T. Bibliography into Linked Data.](https://studentwork.prattsi.org/infoshow/2021/e-a-t-lod-turning-the-e-a-t-bibliography-into-linked-data) Pratt School of Information #InfoShow21.
 
-Siler, M. (April 12, 2021). [E.A.T. Linked Data Modeling.](https://www.pratt.edu/researchopenhouse/2021/school-of-information/eat-linked-data-modeling/) Pratt Institute Research Open House.
+Siler, M. (April 12, 2021). [E.A.T. Linked Data Modeling.](https://www.pratt.edu/work/e-a-t-linked-data-modeling/) Pratt Institute Research Open House.
 <hr/>
 <br/>
 
