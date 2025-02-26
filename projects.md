@@ -15,13 +15,14 @@ Thanks to an ongoing [collaboration](https://www.rauschenbergfoundation.org/coll
 
 The E.A.T. Knowledge Graph (formerly E.A.T. + LOD) project documentation can be found [here](http://base.semlab.io/wiki/Item_talk:Q19104).
 
-**Featured Documents**<br/>
-
+**Sources**<br/>
 <a name="e.a.t.-+-lod-bibliography"></a>**E.A.T. Bibliography, August 12, 1965-January 18, 1980** / by Billy Klüver. Rev. ed. New York: Experiments in Art and Technology, 1980.<br/>
 
 The E.A.T. Bibliography provides a list of over 600 bibliographic references to material published by E.A.T. and articles on E.A.T. activities from 1965 to 1980. The Semantic Lab has converted this bibliographic information into linked data with the goal of enhancing the E.A.T. knowledge base and providing a unified access point to E.A.T. sources. A browsable version of the E.A.T. Bibliography, driven by SPARQL queries, is available [here](https://semlab.io/eat-bibliography/#/). Project documentation is available on the [Wikibase Project Page](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page).
 
-**Presentations:**<br/>
+**Publications and Presentations**<br/>
+Pattuelli, M. C., Miller, M., Kaplan, A., and Donohoe, C. (2025). [Knowledge Graphing Art Archives: Methods and Tools from the Semantic Lab's E.A.T. Project](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.268). _Journal of Open Humanities Data, 11_. [doi.org/10.5334/johd.268](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.268) 
+
 Davis, J. & Kaplan, A. (October 29, 2023). [E.A.T. + LOD Projects: Semantic Lab + Wikibase Vocabulary](https://docs.google.com/presentation/d/1zrVnICyear-IPJgfuNiV_25z3wq0CX_hGOm3-Zw73mk/edit?usp=sharing). Presented at [Wikidata Day 2023 in New York City](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2023).
 
 Davis, J., Kaplan, A., & Mikelić, E. (October 26, 2022). [E.A.T. + LOD: Our Version of The Story](https://docs.google.com/presentation/d/1XvGKs3cyyHFiTH-Z0TcOuKBmf1Hlhp5VvUMjkY99dlk/edit?usp=sharing). [2022 ARLIS/NA Virtual Mini-Conference](https://www.arlisny.org/event-5004808).
@@ -42,7 +43,7 @@ Siler, M. (July 20, 2021). [Wikibase and Artists Archives: Connecting “Experim
 
 Ferguson, T. & Rothrock, M. (May 13, 2021). [E.A.T. & LOD: Turning the E.A.T. Bibliography into Linked Data.](https://studentwork.prattsi.org/infoshow/2021/e-a-t-lod-turning-the-e-a-t-bibliography-into-linked-data) Pratt School of Information #InfoShow21.
 
-Siler, M. (April 12, 2021). [E.A.T. Linked Data Modeling.](https://www.pratt.edu/researchopenhouse/2021/school-of-information/eat-linked-data-modeling/) Pratt Institute Research Open House.
+Siler, M. (April 12, 2021). [E.A.T. Linked Data Modeling.](https://www.pratt.edu/work/e-a-t-linked-data-modeling/) Pratt Institute Research Open House.
 <hr/>
 <br/>
 
@@ -75,7 +76,7 @@ The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holding
  - <a name="linking-lost-jazz-shrines"></a>**Linking Lost Jazz Shrines** <br/>
 [Linking Lost Jazz Shrines](https://sites.google.com/weeksvillesociety.org/linking-lost-jazz-shrines) is a [Weeksville Heritage Center](https://www.weeksvillesociety.org/) and Semantic Lab at Pratt collaboration, which seeks to apply linked open data technologies to [The Weeksville Lost Jazz Shrines of Brooklyn (WLJSB)](https://weeksvilleheritagecenter.squarespace.com/s/WLJSB_Finding-Aid_2015.pdf) collection of oral histories. This collection was created as part of a 2008 research project documenting Central Brooklyn’s cultural legacy of jazz history between the 1930s and 1960s. Linking Lost Jazz Shrines will link to the Linked Jazz dataset, as well as contribute new musicians, music groups, and jazz venues, enriching and expanding the Linked Jazz network. In 2020, the LLJS project received the [A.R.T.'s New York Archives Archival Achievement](https://www.nycarchivists.org/event-4004583) award. Supported by the Andrew W. Mellon Foundation’s ["Collections as Data: Part to Whole"](https://collectionsasdata.github.io/part2whole/) grant program (January 2019-August 2020); ["Equity in Action"](https://mnylc.org/equity-in-action/) grant from the Metropolitan New York Library Council (METRO) (February-October 2021).<br/><br/>
 
-**Publications & Presentations:**<br/>
+**Publications and Presentations**<br/>
 Three Semantic Lab projects: *Linked Jazz*, *Linking Lost Jazz Shrines (LLJS)*, and *Women of Jazz: The International Sweethearts of Rhythm* have been included in [“Mapping the Black Digital and Public Humanities.”](https://sites.lib.jmu.edu/mappingbdph/) Based at James Madison University, this digital library connects over 400 projects related to Black history and culture, allowing users to explore listings and subject coverage via a map and other visualizations.
 
 Hwang, K.L. (October 29, 2023). [Women in Jazz Projects: Semantic Lab + Wikimedia Structured Data Tools](https://docs.google.com/presentation/d/1i92fQgzUgkya90YR1oB_wyO4UOUnD6O0Qvlns9PXth8/edit?usp=sharing). Presented at [Wikidata Day 2023 in New York City](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2023).
@@ -135,7 +136,7 @@ In 2022, Semantic Lab was awarded a METRO [Equity in Action Grant](https://metro
 
 This project is part of Semantic Lab’s continued work to advance more diverse representation in the historical narrative through the application of semantic technologies. 
 
-**Presentations:**<br/>
+**Presentations**<br/>
 Hwang, K.L. (October 18, 2022). [Creating a Sustainable Digital Preservation Strategy and New Semantic Knowledge for the Web: The Asian American Arts Centre Exhibition Flyers Collection](https://docs.google.com/presentation/d/1M2xkTkO6RcS4HoRZGnVZSmeiyTPfIFgM0ul31MQNgws/edit?usp=sharing). METRO Equity in Action Recipient Presentation. Video of presentation available [here](https://youtu.be/ci6cDnicEXk).
 
 Hwang, K.L. (October 29, 2022), "Preserving the Records: New Knowledge Graphs - Asian American Arts Centre Exhibition Flyers". Presented as a Welcome to Wikidata Workshop at [Wikidata Day 2022 in New York City](https://www.bklynlibrary.org/calendar/wikidata-day-central-library-info-20221029), Brooklyn Public Central Library.
@@ -210,7 +211,7 @@ The Mary Berenson Project investigates the application of computational analysis
 
 Mary Berenson’s archive, a rich collection of letters, personal diaries, literary journals and notes, both published and unpublished, is part of the Bernard and Mary Berenson Papers (1880-2002) held at the Biblioteca Berenson at the Villa I Tatti. This trove of primary source material has enormous historical value, but has yet to be fully explored. 
 
-**Publications:**<br/>
+**Publications**<br/>
 Adams, S. A., Mann, M., Gold, R., Della Monica, I., and Pattuelli, M. C. (2019). [Documents as data: Harvesting Knowledge from textual resources with DADAlytics](https://www.slideshare.net/cristinapattuelli/documents-as-data-harvesting-knowledge-from-textual-resources-with-dadalytics). 11th International Conference on Qualitative and Quantitative Methods in Libraries (QQML 2019), May 28-31, Florence, Italy. [Abstract](http://qqml.org/wp-content/uploads/2017/09/Book-of-Abstracts_Final_AfterConf_v1.pdf).
 
 Photograph of Mary Berenson in the [Public Domain](https://commons.wikimedia.org/wiki/File:Mary_Berenson_(n%C3%A9e_Smith)_1885_from_NPG.jpg)
@@ -239,7 +240,7 @@ With the support of:
 
 Principle investigators are Lukas Klic and Jonathan Nelson of Villa I Tatti. Design, methodology, technical advising, and project management by Matt Miller, Cristina Pattuelli, and Alexandra Provo. For further information, please see the [Background of The Project](http://florentinedrawings.itatti.harvard.edu/pages/background), [Full List of Contributors](http://florentinedrawings.itatti.harvard.edu/pages/credits), or the [2017 ARLIS/NA Review of "The Drawings of the Florentine Painters"](https://www.arlisna.org/publications/multimedia-technology-reviews/1229-the-drawings-of-the-florentine-painters). The entire [dataset](http://data.itatti.harvard.edu) is openly available in RDF for reuse under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0) license.
 
-**Publications:**<br/>
+**Publications**<br/>
 Klic, L., Nelson, J.K., Pattuelli, M. C., and Provo, A. (2018). Florentine Renaissance Drawings: A linked catalog for the Semantic Web. *Art Documentation*. (37)1, 33-43. DOI: [https://doi.org/10.1086/697276](https://doi.org/10.1086/697276).
 
 Klic, L., Miller, M., Nelson, J., Pattuelli, M. C. and Provo, A. (2017). [The drawings of the Florentine painters:
