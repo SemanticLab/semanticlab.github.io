@@ -2,7 +2,7 @@
 layout: blog
 title:  "Template Post!"
 subtitle: "The subtitle"
-date:   2024-01-01 07:33:29 -0500
+date:   2030-01-01 07:33:29 -0500
 author: "My Name"
 description: "Short description goes here"
 categories: jekyll update
@@ -14,9 +14,9 @@ permalink: /blog/template.html
 
   <!-- Example of title and subtitle together -->
   <div class="content">
-    <p class="title is-2">My Title</p>
-    <p class="subtitle is-4">My Subtitle...</p>
-    <p class="subtitle is-6">{{page.date | date_to_long_string}}</p>
+    <p class="title is-2">{{page.title}}</p>
+    <p class="subtitle is-4">{{page.subtitle}}</p>
+    <p class="subtitle is-6">{{page.author}} | {{page.date | date_to_long_string}}</p>
 
   </div>
 

@@ -54,6 +54,7 @@
           --header-logo-color2: #000;
           --navbar-shadow: rgba(255,255,255, 0.075);
 
+/*          --bulma-body-color: hsl(221deg 30.67% 85.42%);*/
 
 
 
@@ -120,7 +121,7 @@
           animation: animatedTextGradient 30s linear infinite;
           paint-order: stroke fill;
           -webkit-text-fill-color: transparent;
-          -webkit-text-stroke: 1px var(--header-logo-stroke);
+/*          -webkit-text-stroke: 1px var(--header-logo-stroke);*/
 
 
 
@@ -407,7 +408,14 @@
               <hr>
               <h6>Cite this post:</h6>
               <div style="font-family: monospace;">
-              <span>{{page.author}} "{{page.title}}"</span> <span style="font-style: italic;">Semantic Lab at Pratt Institute (blog)</span><span>, {{page.date | date_to_long_string}}, https://semlab.io{{page.permalink}}.</span>
+
+              {% if page.subtitle != '' %}
+                <span>{{page.author}} "{{page.title}}: {{page.subtitle}}" </span><span style="font-style: italic;">Semantic Lab at Pratt Institute (blog)</span><span>, {{page.date | date_to_long_string}}, https://semlab.io{{page.permalink}}.</span>
+              {% else %}
+                <span>{{page.author}} "{{page.title}}" </span><span style="font-style: italic;">Semantic Lab at Pratt Institute (blog)</span><span>, {{page.date | date_to_long_string}}, https://semlab.io{{page.permalink}}.</span>
+              {% endif %}
+              
+
               </div>
 
             </div>
