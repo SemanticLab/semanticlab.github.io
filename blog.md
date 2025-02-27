@@ -14,7 +14,7 @@ permalink: /blog/
 	<div class="updates">
 		<ul>
 			{% for blog in site.categories.blog %}
-				<li>{{blog.date | date_to_long_string}} - <a href="{{site.url}}{{blog.url}}">{{blog.title}} {{blog.subtitle}} -- {{blog.description}}</a></li>
+				<li>{{blog.date | date_to_long_string}} - <a href="{{site.url}}{{blog.url}}">{{blog.title}} {{blog.subtitle}}</a> -- {{blog.description}}</li>
 
 
 			{% endfor %}
