@@ -55,12 +55,12 @@ permalink: /blog/communicating-ontology.html
   <div class="content">
 
     <p>
-      Our work at Semantic Lab is broken into many different projects. These projects cover a large range of topics with domains in jazz, art history and more. We organize all of our project data in a single Wikibase system running at <a href="base.semlab.io">base.semlab.io</a>. Wikibase, which is the software that runs Wikidata, works on defining an ontology to structure your data. The Semlab team has spent a lot of effort thoughtfully creating an ontology that maximises reuse of properties and classes across our multiple projects. But any sort of ontology that is robust enough to support our work will likely be confusing to newcomers. This post is going to look at a few of the technical solutions we’ve implemented to communicate our ontology to a new audience. 
+      Our work at Semantic Lab is broken into many different projects. These projects cover a large range of topics with domains in jazz, art history and more. We organize all of our project data in a single Wikibase system running at <a href="https://base.semlab.io">base.semlab.io</a>. Wikibase, which is the software that runs Wikidata, works on defining an ontology to structure your data. The Semlab team has spent a lot of effort thoughtfully creating an ontology that maximises reuse of properties and classes across our multiple projects. But any sort of ontology that is robust enough to support our work will likely be confusing to newcomers. This post is going to look at a few of the technical solutions we’ve implemented to communicate our ontology to a new audience. 
     </p>
     
 
     <p>
-      The first avenue into a Wikibase installation for someone wanting to understand its data will likely be keyword searching across the database. This will get you to Item pages and you can see the properties and values defined. But once you begin asking specific questions of the data you will need to think about how to format your question into a SPARQL query. We run a SPARQL query endpoint at <a href="query.semlab.io">query.semlab.io</a> which provides the means to query our data but just getting started is a fairly high bar. 
+      The first avenue into a Wikibase installation for someone wanting to understand its data will likely be keyword searching across the database. This will get you to Item pages and you can see the properties and values defined. But once you begin asking specific questions of the data you will need to think about how to format your question into a SPARQL query. We run a SPARQL query endpoint at <a href="https://query.semlab.io">query.semlab.io</a> which provides the means to query our data but just getting started is a fairly high bar. 
 
     </p>
     <p>
@@ -118,7 +118,7 @@ permalink: /blog/communicating-ontology.html
     </p>
 
     <p>
-      The next step is actually writing your SPARQL query. Armed with the info gained above you can jump into writing a query at <a href="query.semlab.io" target="_blank">query.semlab.io</a> from scratch. But it is always easier to edit something than start from a blank slate. The Wikibase software lets you define canned SPARQL queries that can be loaded as examples in the query interface. We are taking advantage of this feature and populating example queries when we are able. On the query interface page you can hit the examples button and see the ones we have so far:
+      The next step is actually writing your SPARQL query. Armed with the info gained above you can jump into writing a query at <a href="https://query.semlab.io" target="_blank">query.semlab.io</a> from scratch. But it is always easier to edit something than start from a blank slate. The Wikibase software lets you define canned SPARQL queries that can be loaded as examples in the query interface. We are taking advantage of this feature and populating example queries when we are able. On the query interface page you can hit the examples button and see the ones we have so far:
 
     </p>
 
