@@ -55,7 +55,7 @@ permalink: /blog/communicating-ontology.html
   <div class="content">
 
     <p>
-      Our work at Semantic Lab is broken into many different projects. These projects cover a large range of topics with domains in jazz, art history and more. We organize all of our project data in a single Wikibase system running at <a href="https://base.semlab.io">base.semlab.io</a>. Wikibase, which is the software that runs Wikidata, works on defining an ontology to structure your data. The Semlab team has spent a lot of effort thoughtfully creating an ontology that maximises reuse of properties and classes across our multiple projects. But any sort of ontology that is robust enough to support our work will likely be confusing to newcomers. This post is going to look at a few of the technical solutions we’ve implemented to communicate our ontology to a new audience. 
+      Our work at Semantic Lab is broken into many different projects. These projects cover a large range of topics with domains in jazz, art history and more. We organize all of our project data in a single Wikibase system running at <a href="https://base.semlab.io">base.semlab.io</a>. Wikibase, which is the software that runs Wikidata, works on defining an ontology to structure your data. The Semlab team has spent a lot of effort thoughtfully creating an ontology that maximizes reuse of properties and classes across our multiple projects. But any sort of ontology that is robust enough to support our work will likely be confusing to newcomers. This post is going to look at a few of the technical solutions we’ve implemented to communicate our ontology to a new audience. 
     </p>
     
 
@@ -64,11 +64,11 @@ permalink: /blog/communicating-ontology.html
 
     </p>
     <p>
-      To begin you need to know how to write SPARQL, which is a query language with its own rules for syntax and structure, a skill which is reusable from other SPARQL endpoints such as Wikidata. But you also need to know what properties and item identifiers you are going to use to write the query. This is domain specific knowledge to know the exact Qids (Items) and Pids (Properties) to write into your query. One way to gain this understanding is by looking at the Item pages, you find the thing you are interested in and look at the properties that are used and then extrapolate that to write your query. This works okay but you are at the item level where you only are seeing one example of how the ontology is used, to write queries you need to understand how it is used across the system. Knowing at a global level how these properties are used across all items and how complete the data is would allow you to communicate your question in SPARQL effectively. 
+      To begin you need to know how to write SPARQL, which is a query language with its own rules for syntax and structure, a skill which is reusable from other SPARQL endpoints such as Wikidata. But you also need to know what properties and item identifiers you are going to use to write the query.  This is domain-specific knowledge: knowing the exact QIDs (Items) and PIDs (Properties) to write into your query. One way to gain this understanding is by looking at the Item pages, you find the thing you are interested in and look at the properties that are used and then extrapolate that to write your query. This works okay but you are at the item level where you only are seeing one example of how the ontology is used, to write queries you need to understand how it is used across the system. Knowing at a global level how these properties are used across all items and how complete the data is would allow you to communicate your question in SPARQL effectively. 
 
     </p>
     <p>
-      To facilitate this higher level of understanding of our properties and items usage we’ve developed a tool called Property Explorer to help visualize these relationships:
+      To facilitate this higher level of understanding of our properties' and items' usage we’ve developed a tool called Property Explorer to help visualize these relationships:
 
     </p>
 
@@ -77,7 +77,7 @@ permalink: /blog/communicating-ontology.html
     </p>
 
     <p>
-      This tool builds a visual interface for our over 200 properties used in the Wikibase and summarizes how they are used by describing the type of items they connect.   Let’s look at an example, P75 contributor:
+      This tool builds a visual interface for our over 200 properties used in the Wikibase and summarizes how they are used by describing the type of items they connect.   Let’s look at an example, P75 <span class="is-italic">contributor</span>:
 
     </p>
 
@@ -92,10 +92,10 @@ permalink: /blog/communicating-ontology.html
 
     <p>
       <ol>
-        <li>The name, description and number of the property, communicates in natural text the intention of the property.</li>
-        <li>Subject type, everything in the system is a triple composed of a subject, predicate and object. So each property originates from a subject’s item page. This list breaks down what type of item is being used. “Type” here means rdf:type or in Wikidata “Instance of.” You can see in this example “art exhibition” is the majority of the items that have this property on their item page. You can also get a sense how it is used by looking at the other types, concert, event, performance, etc. Everything is clickable and the list is comprehensive meaning you can expand the “More” and see every single occurrence.</li>
-        <li>Pie charts are kind of well known to be deceiving at communicating area size but their usage here conveys the percentages well enough and is mostly to point out when something is the majority. Plus they were created using <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/gradient">CSS gradients</a> making them very performative and shouldn’t be a problem having a few hundred on the page at once, in fact take a look at the “Wandering Pies” button at the bottom of the property explorer page to see how performative they can get.</li>
-        <li>This counts the number of times a specific subject property object triple combination is used. You can click on each and it will open up the SPARQL query interface populating a query allowing you to view those triples.</li>
+        <li>The name, description and number of the property, communicate in natural text the intension of the property.</li>
+        <li>Subject type, everything in the system is a triple composed of a subject, predicate, and object. So each property originates from a subject’s item page. This list breaks down what type of item is being used. “Type” here means <span class="is-italic">rdf:type</span> or in Wikidata <span class="is-italic">Instance of</span>. You can see in this example that “art exhibition” is the majority of the items that have this property on their item page. You can also get a sense of how it is used by looking at the other types, concert, event, performance, etc. Everything is clickable and the list is comprehensive meaning you can expand the “More” and see every single occurrence.</li>
+        <li>Pie charts are kind of well known to be deceiving at communicating area size but their usage here conveys the percentages well enough and is mostly meant to point out when something is the majority. Plus they were created using <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/gradient">CSS gradients</a> making them very performative and shouldn’t be a problem having a few hundred on the page at once, in fact take a look at the “Wandering Pies” button at the bottom of the property explorer page to see how performative they can get.</li>
+        <li>This counts the number of times a specific subject-property-object triple combination is used. You can click on each and it will open up the SPARQL query interface populating a query allowing you to view those triples.</li>
         <li>Similar to the subject column this shows the type of items linked to as the object of the statement. In this example if you found a P75 used on an item page the vast majority of the time it will be linking to a person. Again it is clickable to see the item page for that type and you can expand to see the long tail.</li>
         
 
@@ -105,7 +105,7 @@ permalink: /blog/communicating-ontology.html
     </p>
 
     <p>
-      There is also at the top of the page the ability to filter the properties by specific criteria. You can limit the properties displayed based on the project its subjects and objects are part of, the type of subjects and the type of objects. So for example if you were interested in the people of the Linked Jazz project you can filter on the Linked Jazz Oral History project with people for subject and people for object. If you apply these filters you would see there are only 31 properties of the 200+ that match, it would provide you with the info you would need to start writing queries to explore the people of Linked Jazz. 
+      There is also at the top of the page the ability to filter the properties by specific criteria. You can limit the properties displayed based on the project its subjects and objects are part of, the type of subjects and the type of objects. So for example, if you were interested in the people of the Linked Jazz project you can filter by the Linked Jazz Oral History project with people as the subject and people as the object. If you apply these filters, you would see that there are only 31 properties out of the 200+ that match. This would provide you with the info you would need to start writing queries to explore the people of Linked Jazz.
     </p>
 
     <p>
@@ -113,12 +113,12 @@ permalink: /blog/communicating-ontology.html
     </p>
 
     <p>
-      The Property Explorer’s data is updated every night via a job that runs on the server and then publishes the data to a Github repository which has its interface hosted on Github pages in the same repo. You can checkout the underlying data and code at <a href="https://github.com/SemanticLab/property-explorer" target="_blank">github.com/SemanticLab/property-explorer</a>.
+      The Property Explorer’s data is updated every night via a job that runs on the server and then publishes the data to a Github repository which has its interface hosted on Github pages in the same repo. You can check out the underlying data and code at <a href="https://github.com/SemanticLab/property-explorer" target="_blank">github.com/SemanticLab/property-explorer</a>.
 
     </p>
 
     <p>
-      The next step is actually writing your SPARQL query. Armed with the info gained above you can jump into writing a query at <a href="https://query.semlab.io" target="_blank">query.semlab.io</a> from scratch. But it is always easier to edit something than start from a blank slate. The Wikibase software lets you define canned SPARQL queries that can be loaded as examples in the query interface. We are taking advantage of this feature and populating example queries when we are able. On the query interface page you can hit the examples button and see the ones we have so far:
+      The next step is actually writing your SPARQL query. Armed with the info gained above you can jump into writing a query at <a href="https://query.semlab.io" target="_blank">query.semlab.io</a> from scratch. But it is always easier to edit something than start from a blank slate. The Wikibase software lets you define canned SPARQL queries that can be loaded as examples in the query interface. We are taking advantage of this feature and populating example queries when we are able. On the query interface page you can hit the Examples button and see the ones we have so far:
 
     </p>
 
@@ -127,7 +127,7 @@ permalink: /blog/communicating-ontology.html
     </p>
 
     <p>
-      The final tool I want to look at is our data export processes. Writing queries works well for targeted questions and exploration but if you wanted to programmatically work with the data to build a visualization or apply some analytical or machine learning process you would want the whole corpus. The issue in my mind for these use cases is of course the audience and expertise, meaning you want to make the data as useful for as many people as possible. The issues with just providing a data dump of the triple store that powers the query interface is that the native RDF Wikibase data model is necessarily complicated and then on top of the data model is our ontology, the Qids and Pids. You can see <a href="https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format#/media/File:Rdf_mapping-vector.svg" target="_blank">a diagram here</a> but it is a very high bar to work with. We do <a href="https://github.com/SemanticLab/data-export-wiki-ttl" target="_blank">provide a RDF dump of the system</a> for the brave that would like to use our data in that form. But we also provide the data in a much more simplified JSON-LD format.
+      The final tool I want to look at is our data export processes. Writing queries works well for targeted questions and exploration but if you wanted to programmatically work with the data to build a visualization or apply some analytical or machine learning process you would want the whole corpus. The issue in my mind for these use cases is of course the audience and expertise, meaning you want to make the data as useful for as many people as possible. The issues with just providing a data dump of the triple store that powers the query interface is that the native RDF Wikibase data model is necessarily complicated and then on top of the data model is our ontology, the QIDs and PIDs. You can see <a href="https://www.mediawiki.org/wiki/Wikibase/Indexing/RDF_Dump_Format#/media/File:Rdf_mapping-vector.svg" target="_blank">a diagram here</a> but it is a very high bar to work with. We do <a href="https://github.com/SemanticLab/data-export-wiki-ttl" target="_blank">provide an RDF dump of the system</a> for the brave that would like to use our data in that form. But we also provide the data in a much more simplified JSON-LD format.
 
     </p>
 
@@ -143,7 +143,7 @@ permalink: /blog/communicating-ontology.html
     </p>
 
     <p>
-      The data dumps provided are broken into projects and then by entity. You can of course grab all the data for a specific project but if you are only interested in the People of Linked Jazz there is a three megabyte file with everything you need. Here is an example of the simplified data for a single Person: <a href="https://gist.github.com/thisismattmiller/705de8cb7ec42fe88d8bd2d341e5a589" target="_blank">Mary Lou Williams</a>. We also use the JSON-LD context feature to create simple aliases for the property and item URIs. You can <a href="https://raw.githubusercontent.com/SemanticLab/data-export/main/context/context.jsonld" target="_blank">see our context file here</a>. So instead of a very long http://base.semlab.io/entitiy/blah URI for every single thing  you have simple human readable words and phrases for the data keys. This much more approximates the experience programers would have with non-linked data dataset. The organization of these specific data dumps also makes small changes to where things are aggregated and other differences that make working with the data easier. Ultimately we hide a bit of the ontology’s complexity behind aliases and organization to provide a better experience but the important aspects that make the data “linked data” are still present and actionable. Like the Property Explore, these data dumps are generated every night, and you can view the data and source code that generates them at the link above.
+      The data dumps provided are broken into projects and then by entity. You can of course grab all the data for a specific project but if you are only interested in the People of Linked Jazz there is a three megabyte file with everything you need. Here is an example of the simplified data for a single Person: <a href="https://gist.github.com/thisismattmiller/705de8cb7ec42fe88d8bd2d341e5a589" target="_blank">Mary Lou Williams</a>. We also use the JSON-LD context feature to create simple aliases for the property and item URIs. You can <a href="https://raw.githubusercontent.com/SemanticLab/data-export/main/context/context.jsonld" target="_blank">see our context file here</a>. So instead of a very long http://base.semlab.io/entitiy/blah URI for every single thing you have simple, human readable words and phrases for the data keys. This much more approximates the experience programers would have with non-linked data datasets. The organization of these specific data dumps also makes small changes to where things are aggregated and other differences that make working with the data easier. Ultimately we hide a bit of the ontology’s complexity behind aliases and organization to provide a better experience but the important aspects that make the data “linked data” are still present and actionable. Like the Property Explorer, these data dumps are generated every night, and you can view the data and source code that generates them at the link above.
     </p>
 
    
