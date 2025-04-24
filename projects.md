@@ -9,7 +9,7 @@ permalink: /projects/
 
 <a name="Roma-NY"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/Roma-NY-logo.jpg" | relative_url }}" alt="Roma NY logo" width="100%"/> <b><font size="+1.9">Roma / New York: 1948–1964 (Germano Celant) Pilot</font></b>
 
-*Roma/New York 1948–1964: An Art Exploration* is a text by Italian art critic and curator Germano Celant and author Anna Costantini. It chronicles the intersecting relationships and activities of artists, key figures, and institutions during the pivotal years of 1948 to 1964. The text examines the interchange between American and Italian art, focusing particularly on Rome and New York City as vibrant art-cultural hubs during this transformative period in the modern and contemporary art world.
+[*Roma/New York 1948–1964: An Art Exploration*](https://search.worldcat.org/title/1127263145) is a text by Italian art critic and curator [Germano Celant](https://en.wikipedia.org/wiki/Germano_Celant) and author Anna Costantini. It chronicles the intersecting relationships and activities of artists, key figures, and institutions during the pivotal years of 1948 to 1964. The text examines the interchange between American and Italian art, focusing particularly on Rome and New York City as vibrant art-cultural hubs during this transformative period in the modern and contemporary art world.
 
 The Roma / New York: 1948-1964 (Germano Celant) Pilot aims to transform the text’s detailed accounts of relationships and activities into structured statements. The project goal is to form a time- and place-sensitive linked data model to map the interconnected dynamics of people, events, and institutions described in the text. Project documentation can be found [here.](https://base.semlab.io/wiki/Item_talk:Q28901)
 
