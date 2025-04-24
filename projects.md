@@ -5,7 +5,16 @@ permalink: /projects/
 ---
 <h1 class="page-heading">Projects</h1>
 
-##### [The E.A.T. Knowledge Graph](https://semlab.io/projects/#e.a.t.-+-lod) - [E.A.T. Bibliography](https://semlab.io/projects/#e.a.t.-+-lod-bibliography) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [International Sweethearts of Rhythm Project](https://semlab.io/projects/#international-sweethearts-of-rhythm) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [Curatorial History and Activism of the AAAC](https://semlab.io/projects/#curatorial-history-and-activism-of-the-AAAC) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
+##### [Roma / New York: 1948-1964 (Germano Celant) Pilot](https://semlab.io/projects/#Roma-NY) - [The E.A.T. Knowledge Graph](https://semlab.io/projects/#e.a.t.-+-lod) - [E.A.T. Bibliography](https://semlab.io/projects/#e.a.t.-+-lod-bibliography) - [Linked Jazz](https://semlab.io/projects/#linked-jazz) - [Women of Jazz](https://semlab.io/projects/#women-of-jazz) - [International Sweethearts of Rhythm Project](https://semlab.io/projects/#international-sweethearts-of-rhythm) - [Zena Latto Project](https://semlab.io/projects/#zena-latto-project) - [Local 496 Project](https://semlab.io/projects/#local-496-project) - [Linking Lost Jazz Shrines](https://semlab.io/projects/#linking-lost-jazz-shrines) - [Curatorial History and Activism of the AAAC](https://semlab.io/projects/#curatorial-history-and-activism-of-the-AAAC) - [DADAlytics](https://semlab.io/projects/#dadalytics) - [The Mary Berenson Project](https://semlab.io/projects/#the-mary-berenson-project) - [Drawings of the Florentine Painters](https://semlab.io/projects/#drawings-of-the-florentine-painters)
+
+<a name="Roma-NY"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/Roma-NY-logo.jpg" | relative_url }}" alt="Roma NY logo" width="100%"/> <b><font size="+1.9">Roma / New York: 1948–1964 (Germano Celant) Pilot</font></b>
+
+*Roma/New York 1948–1964: An Art Exploration* is a text by Italian art critic and curator Germano Celant and author Anna Costantini. It chronicles the intersecting relationships and activities of artists, key figures, and institutions during the pivotal years of 1948 to 1964. The text examines the interchange between American and Italian art, focusing particularly on Rome and New York City as vibrant art-cultural hubs during this transformative period in the modern and contemporary art world.
+
+The Roma / New York: 1948-1964 (Germano Celant) Pilot aims to transform the text’s detailed accounts of relationships and activities into structured statements. The project goal is to form a time- and place-sensitive linked data model to map the interconnected dynamics of people, events, and institutions described in the text. Project documentation can be found [here.](https://base.semlab.io/wiki/Item_talk:Q28901)
+
+<hr/>
+<br/>
 
 <a name="e.a.t.-+-lod"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/eat_logo_no_text.jpg" | relative_url }}" alt="E.A.T. logo" width="100%"/> <b><font size="+1.9">The E.A.T. Knowledge Graph</font></b>
 
