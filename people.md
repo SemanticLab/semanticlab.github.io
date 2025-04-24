@@ -25,6 +25,8 @@ permalink: /people/
 </div>
 
 <br/>
+
+<b>Past Student Members</b><br>
 Taylor Baker, Julie Carlson, Alyse Delaney, Rae Egan, Grace Volinksy, Teresa Ferguson, Rose Gold, Liwen Hu, Laura Indick, Drey Jonathan, Samie Konet, Dana Lachenmayer, Meghan Lyon, Mary Mann, Ellis Mikelić, Michelle Rothrock, Miranda Siler, Hannah Sistrunk, Eric Toole <br>
 <i>For past members of the Linked Jazz project, click <a href="https://linkedjazz.org/?page_id=215">here</a>.</i>
 
