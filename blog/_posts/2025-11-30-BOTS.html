@@ -1,0 +1,95 @@
+---
+layout: blog
+title:  "AI Scrapers vs Wikibase"
+subtitle: "Analysis of AI webscrapers traffic on our Wikibase instance"
+date:   2025-11-30 07:33:29 -0700
+author: "Matt Miller"
+description: "Looks at web server logs over 2 weeks examining 13 million requests."
+categories: jekyll update
+permalink: /blog/ai-scrapers-vs-wikibase.html
+---
+
+<div class="container">
+
+  <div class="content">
+    <p class="title is-2">{{page.title}}</p>
+    <p class="subtitle is-4">{{page.subtitle}}</p>
+    <p class="subtitle is-6"><a href="https://thisismattmiller.com">{{page.author}}</a> | {{page.date | date_to_long_string}}</p>
+  </div>
+
+  <hr>
+
+  <style>
+    .content{
+      --bulma-content-block-margin-bottom: 2em;
+    }
+    .content img{
+      border: solid 1px black;
+    }
+    .content li{
+      margin-bottom: 1.5em;
+    }
+    .full-width-iframe{
+      width: 100%;
+      border: none;
+    }
+  </style>
+
+  <div class="content">
+
+    <p>
+      Our self-hosted <a href="https://base.semlab.io/wiki/Main_Page">Wikibase instance</a> is the core of our technical infrastructure. We use it not only to store the data output of our research projects but also to power a range of utilities and tools including data visualizations. We are very happy to make our data available for people and machines. We offer it in various formats from <a href="https://query.semlab.io/">SPARQL endpoint</a> to <a href="https://semlab.io/data/">bulk downloads</a>. Unfortunately, Gen-AI's appetite for new original text has made scraping the web for new LLM fodder an imperative and probably fairly profitable for the companies who do it. These are blunt tools though, they don't care that we have a highly developed ontologically aligned dataset; they just want text. So that's what they do, scrape the web, download HTML, the faster the better.
+    </p>
+
+    <p>
+      The Wikibase software is a sort of a sand trap from the point of view of automated scrapers. If they are blindly following links they will wind up in endless revisions and diffs of the same resource. I don't think they care, more text for the machine. But for the server running the software it is another issue. By the end of September 2025 our Wikibase was receiving about a 1 Million requests per day. Running on a 8GB Ram, 2 vCPU machine, very modest specifications, our server was having trouble keeping up and things began to break. Timeouts, memory leaks accumulating over days requiring reboots, and general slowness.
+    </p>
+
+    <p>
+      The common solution to this problem is to reroute your DNS traffic through a service to filter out this traffic, most use Cloudflare. At first I was apprehensive of using them because it makes the internet more centralized and puts your website in the control of a company. Unfortunately it is not easy to fight the AI scrapers yourself, for reasons I'll go into below. So ultimately I enabled Cloudflare and relieved this pressure on the server. Before I did that I saved about two weeks worth of webserver log files. I thought it would be interesting to see what sort of patterns we can see going through these log files. The rest of the post will be examining the analysis of these logs, a little vignette of what AI scrapers running amok looks like in 2025.
+    </p>
+
+    <h3>Good vs Bad Bots</h3>
+
+    <iframe class="full-width-iframe" height="700" src="https://thisismattmiller.github.io/wb-access-logs/viz/dist/?viz=bot_vs_browser"></iframe>
+
+    <p>
+      This chart shows the problem, the requests that identify themselves as bots are very small compared to what look like real web browsers. But of course our small Wikibase is not receiving 700-900 real people accessing the site per minute! These are bots disguising themselves as real users in order to evade detection and blocking. Only 15% of the traffic is self-identified bots meaning the majority of the traffic is the ambiguous real or maybe not browser traffic.
+    </p>
+
+    <p>
+      One tell that the browser traffic was really a bot came from the location the request originated from. We are US based but there would be a large amount of traffic coming from very specific countries. This chart shows the breakdown of where the requests were coming from by country (using MaxMind IP database to map IP to country)
+    </p>
+
+    <iframe class="full-width-iframe" height="750" src="https://thisismattmiller.github.io/wb-access-logs/viz/dist/?viz=ip_location"></iframe>
+
+    <p>
+      You can see from this chart that Brazil is accounting for more than half the traffic flowing to the site. Very suspicious, this is not real traffic, there must be some large scraping operation in Brazil. Before turning on Cloudflare I tried to ban IP addresses manually and I simply could not keep up. I would ban a dozen IP addresses and immediately new IPs would be used to continue the scrape. Even at the subnet mask level meaning blocking 1000s of IPs at a time. Using Cloudflare I could actually turn off traffic from specific countries for a set amount of time, or turn on those annoying "Prove you are a human" prompts for just that pattern allowing the legitimate users the same experience before but tie up the fake-browser bots in captchas.
+    </p>
+
+    <p>
+      Turning to the good bots that identify themselves which make up a much smaller percentage of the traffic but at least allows you to track the bots activity. Below is an interactive table that lists all the various named bots that interacted with the site:
+    </p>
+
+    <p>
+      <a href="https://thisismattmiller.github.io/wb-access-logs/table/dist/" target="_blank"><button class="button">Open Bot Summary Explorer in New Window</button></a>
+    </p>
+
+    <iframe class="full-width-iframe" height="600" src="https://thisismattmiller.github.io/wb-access-logs/table/dist/"></iframe>
+
+    <p style="margin-top: 2em;">
+      If we look at the most prolific bot "GPTBot" it is described as: "GPTBot is used to make our generative AI foundation models more useful and safe. It is used to crawl content that may be used in training our generative AI foundation models." Take a look at this report documenting the scraping behavior the bot:
+    </p>
+
+    <iframe class="full-width-iframe" height="3300" src="https://thisismattmiller.github.io/wb-access-logs/gptbot_analysis.html"></iframe>
+
+    <p>
+      We can see it does go for the Item pages correctly, it does occasionally (~8%) go after the structured data, strangely mostly in Notation3 format. It accessed 10K of our QIds and used up 7GB of bandwidth. I have no idea if GPTBot knows how to interact with Wikibase software but on average it does seem to navigate it well.
+    </p>
+
+    <p>
+      Ultimately it is not these self-identified bots that are the problem. If you do not want GPT on your website you can easily prevent that user-agent from interacting with it. But these bots that try to appear like normal users are really degrading the internet. If you do nothing your site will probably break under the load. If you use Cloudflare then the Internet gets a little smaller and centralized (and more vulnerable). And if you try to stop them yourself I hope you have weeks to become a full time savvy network administrator. I doubt the motivation for these scrapers to operate will disappear in the near future so I guess all we can do now is just try to keep the website running though whatever means works.
+    </p>
+
+  </div>
+</div>
