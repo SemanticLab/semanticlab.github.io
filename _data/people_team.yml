@@ -41,13 +41,13 @@
   email: akapla82@pratt.edu
 
 - name: Calista Donohoe
-  role: Research Fellow, SemLab coordinator
+  role: Research Fellow, coordinator
   github: 
   website: https://www.linkedin.com/in/calista-donohoe/ 
   email: cdono123@pratt.edu
 
 - name: Natalie Zak
-  role: Research Assistant
+  role: Research Fellow
   github: 
   website: 
   email: nzak@pratt.edu
@@ -64,10 +64,14 @@
   website: 
   email: adean83@pratt.edu
 
-- name: Hilary Thorsen
-  role: Affiliate
+- name: Delaney Keck
+  role: Research Assistant
   github: 
   website: 
-  email: hkthorsen@gmail.com
+  email: dkeck@pratt.edu
 
-
+- name: Rachel Pontious
+  role: Research Assistant
+  github: 
+  website: 
+  email: rpontiou@pratt.edu
