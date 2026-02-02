@@ -10,7 +10,7 @@ permalink: /education/
 
 Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata.
 
-[Wikidata Day 2024](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2024), Pratt Institute School of Information, New York, October 26, 2024.
+[Wikidata Day 2024](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2024), Pratt Institute School of Information, New York, October 26, 2024. Supported by the Academic Initiative Fund, Pratt Institute Senate. 
 
 [The Art of SPARQLing](https://docs.google.com/presentation/d/1CC2rP6dLfplBZfsF1SbHLEBOBCpuf2aQRSEIRBXeQos/edit#slide=id.p), Pratt Institute School of Information, February 23, 2024
 
@@ -61,6 +61,7 @@ This summer school course at the University of Bologna focuses on the principl
 
 The purpose of the LOD for Museums Fellowship is to provide support for a student to investigate the application of Linked Open Data (LOD) within a museum setting. The fellowship allows the student to apply the knowledge and competencies acquired from their course work in a professional setting while developing new skills through participation in an on-site internship.  The focus of the fellowship in the MoMA Archives is to help build a multi-institution integrated exhibition history index and explore its expression as linked open data. Relevant skills that will be developed during the course of the fellowship include data analysis, reconciliation methods, archival research methods, and semantic web methods.  The project's ultimate aim is to create a valuable research tool for art historical scholarship while also demonstrating methods for interlinking archival resources online. More information on the work by current and recipients of the MoMA Linked Open Data Fellowship can be  found below and here in the collective Wikidata project page: https://www.wikidata.org/wiki/Wikidata:WikiProject_Museum_of_Modern_Art
 
+2024-2025 Dorothy Howard<br>
 2023-2024 Samie Konet<br>
 2022-2023 Allysha A. Leonard<br>
 2021-2022 Jessika Davis<br>
