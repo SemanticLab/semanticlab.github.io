@@ -240,8 +240,18 @@ With the support of:
 </div>
 <br/>
 
-<hr/><br/>
+<hr/>
+<br/>
 
+<a name="bbmb-logo"></a><img style="padding: 8px; ;width: 125px;" src="{{ "assets/BBMB.logo.png" | relative_url }}" alt="BBMB logo" width="100%"/> <b><font size="+1.9">Conoshing the Connoisseurs: The Early Writings of Bernard and Mary Berenson</font></b>
+
+Conoshing the Connoisseurs is a bibliography and text analysis project aimed at revealing a particular “culture” of connoisseurship in the late nineteenth century. Consisting of enriched metadata describing the two scholars’ published work and full text when available, the project delineates the first thirteen years of Bernard and Mary Berensons’ published output - a particularly fruitful and formative period in their personal and intellectual lives. The Berensons were major figures in art criticism and the art market during the late 19th- and first half of the 20th-centuries. During the early period of their activity together (1890-1903), both were grappling with questions of connoisseurship and the attribution of artworks, traveling on what they called “conoshing” trips and poring over photographs to determine the authorship of Renaissance works of art. The historical lack of recognition of Mary as a scholar may be partly due to general gender bias, but also to a lack of access to her works and information about them. Conoshing the Connoisseurs thus aims to surface Mary’s scholarship, demonstrate both the overlap and distinct contributions of the two scholars, and reveal their early intellectual network and interests.
+
+**Publications**<br/>
+Provo, A. (2024, October 9). [Conoshing the Connoisseurs: A Joint Bibliography of Bernard and Mary Berenson.](https://docs.google.com/presentation/d/11hqP9bopTWG8glY-hHCca8guAmBQKj-mVQg1YkXRsZ8/edit) Presented at 2024 LD4 Conference: Building Community for Linked Open Data.
+
+<hr/>
+<br/>
 
 <a name="drawings-of-the-florentine-painters"></a><img style="padding: 4px; width: 475px;" src="{{ "assets/logo_drawings_of_the_florentine_painters_10.png" | relative_url }}" alt="Drawings of the Florentine Painters logo" width="100%"/>
 
