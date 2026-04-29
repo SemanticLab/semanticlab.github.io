@@ -247,6 +247,8 @@ With the support of:
 
 Conoshing the Connoisseurs is a bibliography and text analysis project aimed at revealing a particular “culture” of connoisseurship in the late nineteenth century. Consisting of enriched metadata describing the two scholars’ published work and full text when available, the project delineates the first thirteen years of Bernard and Mary Berensons’ published output - a particularly fruitful and formative period in their personal and intellectual lives. The Berensons were major figures in art criticism and the art market during the late 19th- and first half of the 20th-centuries. During the early period of their activity together (1890-1903), both were grappling with questions of connoisseurship and the attribution of artworks, traveling on what they called “conoshing” trips and poring over photographs to determine the authorship of Renaissance works of art. The historical lack of recognition of Mary as a scholar may be partly due to general gender bias, but also to a lack of access to her works and information about them. Conoshing the Connoisseurs thus aims to surface Mary’s scholarship, demonstrate both the overlap and distinct contributions of the two scholars, and reveal their early intellectual network and interests.
 
+A browsable version of the joint bibliography, driven by SPARQL queries, is available [here](https://semlab.io/berenson-bibliography/).
+
 **Publications**<br/>
 Provo, A. (2024, October 9). [Conoshing the Connoisseurs: A Joint Bibliography of Bernard and Mary Berenson.](https://docs.google.com/presentation/d/11hqP9bopTWG8glY-hHCca8guAmBQKj-mVQg1YkXRsZ8/edit) Presented at 2024 LD4 Conference: Building Community for Linked Open Data.
 
