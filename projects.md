@@ -13,6 +13,9 @@ permalink: /projects/
 
 The Roma / New York: 1948-1964 (Germano Celant) Pilot aims to transform the text’s detailed accounts of relationships and activities into structured statements. The project goal is to form a time- and place-sensitive linked data model to map the interconnected dynamics of people, events, and institutions described in the text. Project documentation can be found [here.](https://base.semlab.io/wiki/Item_talk:Q28901)
 
+**Presentations**<br/>
+Donohoe, C. (May 6, 2026). [Mapping Post-War Artistic Networks with Semantic Technologies](https://docs.google.com/presentation/d/1EW1vpt7uJx7CsVXwBE8ihevvu8KxwaUWeLSRYew5RcM/edit?usp=sharing). Presented at [ARLIS/NA in Montréal](https://www.arlisna.org/events/2026-54th-annual-conference).
+
 <hr/>
 <br/>
 
