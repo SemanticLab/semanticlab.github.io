@@ -1,0 +1,69 @@
+---
+layout: blog
+title:  "Miles & Trane at 100"
+subtitle: "Exploring the Davis and Coltrane centennial with Linked Jazz"
+date:   2026-08-17 09:00:00 -0400
+author: "Matt Miller"
+description: "Marking the Miles Davis and John Coltrane centennial by exploring their relationships with an expanded Linked Jazz corpus of oral histories."
+categories: jekyll update
+permalink: /blog/davis-coltrane-centennial.html
+---
+
+<div class="container">
+
+  <div class="content">
+    <p class="title is-2">{{page.title}}</p>
+    <p class="subtitle is-4">{{page.subtitle}}</p>
+    <p class="subtitle is-6"><a href="https://thisismattmiller.com">{{page.author}}</a> | {{page.date | date_to_long_string}}</p>
+  </div>
+
+  <hr>
+
+  <style>
+    .content figure img{
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    .content figure{
+      margin: 2em 0;
+    }
+    .fade-bottom{
+      -webkit-mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+      mask-image: linear-gradient(to bottom, black 60%, transparent 100%);
+    }
+  </style>
+
+  <div class="content">
+
+    <p>
+      This year marks the centennial anniversary for both <a href="https://en.wikipedia.org/wiki/Miles_Davis">Miles Davis</a> and <a href="https://en.wikipedia.org/wiki/John_Coltrane">John Coltrane</a>. Being such prolific and seminal figures in Jazz much has been written about them. But hearing first hand from the people who knew them and what the waves of musicians they influenced have said about them since provides such a novel angle into who they were. Oral histories provide these glimpses and Semantic Lab's first project, <a href="http://linkedjazz.org/">Linked Jazz</a>, focused on encoding the relationships in these documents to map the Jazz world using Linked Data methodologies. Over a decade later the Linked Jazz data is still maintained in our <a href="https://base.semlab.io/">Wikibase</a> but recently we've been doing experiments thinking of how to radically scale up the corpus.
+    </p>
+
+    <p>
+      This is just a preliminary test but there are a lot of use cases where having a more comprehensive corpus could be really powerful, this centennial being a good example. The original Linked Jazz corpus of course has mentions of Davis and Coltrane showing about ~20 relationships mapped out:
+    </p>
+
+    <figure>
+      <img src="/assets/blog_centennial_1.png" alt="Network view of the relationships connecting Miles Davis and John Coltrane in the original Linked Jazz corpus"/>
+      <figcaption>The original Linked Jazz corpus of oral histories with about 20 relationships mapped between Davis and Coltrane</figcaption>
+    </figure>
+
+    <p>
+      With a new greatly expanded corpus (meaning more oral histories) we have over 600 relationships now available to explore. To explore that data and also to start thinking about how to layer discography data we've built this special centennial page to explore the data:
+    </p>
+
+    <p style="text-align: center;">
+      <a href="https://semlab.io/centennial-2026/" target="_blank"><button class="button">Explore the Centennial Site</button></a>
+    </p>
+
+    <figure>
+      <img class="fade-bottom" src="/assets/blog_centennial_2.png" alt="Screenshot of the Linked Jazz centennial explorer showing an expanded network of over 600 relationships around Miles Davis and John Coltrane"/>
+    </figure>
+
+    <p>
+      The site is separated into different layers of relationships starting with the ones closest to the two. You can expand dropdowns to see the transcript text and also the discography information. This is just a test of how this data can be applied in new ways to explore Jazz related narratives. We hope to continue to look at this dataset and see how it can be refined or improved for more uses.
+    </p>
+
+  </div>
+</div>
