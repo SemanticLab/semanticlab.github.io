@@ -254,6 +254,7 @@ A browsable version of the joint bibliography, driven by SPARQL queries, is avai
 
 **Publications**<br/>
 Provo, A. (2026) Conoshing the Connoisseurs: the Early Writings of Bernard and Mary Berenson [Dataset and data paper]. C19 Data Collective. [https://doi.org/10.34770/4h8p-dc56](https://doi.org/10.34770/4h8p-dc56)
+
 Provo, A. (2024, October 9). [Conoshing the Connoisseurs: A Joint Bibliography of Bernard and Mary Berenson.](https://docs.google.com/presentation/d/11hqP9bopTWG8glY-hHCca8guAmBQKj-mVQg1YkXRsZ8/edit) Presented at 2024 LD4 Conference: Building Community for Linked Open Data.
 
 <hr/>
