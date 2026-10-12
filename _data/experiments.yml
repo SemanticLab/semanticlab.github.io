@@ -35,6 +35,14 @@
         The same people network laid out as a hive plot. Nodes are placed on
         axes by type, so dense clusters of connections become readable
         instead of collapsing into a hairball.
+    - title: Hierarchy Browser
+      url: https://semlab.io/eat-hierarchies/
+      thumb: eat-hierarchies-300.webp
+      about: >-
+        Browse the materials and technologies behind E.A.T. artworks as a
+        tree. Pick a category such as plastics and foams, follow its branches
+        to specific materials like Mylar, Plexiglass, or Scotchpak, and see
+        which works used them, from Silver Clouds to the Pepsi Pavilion.
 
 - title: E.A.T. Technical Services Project
   id: eat-technical-services
@@ -151,3 +159,29 @@
       about: >-
         A browsable version of the joint Berenson bibliography, driven by
         SPARQL queries against the Lab's Wikibase.
+
+- title: Linked Jazz Oral History Classic
+  id: linked-jazz-classic
+  project_url: /projects/#linked-jazz
+  project_label: Linked Jazz
+  description: >-
+    The original Linked Jazz Oral History Network, started in 2011. A dataset
+    and network visualization built from 54 transcribed oral histories,
+    interviews with musicians and other figures from the jazz world. In 2020
+    the data was migrated into the Lab's Wikibase.
+  items:
+    - title: Linked Jazz Network
+      url: https://linkedjazz.org/network/
+      thumb: linked-jazz-legacy-network-300.webp
+      about: >-
+        The original interactive visualization of the Linked Jazz network.
+        Explore the connections between musicians drawn from the oral-history
+        transcripts, by mention, by cluster, and by gender.
+    - title: Linked Jazz 52nd Street
+      url: https://linkedjazz.org/52ndStreet/
+      thumb: linked-jazz-52nd-street-300.webp
+      about: >-
+        The Linked Jazz crowdsourcing tool. Volunteers read passages from the
+        oral histories and described the relationship between the speaker and
+        the musicians they mention. The crowdsourcing phase is finished and
+        the site is preserved as it was.
