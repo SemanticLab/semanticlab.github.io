@@ -247,6 +247,171 @@
   }
 }
 
+/**
+ * Page index + section headings
+ */
+.page-index {
+  color: $grey-color-dark;
+  @include relative-font-size(0.9);
+}
+
+.page-section-heading {
+  @include relative-font-size(1.25);
+  font-weight: bold;
+  border-bottom: 1px solid #EAEAEA;
+  padding-bottom: 4px;
+  margin-top: $spacing-unit;
+  scroll-margin-top: 20px;
+}
+
+/**
+ * Experiments page
+ */
+.experiments-section {
+  margin-bottom: $spacing-unit * 1.5;
+}
+
+.experiments-description {
+  max-width: 720px;
+  margin-bottom: $spacing-unit;
+}
+
+.experiments-project-link {
+  white-space: nowrap;
+}
+
+.experiments-grid > div {
+  margin-bottom: $spacing-unit;
+}
+
+.experiment-card {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.experiment-thumb {
+  display: block;
+  border: 1px solid #EAEAEA;
+  border-radius: 4px;
+  overflow: hidden;
+  line-height: 0;
+  transition: border-color 0.15s, box-shadow 0.15s;
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  &:hover, &:focus {
+    border-color: $brand-color;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+  }
+}
+
+.experiment-title {
+  margin: 8px 0 4px;
+  @include relative-font-size(1);
+  font-weight: bold;
+
+  a {
+    color: $text-color;
+    &:hover { color: $brand-color; }
+  }
+}
+
+.experiment-about {
+  @include relative-font-size(0.875);
+
+  summary {
+    cursor: pointer;
+    color: $grey-color;
+    &:hover { color: $brand-color; }
+  }
+
+  p {
+    margin: 6px 0 0;
+    color: $grey-color-dark;
+  }
+}
+
+/**
+ * Data page
+ */
+.data-intro {
+  color: $grey-color-dark;
+  max-width: 640px;
+}
+
+.data-section {
+  margin-bottom: $spacing-unit;
+}
+
+.data-section-title {
+  @include relative-font-size(1.125);
+  font-weight: bold;
+  border-bottom: 1px solid #EAEAEA;
+  padding-bottom: 4px;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.data-badge {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 8px;
+  padding: 1px 8px;
+  border-radius: 10px;
+  background-color: #EAEAEA;
+  color: $grey-color-dark;
+  font-weight: normal;
+  @include relative-font-size(0.7);
+}
+
+.data-grid > div {
+  margin-bottom: $spacing-unit / 2;
+}
+
+.data-card {
+  display: block;
+  height: 100%;
+  padding: 14px 16px;
+  border: 1px solid #EAEAEA;
+  border-radius: 4px;
+  color: $text-color;
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s;
+
+  &:hover, &:focus {
+    text-decoration: none;
+    color: $text-color;
+    border-color: $brand-color;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+
+    .data-card-title {
+      text-decoration: underline;
+    }
+  }
+
+  .data-card-title {
+    display: block;
+    font-weight: bold;
+    color: $brand-color;
+    @include relative-font-size(1.05);
+  }
+
+  .data-card-url {
+    display: block;
+    color: $grey-color;
+    @include relative-font-size(0.8);
+    margin-bottom: 6px;
+  }
+
+  .data-card-desc {
+    display: block;
+    @include relative-font-size(0.9);
+  }
+}
+
 .page-content {
   // padding: $spacing-unit 0;
   max-width: 1029px;

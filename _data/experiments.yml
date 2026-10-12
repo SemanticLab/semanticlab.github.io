@@ -1,0 +1,153 @@
+# Experiments page. Each section has a description, a deep link into the
+# Projects page, and a list of experiments. Thumbnails live in assets/experiments/.
+- title: E.A.T. Knowledge Graph Project
+  id: eat-knowledge-graph
+  project_url: /projects/#e.a.t.-+-lod
+  project_label: The E.A.T. Knowledge Graph
+  description: >-
+    Network views of the people, artworks, and events recorded in the E.A.T.
+    Knowledge Graph, built from the Robert Rauschenberg Foundation Archives'
+    collection documenting Experiments in Art and Technology.
+  items:
+    - title: Artworks
+      url: https://semlab.io/eat-networks/artworks-2d/
+      thumb: artworks-2d-300.webp
+      about: >-
+        A two-dimensional network of the artworks in the Knowledge Graph and
+        the people and events linked to them.
+    - title: Artworks Hive Plot
+      url: https://semlab.io/eat-networks/artworks-hive/
+      thumb: artworks-hive-300.webp
+      about: >-
+        The artworks network arranged as a hive plot, with artworks, people,
+        and events on separate axes.
+    - title: Associated People
+      url: https://semlab.io/eat-networks/associated-people-2d/
+      thumb: associated-people-2d-300.webp
+      about: >-
+        A two-dimensional network of the people associated with E.A.T. and
+        how they connect to one another through the events, artworks, and
+        organizations in the Knowledge Graph.
+    - title: Associated People Hive Plot
+      url: https://semlab.io/eat-networks/associated-people-hive/
+      thumb: associated-people-hive-300.webp
+      about: >-
+        The same people network laid out as a hive plot. Nodes are placed on
+        axes by type, so dense clusters of connections become readable
+        instead of collapsing into a hairball.
+
+- title: E.A.T. Technical Services Project
+  id: eat-technical-services
+  project_url: /projects/#e.a.t.-+-lod
+  project_label: The E.A.T. Knowledge Graph
+  description: >-
+    E.A.T. Technical Services matched artists with engineers. Its records of
+    engineers' skills and locations were kept on edge-notched cards, which
+    were sorted by passing a needle through the deck. These experiments
+    reconstruct how that system worked.
+  items:
+    - title: Edge-notch Card Sorting, 3D Demo
+      url: https://semlab.io/edge-notch-cards-viz/sort_demo.html
+      thumb: cards-3d-300.webp
+      about: >-
+        A three-dimensional simulation of sorting a deck of edge-notched
+        cards. Pick a category to sort for and watch the needle lift the
+        cards that match.
+    - title: Edge-notch Card Sort Explorer
+      url: https://semlab.io/edge-notch-cards-viz/sort_explorer.html
+      thumb: sort-explorer-300.webp
+      about: >-
+        Explore how the notch positions along each edge of the card encoded
+        an engineer's specialties and location, and run sorts across the
+        whole deck to see which cards fall out.
+
+- title: E.A.T. Bibliography Project
+  id: eat-bibliography
+  project_url: /projects/#e.a.t.-+-lod-bibliography
+  project_label: E.A.T. Bibliography
+  description: >-
+    Billy Klüver's 1980 E.A.T. Bibliography lists over 600 references to
+    material published by E.A.T. and articles about its activities between
+    1965 and 1980. The Lab converted it to linked data.
+  items:
+    - title: E.A.T. Bibliography Browser
+      url: https://semlab.io/eat-bibliography/#/
+      thumb: books-eat-300.webp
+      about: >-
+        A browsable version of the E.A.T. Bibliography, driven by SPARQL
+        queries against the Lab's Wikibase.
+
+- title: Linked Jazz Oral History Network 2026
+  id: linked-jazz
+  project_url: /projects/#linked-jazz
+  project_label: Linked Jazz
+  description: >-
+    Experiments built on the Linked Jazz corpus of transcribed jazz oral
+    histories from the Smithsonian, Hamilton College, Rutgers, and Tulane,
+    connecting the musicians' own words to the people, places, and records
+    they talk about.
+  items:
+    - title: People Network
+      url: https://semlab.io/linked-jazz-network/
+      thumb: linked-jazz-network-300.webp
+      about: >-
+        Who spoke about whom. A network of 43,000 people drawn from 1,300
+        jazz oral-history interviews in four archives.
+    - title: Oral Histories
+      url: https://semlab.io/linked-jazz-transcripts/
+      thumb: linked-jazz-transcripts-300.webp
+      about: >-
+        Read the transcribed interviews person by person, with the people,
+        places, and bands they mention linked through the network.
+    - title: Search the Oral Histories
+      url: https://semlab.io/linked-jazz-segments/
+      thumb: linked-jazz-segments-300.webp
+      about: >-
+        Describe what you want to read about in your own words. Every one of
+        61,357 passages from 1,314 interviews is matched by meaning, and
+        results can be narrowed by archive, period, place, venue, band, and
+        person.
+    - title: Carnegie Hall × Linked Jazz
+      url: https://semlab.io/carnegie-hall-linked-jazz/
+      thumb: carnegie-hall-linked-jazz-300.webp
+      about: >-
+        Carnegie Hall's performance-history archive joined with 1,347 jazz
+        oral-history interviews. Documented concerts on one side, the
+        musicians' own voices on the other.
+    - title: "Coltrane & Davis: The Centennial"
+      url: https://semlab.io/centennial-2026/
+      thumb: centennial-2026-300.webp
+      about: >-
+        John Coltrane and Miles Davis as the jazz oral-history record
+        describes them. Relationships, quotes, discography, and portraits,
+        marking the centennial of both musicians' births in 1926.
+    - title: "Melba Liston, 1926–2026"
+      url: https://semlab.io/melba-liston/
+      thumb: melba-liston-300.webp
+      about: >-
+        A centennial page for Melba Liston, trombonist, arranger, and
+        composer. Her life in her own words, what other musicians said of
+        her, and the records she made.
+    - title: "Randy Weston, 1926–2026"
+      url: https://semlab.io/weston-centennial/
+      thumb: weston-centennial-300.webp
+      about: >-
+        A centennial page for Randy Weston, pianist and composer. His 2009
+        oral history in his own words, the places the music took him, his
+        records and tunes, and what the musicians who knew him said of him.
+
+- title: Berenson Bibliography Project
+  id: berenson-bibliography
+  project_url: /projects/#bbmb
+  project_label: Conoshing the Connoisseurs
+  description: >-
+    A joint bibliography of the early writings of Bernard and Mary Berenson,
+    with enriched metadata and text analysis aimed at revealing the culture
+    of connoisseurship in the late nineteenth century.
+  items:
+    - title: Berenson Bibliography
+      url: https://semlab.io/berenson-bibliography/
+      thumb: berenson-logo-300.webp
+      about: >-
+        A browsable version of the joint Berenson bibliography, driven by
+        SPARQL queries against the Lab's Wikibase.

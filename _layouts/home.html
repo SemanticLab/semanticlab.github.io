@@ -11,3 +11,14 @@ layout: default
 	Based at Pratt Institute’s School of Information, the Lab is led by Professor M. Cristina Pattuelli, along with Matt Miller, Adjunct Professor and Linked Data Applications Technical Specialist at the Library of Congress.
 
 </div>
+
+<h1 class="page-heading">Updates</h1>
+<div class="updates home">
+  {% for update in site.categories.updates limit:5 %}
+    <article class="updates-article">
+      <h4 class="updates-title">{{ update.date | date_to_long_string }} - {{ update.title }}</h4>
+      <p>{{ update.content }}</p>
+    </article>
+  {% endfor %}
+  <p><a href="{{ "/updates/" | relative_url }}">See all updates &raquo;</a></p>
+</div>
