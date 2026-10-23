@@ -177,6 +177,14 @@
         The original interactive visualization of the Linked Jazz network.
         Explore the connections between musicians drawn from the oral-history
         transcripts, by mention, by cluster, and by gender.
+    - title: Linked Jazz Network by Gender
+      url: https://linkedjazz.org/network/?mode=gender
+      thumb: linked-jazz-gender-network-300.webp
+      about: >-
+        The original network colored by gender. Seen this way, it became
+        clear that a sizable population of outstanding women musicians were
+        little known, a finding that led to the Women of Jazz project and its
+        Wikipedia edit-a-thons.
     - title: Linked Jazz 52nd Street
       url: https://linkedjazz.org/52ndStreet/
       thumb: linked-jazz-52nd-street-300.webp
