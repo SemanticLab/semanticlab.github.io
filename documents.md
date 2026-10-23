@@ -35,6 +35,8 @@ redirect_from:
 
 Since 2014, we have been conducting workshops and edit-a-thons for students, professionals, and scholars providing the foundational knowledge and practical experience to contribute data to Wikipedia and Wikidata.
 
+[Wikidata Day 2026](https://en.wikipedia.org/wiki/Event:Wikidata_Day_NYC_2026), Pratt Institute School of Information, New York, October 30, 2026.
+
 [Wikidata Day 2024](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2024), Pratt Institute School of Information, New York, October 26, 2024. Supported by the Academic Initiative Fund, Pratt Institute Senate. 
 
 [The Art of SPARQLing](https://docs.google.com/presentation/d/1CC2rP6dLfplBZfsF1SbHLEBOBCpuf2aQRSEIRBXeQos/edit#slide=id.p), Pratt Institute School of Information, February 23, 2024

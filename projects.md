@@ -33,6 +33,9 @@ The E.A.T. Knowledge Graph (formerly E.A.T. + LOD) project documentation can be 
 The E.A.T. Bibliography provides a list of over 600 bibliographic references to material published by E.A.T. and articles on E.A.T. activities from 1965 to 1980. The Semantic Lab has converted this bibliographic information into linked data with the goal of enhancing the E.A.T. knowledge base and providing a unified access point to E.A.T. sources. A browsable version of the E.A.T. Bibliography, driven by SPARQL queries, is available [here](https://semlab.io/eat-bibliography/#/). Project documentation is available on the [Wikibase Project Page](http://base.semlab.io/wiki/Item_talk:Q20517#The_E.A.T._Bibliography_Project_Wikibase_Project_Page).
 
 **Publications and Presentations**<br/>
+Pattuelli, M. C., Miller, M., & Kaplan, A. (2026). Knowledge graphs as epistemic devices: The Experiments in Art and Technology case study. Archival Science, 26(46). [doi.org/10.1007/s10502-026-09567-4](doi.org/10.1007/s10502-026-09567-4)
+Preprint: Research Square, [https://doi.org/10.21203/rs.3.rs-9603047/v1](https://doi.org/10.21203/rs.3.rs-9603047/v1)
+
 Pattuelli, M. C., Miller, M., Kaplan, A., and Donohoe, C. (2025). [Knowledge Graphing Art Archives: Methods and Tools from the Semantic Lab's E.A.T. Project](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.268). _Journal of Open Humanities Data, 11_. [doi.org/10.5334/johd.268](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.268) 
 
 Davis, J. & Kaplan, A. (October 29, 2023). [E.A.T. + LOD Projects: Semantic Lab + Wikibase Vocabulary](https://docs.google.com/presentation/d/1zrVnICyear-IPJgfuNiV_25z3wq0CX_hGOm3-Zw73mk/edit?usp=sharing). Presented at [Wikidata Day 2023 in New York City](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2023).
@@ -90,6 +93,8 @@ The [Local 496 Membership Directory](http://voyager.tcs.tulane.edu/vwebv/holding
 
 **Publications and Presentations**<br/>
 Three Semantic Lab projects: *Linked Jazz*, *Linking Lost Jazz Shrines (LLJS)*, and *Women of Jazz: The International Sweethearts of Rhythm* have been included in [“Mapping the Black Digital and Public Humanities.”](https://sites.lib.jmu.edu/mappingbdph/) Based at James Madison University, this digital library connects over 400 projects related to Black history and culture, allowing users to explore listings and subject coverage via a map and other visualizations.
+
+Miller, M. (August 17, 2026). [Miles & Trane at 100: Exploring the Davis and Coltrane centennial with Linked Jazz.](https://semlab.io/blog/davis-coltrane-centennial.html) Semantic Lab at Pratt.
 
 Hwang, K.L. (October 29, 2023). [Women in Jazz Projects: Semantic Lab + Wikimedia Structured Data Tools](https://docs.google.com/presentation/d/1i92fQgzUgkya90YR1oB_wyO4UOUnD6O0Qvlns9PXth8/edit?usp=sharing). Presented at [Wikidata Day 2023 in New York City](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/Wikidata_Day_2023).
 
