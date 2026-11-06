@@ -194,6 +194,14 @@
         where its 418 members lived and a searchable directory of their names,
         instruments, and addresses, driven by SPARQL queries against the Lab's
         Wikibase.
+    - title: Zena Latto Project
+      url: https://semlab.io/linked-jazz-zena-latto/
+      thumb: linked-jazz-zena-latto-300.webp
+      about: >-
+        The recovered story of Zena Latto, clarinetist and saxophonist, who
+        played an all-female jazz concert at Carnegie Recital Hall in 1957
+        that the hall had no record of. Her flyer for that night, the people
+        she named in her 2015 oral history, and a timeline of her life.
     - title: Linked Jazz 52nd Street
       url: https://linkedjazz.org/52ndStreet/
       thumb: linked-jazz-52nd-street-300.webp
