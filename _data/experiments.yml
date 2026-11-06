@@ -185,6 +185,15 @@
         clear that a sizable population of outstanding women musicians were
         little known, a finding that led to the Women of Jazz project and its
         Wikipedia edit-a-thons.
+    - title: Linked Jazz Local 496
+      url: https://semlab.io/linked-jazz-local-496/
+      thumb: linked-jazz-local-496-300.webp
+      about: >-
+        The membership directory of American Federation of Musicians Local
+        496, the African-American musicians' union of New Orleans. A map of
+        where its 418 members lived and a searchable directory of their names,
+        instruments, and addresses, driven by SPARQL queries against the Lab's
+        Wikibase.
     - title: Linked Jazz 52nd Street
       url: https://linkedjazz.org/52ndStreet/
       thumb: linked-jazz-52nd-street-300.webp
