@@ -4,6 +4,7 @@ title: Experiments
 permalink: /experiments/
 ---
 <h1 class="page-heading">Experiments</h1>
+<p>Curated views and tools built on the Lab's knowledge graphs for analysis, exploration, and discovery.</p>
 
 <p class="page-index">Jump to:
 {% for section in site.data.experiments %}<a href="#{{ section.id }}">{{ section.title }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}
