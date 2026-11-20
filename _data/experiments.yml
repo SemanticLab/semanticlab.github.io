@@ -43,6 +43,13 @@
         tree. Pick a category such as plastics and foams, follow its branches
         to specific materials like Mylar, Plexiglass, or Scotchpak, and see
         which works used them, from Silver Clouds to the Pepsi Pavilion.
+    - title: E.A.T. beyond New York
+      url: https://semlab.io/eat-beyond-new-york/
+      thumb: eat-beyond-new-york-300.webp
+      about: >-
+        A map of where the people, events, and venues tied to E.A.T. were,
+        outside New York. Each circle is an area. Choose one to see its
+        network and a register of names, drawn from the Knowledge Graph.
 
 - title: E.A.T. Technical Services Project
   id: eat-technical-services
