@@ -9,6 +9,15 @@
     Knowledge Graph, built from the Robert Rauschenberg Foundation Archives'
     collection documenting Experiments in Art and Technology.
   items:
+    - title: E.A.T. Explore
+      url: https://semlab.io/eat-explore
+      thumb: eat-explore-300.webp
+      about: >-
+        Eight ways into the E.A.T. records in the Lab's Wikibase, each page
+        drawn live from SPARQL queries. In Paper Trail the archive documents
+        drift on screen; pick one and everything it names, depicts, or was
+        sent to fans out from it, hop by hop. Also a timeline, a map, the
+        Technical Services card file, 9 Evenings night by night, and more.
     - title: Artworks
       url: https://semlab.io/eat-networks/artworks-2d/
       thumb: artworks-2d-300.webp
